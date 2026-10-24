@@ -1,0 +1,2716 @@
+booking_id,clinic_id,channel,status,collected_at,phlebotomist_id
+nova_jai_0049772,JAI-01,clinic,collected,2026-05-30 06:25:00,
+nova_jai_0049773,JAI-01,clinic,no_show,,
+nova_jai_0049774,JAI-01,clinic,collected,2026-05-02 18:46:00,
+nova_jai_0049775,JAI-04,clinic,collected,2026-05-05 13:47:00,
+nova_jai_0049776,JAI-02,home,collected,2026-05-17 07:08:00,PHJAI023
+nova_jai_0049777,JAI-01,clinic,collected,2026-05-23 16:52:00,
+nova_jai_0049778,JAI-02,clinic,collected,2026-05-19 19:08:00,
+nova_jai_0049779,JAI-01,home,collected,2026-05-28 09:48:00,PHJAI021
+nova_jai_0049780,JAI-01,home,no_show,,PHJAI005
+nova_jai_0049781,JAI-01,clinic,collected,2026-05-02 10:01:00,
+nova_jai_0049782,JAI-01,clinic,collected,2026-05-13 08:20:00,
+nova_jai_0049783,JAI-02,clinic,collected,2026-05-09 18:44:00,
+nova_jai_0049784,JAI-01,home,collected,2026-05-22 14:58:00,PHJAI044
+nova_jai_0049785,JAI-01,home,collected,2026-05-26 17:53:00,PHJAI030
+nova_jai_0049786,JAI-01,clinic,collected,2026-05-29 09:33:00,
+nova_jai_0049787,JAI-04,clinic,collected,2026-05-27 14:09:00,
+nova_jai_0049788,JAI-03,clinic,no_show,,
+nova_jai_0049789,JAI-03,clinic,collected,2026-05-06 07:08:00,
+nova_jai_0049791,JAI-02,clinic,no_show,,
+nova_jai_0049792,JAI-01,home,collected,2026-05-05 10:46:00,PHJAI028
+nova_jai_0049793,JAI-03,clinic,no_show,,
+nova_jai_0049794,JAI-02,home,collected,2026-05-12 12:49:00,PHJAI042
+nova_jai_0049795,JAI-03,clinic,collected,2026-05-11 06:13:00,
+nova_jai_0049796,JAI-02,clinic,collected,2026-05-01 11:27:00,
+nova_jai_0049797,JAI-01,home,collected,2026-05-13 13:51:00,PHJAI045
+nova_jai_0049798,JAI-01,clinic,collected,2026-05-05 05:54:00,
+nova_jai_0049799,JAI-01,clinic,collected,2026-05-09 06:45:00,
+nova_jai_0049800,JAI-04,clinic,collected,2026-05-31 19:19:00,
+nova_jai_0049801,JAI-03,home,collected,2026-05-05 10:00:00,PHJAI040
+nova_jai_0049802,JAI-03,clinic,collected,2026-05-26 12:13:00,
+nova_jai_0049803,JAI-03,home,collected,2026-05-09 09:36:00,PHJAI023
+nova_jai_0049804,JAI-01,home,collected,2026-05-28 11:17:00,PHJAI044
+nova_jai_0049805,JAI-03,home,collected,2026-05-27 07:49:00,PHJAI010
+nova_jai_0049806,JAI-01,home,collected,2026-05-02 07:54:00,PHJAI008
+nova_jai_0049807,JAI-04,clinic,collected,2026-05-18 09:41:00,
+nova_jai_0049808,JAI-02,home,collected,2026-05-13 11:18:00,PHJAI041
+nova_jai_0049809,JAI-01,clinic,collected,2026-05-30 17:57:00,
+nova_jai_0049810,JAI-03,home,collected,2026-05-31 17:20:00,PHJAI025
+nova_jai_0049811,JAI-01,home,collected,2026-05-16 18:13:00,PHJAI024
+nova_jai_0049812,JAI-01,home,collected,2026-05-16 12:12:00,PHJAI036
+nova_jai_0049813,JAI-03,home,collected,2026-05-21 12:53:00,PHJAI001
+nova_jai_0049814,JAI-01,home,collected,2026-05-04 12:59:00,PHJAI058
+nova_jai_0049815,JAI-01,home,collected,2026-05-06 10:17:00,PHJAI012
+nova_jai_0049816,JAI-01,clinic,collected,2026-05-31 11:39:00,
+nova_jai_0049817,JAI-03,clinic,collected,2026-05-09 09:30:00,
+nova_jai_0049818,JAI-03,home,collected,2026-05-08 11:47:00,PHJAI016
+nova_jai_0049819,JAI-01,clinic,collected,2026-05-21 14:32:00,
+nova_jai_0049820,JAI-03,clinic,collected,2026-05-30 13:10:00,
+nova_jai_0049821,JAI-04,home,no_show,,PHJAI047
+nova_jai_0049822,JAI-03,home,collected,2026-05-21 07:31:00,PHJAI041
+nova_jai_0049823,JAI-01,clinic,collected,2026-05-17 09:59:00,
+nova_jai_0049824,JAI-01,clinic,collected,2026-05-29 08:55:00,
+nova_jai_0049825,JAI-03,clinic,no_show,,
+nova_jai_0049826,JAI-04,clinic,collected,2026-05-19 16:09:00,
+nova_jai_0049827,JAI-01,clinic,collected,2026-05-07 07:25:00,
+nova_jai_0049828,JAI-01,home,no_show,,PHJAI009
+nova_jai_0049829,JAI-02,clinic,collected,2026-05-24 13:59:00,
+nova_jai_0049830,JAI-02,clinic,collected,2026-05-02 07:52:00,
+nova_jai_0049831,JAI-03,home,collected,2026-05-12 08:39:00,PHJAI025
+nova_jai_0049832,JAI-01,clinic,collected,2026-05-08 10:06:00,
+nova_jai_0049833,JAI-01,clinic,no_show,,
+nova_jai_0049834,JAI-03,clinic,collected,2026-05-26 17:58:00,
+nova_jai_0049835,JAI-02,clinic,collected,2026-05-06 10:28:00,
+nova_jai_0049836,JAI-03,clinic,collected,2026-05-25 20:21:00,
+nova_jai_0049837,JAI-01,home,collected,2026-05-21 12:40:00,PHJAI055
+nova_jai_0049838,JAI-01,clinic,collected,2026-05-05 17:01:00,
+nova_jai_0049839,JAI-01,clinic,no_show,,
+nova_jai_0049840,JAI-04,home,collected,2026-05-24 07:19:00,PHJAI014
+nova_jai_0049841,JAI-01,clinic,collected,2026-05-05 08:02:00,
+nova_jai_0049842,JAI-02,clinic,collected,2026-05-18 08:34:00,
+nova_jai_0049843,JAI-03,home,collected,2026-05-27 20:31:00,PHJAI005
+nova_jai_0049844,JAI-01,clinic,collected,2026-05-26 07:46:00,
+nova_jai_0049845,JAI-03,clinic,collected,2026-05-16 17:28:00,
+nova_jai_0049846,JAI-04,clinic,collected,2026-05-22 09:03:00,
+nova_jai_0049847,JAI-02,home,collected,2026-05-07 14:06:00,PHJAI027
+nova_jai_0049848,JAI-02,home,collected,2026-05-12 13:02:00,PHJAI036
+nova_jai_0049849,JAI-04,clinic,no_show,,
+nova_jai_0049850,JAI-02,clinic,collected,2026-05-28 16:17:00,
+nova_jai_0049851,JAI-02,home,collected,2026-05-01 08:27:00,PHJAI009
+nova_jai_0049852,JAI-01,clinic,no_show,,
+nova_jai_0049853,JAI-01,home,collected,2026-05-27 09:18:00,PHJAI052
+nova_jai_0049854,JAI-04,clinic,collected,2026-05-17 17:42:00,
+nova_jai_0049855,JAI-01,clinic,collected,2026-05-10 09:52:00,
+nova_jai_0049856,JAI-02,home,no_show,,PHJAI028
+nova_jai_0049857,JAI-02,home,collected,2026-05-18 12:38:00,PHJAI014
+nova_jai_0049858,JAI-04,home,collected,2026-05-15 18:34:00,PHJAI057
+nova_jai_0049859,JAI-04,clinic,collected,2026-05-10 14:39:00,
+nova_jai_0049860,JAI-01,clinic,collected,2026-05-14 13:24:00,
+nova_jai_0049861,JAI-02,clinic,collected,2026-05-06 18:14:00,
+nova_jai_0049862,JAI-01,clinic,no_show,,
+nova_jai_0049863,JAI-01,home,collected,2026-05-30 08:59:00,PHJAI052
+nova_jai_0049864,JAI-01,clinic,collected,2026-05-12 07:37:00,
+nova_jai_0049865,JAI-03,clinic,collected,2026-05-03 10:16:00,
+nova_jai_0049866,JAI-01,home,collected,2026-05-27 11:35:00,PHJAI059
+nova_jai_0049867,JAI-01,home,collected,2026-05-28 09:33:00,PHJAI005
+nova_jai_0049868,JAI-04,clinic,no_show,,
+nova_jai_0049869,JAI-04,clinic,collected,2026-05-05 10:32:00,
+nova_jai_0049870,JAI-01,clinic,collected,2026-05-18 11:30:00,
+nova_jai_0049871,JAI-02,clinic,collected,2026-05-14 06:15:00,
+nova_jai_0049872,JAI-02,clinic,collected,2026-05-04 09:52:00,
+nova_jai_0049873,JAI-03,clinic,collected,2026-05-29 14:28:00,
+nova_jai_0049874,JAI-02,clinic,collected,2026-05-02 11:16:00,
+nova_jai_0049875,JAI-03,clinic,collected,2026-05-28 20:05:00,
+nova_jai_0049876,JAI-03,clinic,collected,2026-05-03 11:08:00,
+nova_jai_0049877,JAI-03,clinic,collected,2026-05-12 18:32:00,
+nova_jai_0049878,JAI-03,clinic,no_show,,
+nova_jai_0049879,JAI-01,clinic,collected,2026-05-29 06:29:00,
+nova_jai_0049880,JAI-02,clinic,collected,2026-05-10 08:26:00,
+nova_jai_0049881,JAI-02,home,collected,2026-05-11 05:47:00,PHJAI015
+nova_jai_0049882,JAI-01,home,collected,2026-05-18 18:54:00,PHJAI052
+nova_jai_0049883,JAI-02,home,collected,2026-05-15 18:24:00,PHJAI041
+nova_jai_0049884,JAI-01,clinic,collected,2026-05-19 11:04:00,
+nova_jai_0049885,JAI-01,home,collected,2026-05-20 12:30:00,PHJAI038
+nova_jai_0049886,JAI-03,clinic,no_show,,
+nova_jai_0049887,JAI-03,clinic,no_show,,
+nova_jai_0049888,JAI-01,home,collected,2026-05-22 14:20:00,PHJAI026
+nova_jai_0049889,JAI-01,home,collected,2026-05-26 09:12:00,PHJAI051
+nova_jai_0049890,JAI-02,clinic,no_show,,
+nova_jai_0049891,JAI-02,clinic,collected,2026-05-27 18:52:00,
+nova_jai_0049892,JAI-01,home,collected,2026-05-15 18:47:00,PHJAI009
+nova_jai_0049893,JAI-01,clinic,collected,2026-05-04 09:47:00,
+nova_jai_0049894,JAI-01,home,collected,2026-05-09 08:22:00,PHJAI057
+nova_jai_0049895,JAI-02,clinic,no_show,,
+nova_jai_0049896,JAI-04,home,collected,2026-05-09 08:35:00,PHJAI044
+nova_jai_0049897,JAI-01,clinic,collected,2026-05-23 13:06:00,
+nova_jai_0049898,JAI-04,clinic,collected,2026-05-14 18:27:00,
+nova_jai_0049899,JAI-01,home,collected,2026-05-17 09:33:00,PHJAI028
+nova_jai_0049900,JAI-04,home,collected,2026-05-31 17:56:00,PHJAI057
+nova_jai_0049901,JAI-01,clinic,collected,2026-05-10 09:50:00,
+nova_jai_0049902,JAI-02,clinic,collected,2026-05-08 14:17:00,
+nova_jai_0049903,JAI-01,clinic,collected,2026-05-11 13:26:00,
+nova_jai_0049904,JAI-05,clinic,no_show,,
+nova_jai_0049905,JAI-01,home,collected,2026-05-01 10:28:00,PHJAI047
+nova_jai_0049906,JAI-05,clinic,collected,2026-05-01 13:42:00,
+nova_jai_0049907,JAI-01,clinic,no_show,,
+nova_jai_0049908,JAI-01,clinic,collected,2026-05-29 17:24:00,
+nova_jai_0049909,JAI-03,clinic,collected,2026-05-16 16:08:00,
+nova_jai_0049910,JAI-01,clinic,collected,2026-05-02 18:31:00,
+nova_jai_0049911,JAI-01,clinic,collected,2026-05-11 14:11:00,
+nova_jai_0049912,JAI-02,clinic,collected,2026-05-11 08:59:00,
+nova_jai_0049913,JAI-01,clinic,no_show,,
+nova_jai_0049914,JAI-02,clinic,collected,2026-05-09 07:54:00,
+nova_jai_0049915,JAI-01,home,collected,2026-05-02 12:03:00,PHJAI016
+nova_jai_0049916,JAI-02,clinic,collected,2026-05-08 10:01:00,
+nova_jai_0049917,JAI-01,clinic,collected,2026-05-03 10:26:00,
+nova_jai_0049918,JAI-02,clinic,collected,2026-05-07 12:36:00,
+nova_jai_0049919,JAI-02,clinic,collected,2026-05-29 17:06:00,
+nova_jai_0049920,JAI-01,home,collected,2026-05-27 08:45:00,PHJAI020
+nova_jai_0049921,JAI-03,home,collected,2026-05-14 08:29:00,PHJAI028
+nova_jai_0049922,JAI-01,clinic,collected,2026-05-25 09:53:00,
+nova_jai_0049923,JAI-03,clinic,collected,2026-05-13 12:42:00,
+nova_jai_0049924,JAI-03,home,collected,2026-05-28 12:00:00,PHJAI037
+nova_jai_0049925,JAI-01,clinic,collected,2026-05-07 10:23:00,
+nova_jai_0049926,JAI-02,clinic,collected,2026-05-12 06:58:00,
+nova_jai_0049927,JAI-05,clinic,collected,2026-05-19 09:14:00,
+nova_jai_0049928,JAI-03,clinic,no_show,,
+nova_jai_0049929,JAI-02,clinic,no_show,,
+nova_jai_0049930,JAI-02,home,collected,2026-05-09 07:46:00,PHJAI024
+nova_jai_0049931,JAI-04,clinic,collected,2026-05-18 06:09:00,
+nova_jai_0049932,JAI-03,clinic,collected,2026-05-30 17:30:00,
+nova_jai_0049933,JAI-01,clinic,collected,2026-05-28 11:24:00,
+nova_jai_0049934,JAI-01,clinic,collected,2026-05-27 13:43:00,
+nova_jai_0049935,JAI-01,clinic,no_show,,
+nova_jai_0049936,JAI-02,clinic,collected,2026-05-21 12:49:00,
+nova_jai_0049937,JAI-01,home,collected,2026-05-06 17:41:00,PHJAI009
+nova_jai_0049938,JAI-02,home,collected,2026-05-15 10:50:00,PHJAI037
+nova_jai_0049939,JAI-03,clinic,collected,2026-05-05 13:13:00,
+nova_jai_0049940,JAI-04,home,collected,2026-05-16 08:31:00,PHJAI057
+nova_jai_0049941,JAI-03,home,collected,2026-05-16 07:17:00,PHJAI048
+nova_jai_0049942,JAI-01,clinic,collected,2026-05-22 08:08:00,
+nova_jai_0049943,JAI-01,clinic,collected,2026-05-30 06:07:00,
+nova_jai_0049944,JAI-01,home,collected,2026-05-17 08:52:00,PHJAI046
+nova_jai_0049945,JAI-01,home,collected,2026-05-23 18:30:00,PHJAI007
+nova_jai_0049946,JAI-04,clinic,collected,2026-05-07 09:50:00,
+nova_jai_0049947,JAI-01,home,collected,2026-05-19 19:26:00,PHJAI028
+nova_jai_0049949,JAI-01,clinic,collected,2026-05-13 09:41:00,
+nova_jai_0049950,JAI-03,clinic,collected,2026-05-09 07:25:00,
+nova_jai_0049951,JAI-02,clinic,no_show,,
+nova_jai_0049952,JAI-01,clinic,collected,2026-05-22 12:59:00,
+nova_jai_0049953,JAI-03,home,collected,2026-05-05 06:14:00,PHJAI058
+nova_jai_0049954,JAI-02,clinic,no_show,,
+nova_jai_0049955,JAI-02,clinic,collected,2026-05-29 10:03:00,
+nova_jai_0049956,JAI-02,clinic,collected,2026-05-05 07:14:00,
+nova_jai_0049957,JAI-01,clinic,collected,2026-05-15 07:43:00,
+nova_jai_0049958,JAI-01,clinic,collected,2026-05-24 06:49:00,
+nova_jai_0049959,JAI-04,home,collected,2026-05-29 16:42:00,PHJAI013
+nova_jai_0049961,JAI-03,clinic,collected,2026-05-23 09:49:00,
+nova_jai_0049962,JAI-01,home,collected,2026-05-08 19:41:00,PHJAI020
+nova_jai_0049963,JAI-02,clinic,collected,2026-05-11 06:28:00,
+nova_jai_0049964,JAI-01,clinic,collected,2026-05-03 14:34:00,
+nova_jai_0049965,JAI-02,clinic,collected,2026-05-02 13:35:00,
+nova_jai_0049966,JAI-01,clinic,collected,2026-05-29 07:44:00,
+nova_jai_0049967,JAI-02,home,collected,2026-05-09 09:28:00,PHJAI013
+nova_jai_0049968,JAI-05,clinic,collected,2026-05-10 07:05:00,
+nova_jai_0049969,JAI-04,clinic,no_show,,
+nova_jai_0049970,JAI-01,clinic,collected,2026-05-05 13:20:00,
+nova_jai_0049971,JAI-01,clinic,collected,2026-05-16 06:59:00,
+nova_jai_0049972,JAI-02,clinic,no_show,,
+nova_jai_0049973,JAI-04,home,collected,2026-05-20 17:13:00,PHJAI058
+nova_jai_0049974,JAI-02,clinic,collected,2026-05-09 14:14:00,
+nova_jai_0049975,JAI-02,clinic,no_show,,
+nova_jai_0049977,JAI-04,home,collected,2026-05-29 19:48:00,PHJAI017
+nova_jai_0049978,JAI-01,home,collected,2026-05-07 17:19:00,PHJAI047
+nova_jai_0049979,JAI-03,clinic,collected,2026-05-01 17:57:00,
+nova_jai_0049980,JAI-05,clinic,no_show,,
+nova_jai_0049981,JAI-02,clinic,collected,2026-05-01 17:54:00,
+nova_jai_0049982,JAI-01,clinic,collected,2026-05-02 17:59:00,
+nova_jai_0049983,JAI-01,home,collected,2026-05-20 07:38:00,PHJAI018
+nova_jai_0049984,JAI-02,home,collected,2026-05-11 10:09:00,PHJAI058
+nova_jai_0049985,JAI-04,clinic,collected,2026-05-11 20:44:00,
+nova_jai_0049986,JAI-01,clinic,collected,2026-05-03 08:47:00,
+nova_jai_0049987,JAI-01,home,no_show,,PHJAI029
+nova_jai_0049988,JAI-01,clinic,collected,2026-05-05 10:34:00,
+nova_jai_0049989,JAI-01,home,collected,2026-05-10 17:42:00,PHJAI019
+nova_jai_0049990,JAI-01,clinic,collected,2026-05-10 19:22:00,
+nova_jai_0049991,JAI-03,home,collected,2026-05-24 18:03:00,PHJAI050
+nova_jai_0049992,JAI-01,home,collected,2026-05-04 20:27:00,PHJAI001
+nova_jai_0049993,JAI-01,home,collected,2026-05-04 19:24:00,PHJAI042
+nova_jai_0049994,JAI-03,clinic,collected,2026-05-10 14:10:00,
+nova_jai_0049995,JAI-03,clinic,no_show,,
+nova_jai_0049996,JAI-02,clinic,no_show,,
+nova_jai_0049997,JAI-02,home,collected,2026-05-18 07:27:00,PHJAI025
+nova_jai_0049998,JAI-01,clinic,collected,2026-05-07 11:33:00,
+nova_jai_0049999,JAI-01,clinic,collected,2026-05-01 20:09:00,
+nova_jai_0050000,JAI-01,clinic,collected,2026-05-27 20:08:00,
+nova_jai_0050001,JAI-04,clinic,collected,2026-05-07 10:10:00,
+nova_jai_0050002,JAI-03,clinic,collected,2026-05-20 09:53:00,
+nova_jai_0050003,JAI-02,clinic,collected,2026-05-01 18:55:00,
+nova_jai_0050004,JAI-04,home,collected,2026-05-07 13:56:00,PHJAI011
+nova_jai_0050005,JAI-01,home,collected,2026-05-23 06:57:00,PHJAI023
+nova_jai_0050006,JAI-02,clinic,no_show,,
+nova_jai_0050007,JAI-02,home,collected,2026-05-08 08:18:00,PHJAI010
+nova_jai_0050008,JAI-01,home,collected,2026-05-06 13:17:00,PHJAI039
+nova_jai_0050009,JAI-03,clinic,no_show,,
+nova_jai_0050010,JAI-01,home,collected,2026-05-30 14:18:00,PHJAI013
+nova_jai_0050011,JAI-02,home,collected,2026-05-10 11:02:00,PHJAI019
+nova_jai_0050012,JAI-01,home,no_show,,PHJAI039
+nova_jai_0050013,JAI-02,clinic,no_show,,
+nova_jai_0050014,JAI-01,clinic,collected,2026-05-23 15:14:00,
+nova_jai_0050015,JAI-03,clinic,collected,2026-05-29 09:28:00,
+nova_jai_0050016,JAI-02,home,collected,2026-05-13 19:32:00,PHJAI001
+nova_jai_0050017,JAI-01,home,collected,2026-05-25 17:45:00,PHJAI012
+nova_jai_0050018,JAI-01,clinic,collected,2026-05-02 10:25:00,
+nova_jai_0050019,JAI-01,clinic,collected,2026-05-10 08:33:00,
+nova_jai_0050020,JAI-01,home,collected,2026-05-06 08:39:00,PHJAI036
+nova_jai_0050021,JAI-02,home,collected,2026-05-27 20:48:00,PHJAI054
+nova_jai_0050022,JAI-04,home,collected,2026-05-10 14:46:00,PHJAI029
+nova_jai_0050023,JAI-01,home,collected,2026-05-01 12:34:00,PHJAI055
+nova_jai_0050024,JAI-01,home,collected,2026-05-17 10:01:00,PHJAI028
+nova_jai_0050025,JAI-01,home,collected,2026-05-02 09:42:00,PHJAI014
+nova_jai_0050026,JAI-02,clinic,collected,2026-05-24 17:12:00,
+nova_jai_0050027,JAI-01,home,collected,2026-05-27 07:28:00,PHJAI021
+nova_jai_0050028,JAI-03,clinic,collected,2026-05-06 10:30:00,
+nova_jai_0050029,JAI-01,clinic,collected,2026-05-27 16:31:00,
+nova_jai_0050030,JAI-02,clinic,collected,2026-05-20 17:19:00,
+nova_jai_0050031,JAI-03,clinic,collected,2026-05-24 13:39:00,
+nova_jai_0050032,JAI-02,clinic,collected,2026-05-02 09:24:00,
+nova_jai_0050033,JAI-03,clinic,collected,2026-05-14 09:15:00,
+nova_jai_0050034,JAI-03,clinic,no_show,,
+nova_jai_0050035,JAI-02,home,collected,2026-05-08 08:57:00,PHJAI059
+nova_jai_0050036,JAI-02,clinic,collected,2026-05-10 08:25:00,
+nova_jai_0050037,JAI-02,clinic,collected,2026-05-10 07:56:00,
+nova_jai_0050038,JAI-01,home,no_show,,PHJAI037
+nova_jai_0050039,JAI-01,home,collected,2026-05-18 09:29:00,PHJAI041
+nova_jai_0050040,JAI-01,home,collected,2026-05-27 07:18:00,PHJAI018
+nova_jai_0050041,JAI-03,clinic,collected,2026-05-27 08:48:00,
+nova_jai_0050042,JAI-01,home,collected,2026-05-09 06:59:00,PHJAI014
+nova_jai_0050043,JAI-01,home,no_show,,PHJAI007
+nova_jai_0050044,JAI-03,clinic,collected,2026-05-03 09:23:00,
+nova_jai_0050045,JAI-01,clinic,collected,2026-05-20 08:17:00,
+nova_jai_0050046,JAI-03,clinic,collected,2026-05-12 08:36:00,
+nova_jai_0050047,JAI-03,home,collected,2026-05-06 12:41:00,PHJAI048
+nova_jai_0050048,JAI-03,home,collected,2026-05-03 08:34:00,PHJAI039
+nova_jai_0050049,JAI-04,home,collected,2026-05-07 06:03:00,PHJAI033
+nova_jai_0050050,JAI-03,home,collected,2026-05-03 20:19:00,PHJAI001
+nova_jai_0050051,JAI-02,home,collected,2026-05-15 08:09:00,PHJAI022
+nova_jai_0050052,JAI-04,home,collected,2026-05-23 07:12:00,PHJAI027
+nova_jai_0050053,JAI-01,clinic,collected,2026-05-24 10:22:00,
+nova_jai_0050054,JAI-02,clinic,collected,2026-05-23 08:04:00,
+nova_jai_0050055,JAI-03,clinic,collected,2026-05-16 17:24:00,
+nova_jai_0050056,JAI-02,home,collected,2026-05-22 10:03:00,PHJAI029
+nova_jai_0050057,JAI-02,home,collected,2026-05-03 13:10:00,PHJAI051
+nova_jai_0050058,JAI-03,clinic,collected,2026-05-31 10:54:00,
+nova_jai_0050059,JAI-03,clinic,collected,2026-05-28 10:29:00,
+nova_jai_0050060,JAI-01,clinic,collected,2026-05-31 08:18:00,
+nova_jai_0050061,JAI-01,home,collected,2026-05-03 16:45:00,PHJAI056
+nova_jai_0050062,JAI-01,clinic,collected,2026-05-18 07:12:00,
+nova_jai_0050063,JAI-02,clinic,collected,2026-05-01 10:20:00,
+nova_jai_0050064,JAI-02,clinic,collected,2026-05-30 10:26:00,
+nova_jai_0050065,JAI-01,clinic,collected,2026-05-20 09:35:00,
+nova_jai_0050066,JAI-01,clinic,collected,2026-05-09 07:41:00,
+nova_jai_0050067,JAI-02,home,collected,2026-05-11 08:25:00,PHJAI057
+nova_jai_0050068,JAI-01,home,collected,2026-05-08 13:41:00,PHJAI020
+nova_jai_0050069,JAI-02,home,collected,2026-05-22 09:54:00,PHJAI053
+nova_jai_0050070,JAI-02,clinic,collected,2026-05-26 10:22:00,
+nova_jai_0050071,JAI-04,clinic,collected,2026-05-04 08:51:00,
+nova_jai_0050072,JAI-02,home,collected,2026-05-04 10:25:00,PHJAI041
+nova_jai_0050073,JAI-03,clinic,collected,2026-05-08 07:28:00,
+nova_jai_0050074,JAI-04,clinic,collected,2026-05-13 10:06:00,
+nova_jai_0050075,JAI-01,home,collected,2026-05-07 14:06:00,PHJAI037
+nova_jai_0050076,JAI-03,clinic,collected,2026-05-16 11:28:00,
+nova_jai_0050077,JAI-02,home,collected,2026-05-26 18:29:00,PHJAI034
+nova_jai_0050078,JAI-01,home,collected,2026-05-27 18:29:00,PHJAI013
+nova_jai_0050079,JAI-01,clinic,collected,2026-05-27 07:10:00,
+nova_jai_0050080,JAI-04,home,collected,2026-05-12 12:28:00,PHJAI015
+nova_jai_0050081,JAI-03,home,collected,2026-05-12 09:39:00,PHJAI040
+nova_jai_0050082,JAI-04,clinic,collected,2026-05-08 10:00:00,
+nova_jai_0050083,JAI-01,home,collected,2026-05-10 14:02:00,PHJAI003
+nova_jai_0050084,JAI-01,clinic,collected,2026-05-15 18:35:00,
+nova_jai_0050085,JAI-01,home,collected,2026-05-04 10:02:00,PHJAI047
+nova_jai_0050086,JAI-01,clinic,collected,2026-05-26 10:17:00,
+nova_jai_0050087,JAI-02,clinic,collected,2026-05-13 17:38:00,
+nova_jai_0050088,JAI-01,clinic,collected,2026-05-02 11:15:00,
+nova_jai_0050089,JAI-02,clinic,collected,2026-05-09 13:50:00,
+nova_jai_0050090,JAI-04,clinic,collected,2026-05-28 20:35:00,
+nova_jai_0050091,JAI-02,clinic,collected,2026-05-25 10:19:00,
+nova_jai_0050092,JAI-03,clinic,collected,2026-05-06 18:04:00,
+nova_jai_0050093,JAI-01,clinic,no_show,,
+nova_jai_0050094,JAI-03,clinic,collected,2026-05-05 07:45:00,
+nova_jai_0050095,JAI-02,home,collected,2026-05-20 08:31:00,PHJAI017
+nova_jai_0050096,JAI-04,home,collected,2026-05-19 07:38:00,PHJAI023
+nova_jai_0050097,JAI-03,clinic,collected,2026-05-21 16:00:00,
+nova_jai_0050098,JAI-02,home,collected,2026-05-04 11:35:00,PHJAI050
+nova_jai_0050099,JAI-01,home,collected,2026-05-12 09:56:00,PHJAI059
+nova_jai_0050100,JAI-03,clinic,collected,2026-05-01 18:30:00,
+nova_jai_0050101,JAI-02,clinic,no_show,,
+nova_jai_0050102,JAI-01,clinic,collected,2026-05-10 07:18:00,
+nova_jai_0050103,JAI-04,clinic,collected,2026-05-20 09:38:00,
+nova_jai_0050104,JAI-02,clinic,collected,2026-05-09 08:42:00,
+nova_jai_0050105,JAI-01,clinic,collected,2026-05-27 07:51:00,
+nova_jai_0050106,JAI-01,clinic,no_show,,
+nova_jai_0050107,JAI-02,home,collected,2026-05-04 09:44:00,PHJAI003
+nova_jai_0050108,JAI-01,clinic,collected,2026-05-24 11:46:00,
+nova_jai_0050109,JAI-01,home,collected,2026-05-19 09:15:00,PHJAI032
+nova_jai_0050110,JAI-01,home,collected,2026-05-10 10:33:00,PHJAI034
+nova_jai_0050111,JAI-02,clinic,no_show,,
+nova_jai_0050113,JAI-01,home,collected,2026-05-01 19:34:00,PHJAI016
+nova_jai_0050114,JAI-01,clinic,no_show,,
+nova_jai_0050115,JAI-04,home,collected,2026-05-19 08:38:00,PHJAI028
+nova_jai_0050116,JAI-01,home,collected,2026-05-07 13:35:00,PHJAI057
+nova_jai_0050117,JAI-02,clinic,collected,2026-05-15 12:59:00,
+nova_jai_0050118,JAI-02,clinic,no_show,,
+nova_jai_0050119,JAI-01,clinic,no_show,,
+nova_jai_0050120,JAI-03,home,collected,2026-05-11 11:58:00,PHJAI021
+nova_jai_0050121,JAI-03,clinic,collected,2026-05-23 08:59:00,
+nova_jai_0050122,JAI-01,clinic,no_show,,
+nova_jai_0050123,JAI-03,clinic,collected,2026-05-11 09:00:00,
+nova_jai_0050124,JAI-02,clinic,no_show,,
+nova_jai_0050125,JAI-01,clinic,collected,2026-05-04 08:48:00,
+nova_jai_0050126,JAI-04,home,collected,2026-05-12 06:42:00,PHJAI053
+nova_jai_0050127,JAI-01,clinic,no_show,,
+nova_jai_0050128,JAI-01,home,collected,2026-05-10 06:50:00,PHJAI058
+nova_jai_0050129,JAI-03,clinic,no_show,,
+nova_jai_0050130,JAI-04,clinic,collected,2026-05-26 09:46:00,
+nova_jai_0050131,JAI-02,home,collected,2026-05-20 06:45:00,PHJAI020
+nova_jai_0050132,JAI-02,clinic,collected,2026-05-23 17:11:00,
+nova_jai_0050133,JAI-01,clinic,collected,2026-05-17 16:13:00,
+nova_jai_0050134,JAI-01,clinic,collected,2026-05-22 06:37:00,
+nova_jai_0050135,JAI-02,clinic,collected,2026-05-30 08:47:00,
+nova_jai_0050136,JAI-01,clinic,collected,2026-05-25 10:18:00,
+nova_jai_0050137,JAI-04,home,collected,2026-05-22 12:19:00,PHJAI052
+nova_jai_0050138,JAI-04,clinic,collected,2026-05-13 07:57:00,
+nova_jai_0050139,JAI-03,clinic,collected,2026-05-02 14:19:00,
+nova_jai_0050140,JAI-04,clinic,no_show,,
+nova_jai_0050141,JAI-02,clinic,collected,2026-05-20 12:42:00,
+nova_jai_0050142,JAI-01,home,collected,2026-05-16 09:28:00,PHJAI003
+nova_jai_0050143,JAI-03,home,collected,2026-05-12 11:46:00,PHJAI048
+nova_jai_0050144,JAI-03,home,collected,2026-05-08 17:43:00,PHJAI027
+nova_jai_0050145,JAI-04,home,collected,2026-05-26 18:45:00,PHJAI001
+nova_jai_0050146,JAI-04,clinic,no_show,,
+nova_jai_0050147,JAI-03,clinic,collected,2026-05-23 10:39:00,
+nova_jai_0050148,JAI-02,clinic,no_show,,
+nova_jai_0050149,JAI-01,clinic,no_show,,
+nova_jai_0050150,JAI-05,clinic,no_show,,
+nova_jai_0050151,JAI-04,clinic,collected,2026-05-11 10:06:00,
+nova_jai_0050152,JAI-01,clinic,no_show,,
+nova_jai_0050153,JAI-02,clinic,collected,2026-05-27 08:04:00,
+nova_jai_0050154,JAI-03,home,collected,2026-05-06 20:51:00,PHJAI015
+nova_jai_0050155,JAI-04,home,collected,2026-05-01 14:59:00,PHJAI059
+nova_jai_0050156,JAI-04,clinic,no_show,,
+nova_jai_0050157,JAI-01,clinic,collected,2026-05-12 08:03:00,
+nova_jai_0050158,JAI-02,clinic,collected,2026-05-11 14:06:00,
+nova_jai_0050159,JAI-01,clinic,collected,2026-05-26 09:08:00,
+nova_jai_0050160,JAI-01,home,collected,2026-05-04 11:32:00,PHJAI003
+nova_jai_0050161,JAI-01,home,collected,2026-05-13 12:27:00,PHJAI032
+nova_jai_0050162,JAI-03,clinic,collected,2026-05-01 19:49:00,
+nova_jai_0050163,JAI-03,home,collected,2026-05-14 09:23:00,PHJAI008
+nova_jai_0050164,JAI-03,clinic,collected,2026-05-09 20:29:00,
+nova_jai_0050165,JAI-01,home,collected,2026-05-29 11:54:00,PHJAI021
+nova_jai_0050166,JAI-03,clinic,collected,2026-05-17 10:37:00,
+nova_jai_0050167,JAI-01,clinic,no_show,,
+nova_jai_0050168,JAI-01,home,collected,2026-05-30 19:25:00,PHJAI025
+nova_jai_0050169,JAI-01,clinic,collected,2026-05-14 06:17:00,
+nova_jai_0050170,JAI-04,home,collected,2026-05-24 18:10:00,PHJAI054
+nova_jai_0050171,JAI-03,home,collected,2026-05-18 19:22:00,PHJAI001
+nova_jai_0050172,JAI-02,home,collected,2026-05-09 08:26:00,PHJAI038
+nova_jai_0050173,JAI-02,home,collected,2026-05-23 19:46:00,PHJAI043
+nova_jai_0050174,JAI-02,clinic,no_show,,
+nova_jai_0050175,JAI-01,clinic,collected,2026-05-29 17:56:00,
+nova_jai_0050176,JAI-04,clinic,collected,2026-05-17 13:32:00,
+nova_jai_0050177,JAI-03,home,collected,2026-05-04 06:36:00,PHJAI027
+nova_jai_0050178,JAI-04,clinic,collected,2026-05-15 06:57:00,
+nova_jai_0050179,JAI-02,home,collected,2026-05-30 11:30:00,PHJAI020
+nova_jai_0050180,JAI-04,home,collected,2026-05-29 07:28:00,PHJAI020
+nova_jai_0050181,JAI-03,home,collected,2026-05-25 17:55:00,PHJAI026
+nova_jai_0050183,JAI-02,home,collected,2026-05-19 12:14:00,PHJAI023
+nova_jai_0050184,JAI-01,home,collected,2026-05-06 08:37:00,PHJAI018
+nova_jai_0050185,JAI-01,clinic,collected,2026-05-14 12:12:00,
+nova_jai_0050186,JAI-01,home,collected,2026-05-02 10:56:00,PHJAI026
+nova_jai_0050187,JAI-01,clinic,collected,2026-05-03 14:24:00,
+nova_jai_0050188,JAI-03,clinic,collected,2026-05-26 08:10:00,
+nova_jai_0050189,JAI-04,home,collected,2026-05-15 07:51:00,PHJAI039
+nova_jai_0050190,JAI-02,home,collected,2026-05-16 16:12:00,PHJAI038
+nova_jai_0050191,JAI-01,home,collected,2026-05-06 07:19:00,PHJAI007
+nova_jai_0050192,JAI-02,home,collected,2026-05-03 19:34:00,PHJAI040
+nova_jai_0050194,JAI-01,clinic,collected,2026-05-09 19:54:00,
+nova_jai_0050195,JAI-01,home,collected,2026-05-12 10:27:00,PHJAI009
+nova_jai_0050196,JAI-01,clinic,collected,2026-05-27 10:37:00,
+nova_jai_0050197,JAI-04,clinic,collected,2026-05-17 20:19:00,
+nova_jai_0050198,JAI-02,home,collected,2026-05-15 08:30:00,PHJAI018
+nova_jai_0050199,JAI-02,home,collected,2026-05-07 07:49:00,PHJAI033
+nova_jai_0050200,JAI-01,home,collected,2026-05-01 16:26:00,PHJAI044
+nova_jai_0050201,JAI-02,clinic,collected,2026-05-09 09:21:00,
+nova_jai_0050202,JAI-03,clinic,collected,2026-05-16 17:17:00,
+nova_jai_0050203,JAI-02,clinic,collected,2026-05-03 12:02:00,
+nova_jai_0050204,JAI-03,clinic,no_show,,
+nova_jai_0050205,JAI-01,clinic,collected,2026-05-23 12:43:00,
+nova_jai_0050206,JAI-01,clinic,collected,2026-05-30 13:08:00,
+nova_jai_0050207,JAI-03,clinic,collected,2026-05-25 06:53:00,
+nova_jai_0050208,JAI-01,clinic,collected,2026-05-24 09:09:00,
+nova_jai_0050209,JAI-04,clinic,no_show,,
+nova_jai_0050210,JAI-01,clinic,collected,2026-05-12 10:41:00,
+nova_jai_0050211,JAI-02,clinic,collected,2026-05-12 18:38:00,
+nova_jai_0050212,JAI-01,clinic,collected,2026-05-25 07:36:00,
+nova_jai_0050213,JAI-01,home,collected,2026-05-10 11:50:00,PHJAI021
+nova_jai_0050214,JAI-04,clinic,collected,2026-05-30 17:56:00,
+nova_jai_0050215,JAI-03,clinic,collected,2026-05-07 12:45:00,
+nova_jai_0050216,JAI-01,clinic,collected,2026-05-08 09:46:00,
+nova_jai_0050217,JAI-01,clinic,collected,2026-05-11 18:39:00,
+nova_jai_0050218,JAI-03,clinic,collected,2026-05-13 18:37:00,
+nova_jai_0050219,JAI-02,clinic,collected,2026-05-09 20:27:00,
+nova_jai_0050220,JAI-03,clinic,collected,2026-05-07 10:26:00,
+nova_jai_0050221,JAI-03,clinic,collected,2026-05-01 13:19:00,
+nova_jai_0050222,JAI-03,clinic,no_show,,
+nova_jai_0050223,JAI-02,home,collected,2026-05-30 12:59:00,PHJAI025
+nova_jai_0050224,JAI-02,clinic,collected,2026-05-28 08:21:00,
+nova_jai_0050225,JAI-03,clinic,collected,2026-05-18 11:35:00,
+nova_jai_0050226,JAI-01,home,collected,2026-05-22 07:26:00,PHJAI028
+nova_jai_0050227,JAI-04,home,collected,2026-05-19 10:58:00,PHJAI010
+nova_jai_0050228,JAI-01,clinic,no_show,,
+nova_jai_0050229,JAI-02,home,collected,2026-05-18 10:35:00,PHJAI053
+nova_jai_0050230,JAI-04,home,collected,2026-05-16 07:54:00,PHJAI058
+nova_jai_0050231,JAI-03,home,collected,2026-05-22 09:54:00,PHJAI021
+nova_jai_0050232,JAI-02,home,collected,2026-05-31 07:15:00,PHJAI038
+nova_jai_0050233,JAI-02,clinic,collected,2026-05-29 13:32:00,
+nova_jai_0050234,JAI-03,home,collected,2026-05-11 20:45:00,PHJAI005
+nova_jai_0050235,JAI-03,home,collected,2026-05-28 06:35:00,PHJAI049
+nova_jai_0050236,JAI-02,home,collected,2026-05-01 06:37:00,PHJAI051
+nova_jai_0050237,JAI-01,home,collected,2026-05-17 09:30:00,PHJAI039
+nova_jai_0050238,JAI-01,home,collected,2026-05-30 14:48:00,PHJAI042
+nova_jai_0050239,JAI-02,clinic,collected,2026-05-04 19:06:00,
+nova_jai_0050240,JAI-03,home,collected,2026-05-16 10:23:00,PHJAI022
+nova_jai_0050241,JAI-02,home,collected,2026-05-07 16:51:00,PHJAI053
+nova_jai_0050242,JAI-01,clinic,collected,2026-05-25 09:57:00,
+nova_jai_0050243,JAI-01,home,collected,2026-05-10 08:06:00,PHJAI009
+nova_jai_0050244,JAI-04,clinic,collected,2026-05-09 17:52:00,
+nova_jai_0050245,JAI-02,clinic,collected,2026-05-05 07:26:00,
+nova_jai_0050246,JAI-01,clinic,no_show,,
+nova_jai_0050248,JAI-01,clinic,no_show,,
+nova_jai_0050249,JAI-05,clinic,collected,2026-05-27 16:58:00,
+nova_jai_0050250,JAI-04,home,collected,2026-05-23 08:23:00,PHJAI058
+nova_jai_0050251,JAI-04,clinic,collected,2026-05-08 11:52:00,
+nova_jai_0050252,JAI-03,home,collected,2026-05-11 11:38:00,PHJAI045
+nova_jai_0050253,JAI-04,clinic,collected,2026-05-31 08:38:00,
+nova_jai_0050254,JAI-01,clinic,no_show,,
+nova_jai_0050255,JAI-02,clinic,collected,2026-05-01 13:47:00,
+nova_jai_0050256,JAI-01,home,no_show,,PHJAI025
+nova_jai_0050257,JAI-01,home,collected,2026-05-27 07:51:00,PHJAI020
+nova_jai_0050258,JAI-04,home,collected,2026-05-04 13:24:00,PHJAI048
+nova_jai_0050259,JAI-03,clinic,collected,2026-05-08 16:08:00,
+nova_jai_0050260,JAI-02,clinic,collected,2026-05-13 08:36:00,
+nova_jai_0050261,JAI-04,home,collected,2026-05-25 12:19:00,PHJAI018
+nova_jai_0050262,JAI-03,home,collected,2026-05-25 09:52:00,PHJAI018
+nova_jai_0050263,JAI-01,clinic,collected,2026-05-17 09:56:00,
+nova_jai_0050264,JAI-01,home,collected,2026-05-26 08:58:00,PHJAI015
+nova_jai_0050265,JAI-01,clinic,collected,2026-05-27 12:57:00,
+nova_jai_0050266,JAI-01,home,collected,2026-05-12 10:04:00,PHJAI027
+nova_jai_0050267,JAI-02,clinic,no_show,,
+nova_jai_0050268,JAI-02,home,collected,2026-05-25 08:14:00,PHJAI056
+nova_jai_0050269,JAI-01,clinic,collected,2026-05-12 08:53:00,
+nova_jai_0050270,JAI-02,home,collected,2026-05-27 13:47:00,PHJAI003
+nova_jai_0050271,JAI-04,clinic,no_show,,
+nova_jai_0050272,JAI-04,home,collected,2026-05-20 10:16:00,PHJAI022
+nova_jai_0050273,JAI-04,clinic,collected,2026-05-09 11:10:00,
+nova_jai_0050274,JAI-02,clinic,no_show,,
+nova_jai_0050275,JAI-02,home,collected,2026-05-19 06:11:00,PHJAI056
+nova_jai_0050276,JAI-02,clinic,collected,2026-05-05 09:56:00,
+nova_jai_0050277,JAI-02,clinic,collected,2026-05-20 09:17:00,
+nova_jai_0050278,JAI-01,home,no_show,,PHJAI004
+nova_jai_0050279,JAI-02,clinic,collected,2026-05-08 08:25:00,
+nova_jai_0050280,JAI-01,clinic,no_show,,
+nova_jai_0050281,JAI-02,clinic,collected,2026-05-15 09:21:00,
+nova_jai_0050282,JAI-02,home,collected,2026-05-29 08:25:00,PHJAI005
+nova_jai_0050283,JAI-02,home,collected,2026-05-02 17:01:00,PHJAI041
+nova_jai_0050284,JAI-02,clinic,collected,2026-05-20 20:17:00,
+nova_jai_0050285,JAI-02,home,collected,2026-05-28 13:50:00,PHJAI026
+nova_jai_0050286,JAI-03,clinic,collected,2026-05-05 16:51:00,
+nova_jai_0050287,JAI-01,clinic,no_show,,
+nova_jai_0050288,JAI-03,home,no_show,,PHJAI020
+nova_jai_0050289,JAI-01,clinic,no_show,,
+nova_jai_0050290,JAI-04,home,collected,2026-05-02 18:37:00,PHJAI027
+nova_jai_0050291,JAI-04,clinic,collected,2026-05-22 09:03:00,
+nova_jai_0050292,JAI-02,clinic,collected,2026-05-06 20:10:00,
+nova_jai_0050293,JAI-01,clinic,collected,2026-05-29 07:48:00,
+nova_jai_0050294,JAI-04,home,collected,2026-05-11 08:09:00,PHJAI003
+nova_jai_0050295,JAI-03,home,collected,2026-05-10 10:15:00,PHJAI001
+nova_jai_0050296,JAI-02,clinic,collected,2026-05-26 08:23:00,
+nova_jai_0050297,JAI-02,clinic,collected,2026-05-04 17:18:00,
+nova_jai_0050298,JAI-02,clinic,no_show,,
+nova_jai_0050299,JAI-01,home,collected,2026-05-27 13:55:00,PHJAI005
+nova_jai_0050300,JAI-03,home,collected,2026-05-10 12:28:00,PHJAI017
+nova_jai_0050301,JAI-02,clinic,collected,2026-05-17 20:04:00,
+nova_jai_0050302,JAI-02,clinic,collected,2026-05-17 20:27:00,
+nova_jai_0050303,JAI-03,clinic,collected,2026-05-29 19:16:00,
+nova_jai_0050304,JAI-01,home,collected,2026-05-11 18:39:00,PHJAI002
+nova_jai_0050305,JAI-01,clinic,collected,2026-05-27 07:47:00,
+nova_jai_0050306,JAI-04,home,collected,2026-05-21 20:06:00,PHJAI016
+nova_jai_0050307,JAI-01,clinic,no_show,,
+nova_jai_0050308,JAI-04,clinic,collected,2026-05-20 17:57:00,
+nova_jai_0050309,JAI-04,home,collected,2026-05-01 07:47:00,PHJAI046
+nova_jai_0050311,JAI-02,clinic,no_show,,
+nova_jai_0050312,JAI-04,home,collected,2026-05-05 09:59:00,PHJAI050
+nova_jai_0050313,JAI-02,clinic,collected,2026-05-11 11:17:00,
+nova_jai_0050314,JAI-04,clinic,collected,2026-05-11 08:46:00,
+nova_jai_0050315,JAI-03,clinic,collected,2026-05-07 07:00:00,
+nova_jai_0050316,JAI-02,home,collected,2026-05-17 13:02:00,PHJAI042
+nova_jai_0050317,JAI-01,home,collected,2026-05-31 11:00:00,PHJAI029
+nova_jai_0050318,JAI-03,clinic,collected,2026-05-02 07:16:00,
+nova_jai_0050319,JAI-02,home,collected,2026-05-23 08:08:00,PHJAI044
+nova_jai_0050320,JAI-01,clinic,collected,2026-05-23 09:06:00,
+nova_jai_0050321,JAI-03,clinic,collected,2026-05-17 11:53:00,
+nova_jai_0050322,JAI-01,home,no_show,,PHJAI048
+nova_jai_0050323,JAI-02,home,collected,2026-05-03 10:53:00,PHJAI034
+nova_jai_0050324,JAI-01,home,no_show,,PHJAI014
+nova_jai_0050325,JAI-02,clinic,collected,2026-05-12 18:07:00,
+nova_jai_0050326,JAI-03,home,collected,2026-05-19 08:03:00,PHJAI006
+nova_jai_0050327,JAI-01,home,collected,2026-05-28 07:05:00,PHJAI040
+nova_jai_0050328,JAI-02,home,collected,2026-05-14 12:22:00,PHJAI024
+nova_jai_0050329,JAI-02,clinic,collected,2026-05-22 10:56:00,
+nova_jai_0050330,JAI-01,home,collected,2026-05-03 10:29:00,PHJAI057
+nova_jai_0050331,JAI-03,home,collected,2026-05-12 11:14:00,PHJAI029
+nova_jai_0050332,JAI-04,clinic,collected,2026-05-21 20:07:00,
+nova_jai_0050333,JAI-02,home,no_show,,PHJAI043
+nova_jai_0050334,JAI-01,home,collected,2026-05-24 16:47:00,PHJAI055
+nova_jai_0050335,JAI-03,clinic,collected,2026-05-14 06:39:00,
+nova_jai_0050336,JAI-03,clinic,collected,2026-05-01 11:36:00,
+nova_jai_0050337,JAI-01,home,collected,2026-05-06 12:28:00,PHJAI027
+nova_jai_0050338,JAI-02,clinic,collected,2026-05-08 12:45:00,
+nova_jai_0050339,JAI-02,clinic,collected,2026-05-05 13:45:00,
+nova_jai_0050340,JAI-01,clinic,collected,2026-05-08 10:11:00,
+nova_jai_0050341,JAI-01,home,collected,2026-05-27 08:50:00,PHJAI011
+nova_jai_0050343,JAI-04,clinic,no_show,,
+nova_jai_0050344,JAI-03,home,collected,2026-05-19 09:59:00,PHJAI038
+nova_jai_0050345,JAI-01,home,collected,2026-05-02 09:17:00,PHJAI015
+nova_jai_0050346,JAI-04,home,collected,2026-05-05 19:55:00,PHJAI043
+nova_jai_0050347,JAI-03,home,no_show,,PHJAI045
+nova_jai_0050348,JAI-02,clinic,collected,2026-05-16 08:12:00,
+nova_jai_0050349,JAI-03,clinic,no_show,,
+nova_jai_0050350,JAI-01,home,collected,2026-05-21 13:23:00,PHJAI034
+nova_jai_0050351,JAI-02,home,collected,2026-05-02 09:24:00,PHJAI023
+nova_jai_0050352,JAI-03,clinic,collected,2026-05-30 06:39:00,
+nova_jai_0050353,JAI-01,clinic,collected,2026-05-29 10:25:00,
+nova_jai_0050354,JAI-02,clinic,collected,2026-05-14 14:04:00,
+nova_jai_0050355,JAI-04,clinic,no_show,,
+nova_jai_0050356,JAI-03,home,collected,2026-05-14 11:52:00,PHJAI056
+nova_jai_0050357,JAI-03,clinic,collected,2026-05-02 06:46:00,
+nova_jai_0050358,JAI-01,home,no_show,,PHJAI021
+nova_jai_0050359,JAI-02,home,collected,2026-05-11 15:00:00,PHJAI029
+nova_jai_0050360,JAI-01,clinic,collected,2026-05-03 07:43:00,
+nova_jai_0050361,JAI-03,home,no_show,,PHJAI016
+nova_jai_0050362,JAI-04,clinic,collected,2026-05-20 12:31:00,
+nova_jai_0050363,JAI-04,clinic,collected,2026-05-28 10:25:00,
+nova_jai_0050364,JAI-01,clinic,collected,2026-05-24 08:32:00,
+nova_jai_0050365,JAI-01,clinic,collected,2026-05-08 11:22:00,
+nova_jai_0050366,JAI-04,clinic,collected,2026-05-19 06:44:00,
+nova_jai_0050367,JAI-01,clinic,collected,2026-05-08 08:22:00,
+nova_jai_0050368,JAI-01,home,collected,2026-05-30 16:48:00,PHJAI032
+nova_jai_0050369,JAI-01,clinic,no_show,,
+nova_jai_0050370,JAI-02,home,collected,2026-05-17 07:42:00,PHJAI034
+nova_jai_0050371,JAI-04,clinic,no_show,,
+nova_jai_0050372,JAI-01,clinic,collected,2026-05-07 08:23:00,
+nova_jai_0050373,JAI-04,clinic,no_show,,
+nova_jai_0050374,JAI-03,clinic,collected,2026-05-22 12:58:00,
+nova_jai_0050375,JAI-01,clinic,no_show,,
+nova_jai_0050376,JAI-01,clinic,collected,2026-05-16 10:25:00,
+nova_jai_0050377,JAI-02,clinic,collected,2026-05-16 13:07:00,
+nova_jai_0050378,JAI-03,clinic,collected,2026-05-21 18:39:00,
+nova_jai_0050379,JAI-04,home,no_show,,PHJAI046
+nova_jai_0050380,JAI-01,clinic,collected,2026-05-08 06:49:00,
+nova_jai_0050381,JAI-01,clinic,collected,2026-05-08 14:42:00,
+nova_jai_0050382,JAI-04,clinic,collected,2026-05-18 12:58:00,
+nova_jai_0050383,JAI-01,home,collected,2026-05-11 06:50:00,PHJAI037
+nova_jai_0050384,JAI-02,home,collected,2026-05-11 16:50:00,PHJAI049
+nova_jai_0050385,JAI-01,clinic,collected,2026-05-15 08:26:00,
+nova_jai_0050386,JAI-04,home,collected,2026-05-09 09:20:00,PHJAI050
+nova_jai_0050387,JAI-03,home,collected,2026-05-27 14:26:00,PHJAI027
+nova_jai_0050388,JAI-03,clinic,collected,2026-05-27 20:10:00,
+nova_jai_0050389,JAI-03,clinic,collected,2026-05-25 10:38:00,
+nova_jai_0050390,JAI-01,clinic,no_show,,
+nova_jai_0050391,JAI-01,home,collected,2026-05-07 19:55:00,PHJAI042
+nova_jai_0050392,JAI-05,home,collected,2026-05-03 08:54:00,PHJAI057
+nova_jai_0050393,JAI-04,clinic,no_show,,
+nova_jai_0050394,JAI-04,clinic,no_show,,
+nova_jai_0050395,JAI-04,home,collected,2026-05-28 18:01:00,PHJAI010
+nova_jai_0050396,JAI-01,clinic,collected,2026-05-20 07:57:00,
+nova_jai_0050397,JAI-01,clinic,collected,2026-05-13 07:33:00,
+nova_jai_0050398,JAI-01,clinic,collected,2026-05-14 06:51:00,
+nova_jai_0050399,JAI-03,clinic,collected,2026-05-05 19:39:00,
+nova_jai_0050400,JAI-01,clinic,collected,2026-05-26 08:24:00,
+nova_jai_0050401,JAI-01,home,collected,2026-05-16 17:54:00,PHJAI022
+nova_jai_0050402,JAI-04,clinic,collected,2026-05-16 07:25:00,
+nova_jai_0050403,JAI-01,home,collected,2026-05-28 09:43:00,PHJAI049
+nova_jai_0050404,JAI-01,home,collected,2026-05-15 11:49:00,PHJAI003
+nova_jai_0050405,JAI-01,home,collected,2026-05-15 13:06:00,PHJAI054
+nova_jai_0050406,JAI-02,clinic,collected,2026-05-25 12:58:00,
+nova_jai_0050407,JAI-03,clinic,collected,2026-05-06 13:15:00,
+nova_jai_0050408,JAI-01,home,collected,2026-05-24 07:34:00,PHJAI057
+nova_jai_0050409,JAI-01,clinic,collected,2026-05-05 08:55:00,
+nova_jai_0050410,JAI-03,clinic,collected,2026-05-01 17:55:00,
+nova_jai_0050411,JAI-01,home,collected,2026-05-26 08:24:00,PHJAI019
+nova_jai_0050412,JAI-01,clinic,collected,2026-05-16 13:14:00,
+nova_jai_0050413,JAI-01,clinic,collected,2026-05-18 09:38:00,
+nova_jai_0050414,JAI-02,home,collected,2026-05-03 14:04:00,PHJAI007
+nova_jai_0050415,JAI-02,clinic,collected,2026-05-20 12:52:00,
+nova_jai_0050416,JAI-04,clinic,collected,2026-05-20 11:13:00,
+nova_jai_0050417,JAI-01,clinic,collected,2026-05-22 10:00:00,
+nova_jai_0050418,JAI-01,home,collected,2026-05-10 13:20:00,PHJAI042
+nova_jai_0050419,JAI-01,home,collected,2026-05-03 17:56:00,PHJAI014
+nova_jai_0050420,JAI-04,home,collected,2026-05-08 07:04:00,PHJAI016
+nova_jai_0050421,JAI-01,clinic,collected,2026-05-08 09:40:00,
+nova_jai_0050422,JAI-01,clinic,collected,2026-05-05 08:27:00,
+nova_jai_0050423,JAI-01,clinic,collected,2026-05-21 12:27:00,
+nova_jai_0050424,JAI-04,home,no_show,,PHJAI021
+nova_jai_0050425,JAI-03,clinic,collected,2026-05-06 07:28:00,
+nova_jai_0050426,JAI-02,clinic,collected,2026-05-05 11:05:00,
+nova_jai_0050427,JAI-02,home,collected,2026-05-21 11:21:00,PHJAI018
+nova_jai_0050428,JAI-02,home,collected,2026-05-28 11:15:00,PHJAI048
+nova_jai_0050429,JAI-03,home,collected,2026-05-18 13:47:00,PHJAI006
+nova_jai_0050430,JAI-03,clinic,no_show,,
+nova_jai_0050431,JAI-03,home,collected,2026-05-11 14:43:00,PHJAI008
+nova_jai_0050432,JAI-02,home,collected,2026-05-07 11:34:00,PHJAI041
+nova_jai_0050433,JAI-02,home,collected,2026-05-10 12:48:00,PHJAI016
+nova_jai_0050434,JAI-03,clinic,no_show,,
+nova_jai_0050435,JAI-03,clinic,no_show,,
+nova_jai_0050436,JAI-01,clinic,no_show,,
+nova_jai_0050437,JAI-01,clinic,collected,2026-05-20 11:57:00,
+nova_jai_0050438,JAI-02,clinic,collected,2026-05-19 20:21:00,
+nova_jai_0050439,JAI-02,home,collected,2026-05-15 07:29:00,PHJAI017
+nova_jai_0050440,JAI-02,clinic,collected,2026-05-05 09:40:00,
+nova_jai_0050441,JAI-02,clinic,collected,2026-05-04 12:01:00,
+nova_jai_0050442,JAI-03,home,no_show,,PHJAI016
+nova_jai_0050444,JAI-02,clinic,no_show,,
+nova_jai_0050445,JAI-03,clinic,collected,2026-05-13 10:19:00,
+nova_jai_0050446,JAI-04,home,collected,2026-05-31 12:10:00,PHJAI027
+nova_jai_0050447,JAI-02,clinic,collected,2026-05-01 07:42:00,
+nova_jai_0050448,JAI-01,clinic,collected,2026-05-24 16:40:00,
+nova_jai_0050449,JAI-01,home,collected,2026-05-07 07:36:00,PHJAI043
+nova_jai_0050450,JAI-03,clinic,collected,2026-05-01 06:53:00,
+nova_jai_0050451,JAI-01,clinic,collected,2026-05-28 20:53:00,
+nova_jai_0050452,JAI-02,clinic,collected,2026-05-31 12:12:00,
+nova_jai_0050453,JAI-01,clinic,collected,2026-05-13 08:51:00,
+nova_jai_0050454,JAI-01,clinic,collected,2026-05-29 11:28:00,
+nova_jai_0050455,JAI-01,home,collected,2026-05-01 11:32:00,PHJAI044
+nova_jai_0050456,JAI-02,home,collected,2026-05-21 10:59:00,PHJAI042
+nova_jai_0050457,JAI-01,home,collected,2026-05-09 14:24:00,PHJAI050
+nova_jai_0050458,JAI-01,home,collected,2026-05-04 14:18:00,PHJAI016
+nova_jai_0050459,JAI-01,clinic,collected,2026-05-18 08:23:00,
+nova_jai_0050460,JAI-01,home,collected,2026-05-28 06:46:00,PHJAI004
+nova_jai_0050461,JAI-02,clinic,collected,2026-05-06 16:53:00,
+nova_jai_0050462,JAI-02,clinic,no_show,,
+nova_jai_0050463,JAI-03,clinic,collected,2026-05-13 19:07:00,
+nova_jai_0050464,JAI-01,home,collected,2026-05-24 10:42:00,PHJAI014
+nova_jai_0050465,JAI-02,clinic,no_show,,
+nova_jai_0050466,JAI-01,clinic,collected,2026-05-17 19:25:00,
+nova_jai_0050467,JAI-03,home,collected,2026-05-03 07:12:00,PHJAI052
+nova_jai_0050468,JAI-04,home,collected,2026-05-14 07:50:00,PHJAI052
+nova_jai_0050469,JAI-02,clinic,collected,2026-05-17 07:05:00,
+nova_jai_0050470,JAI-04,clinic,collected,2026-05-30 17:57:00,
+nova_jai_0050471,JAI-03,clinic,collected,2026-05-15 17:48:00,
+nova_jai_0050472,JAI-02,home,collected,2026-05-15 11:53:00,PHJAI051
+nova_jai_0050473,JAI-03,clinic,collected,2026-05-03 07:50:00,
+nova_jai_0050474,JAI-01,home,collected,2026-05-25 12:04:00,PHJAI030
+nova_jai_0050475,JAI-01,home,collected,2026-05-03 11:54:00,PHJAI005
+nova_jai_0050476,JAI-02,clinic,collected,2026-05-31 09:54:00,
+nova_jai_0050477,JAI-02,clinic,no_show,,
+nova_jai_0050478,JAI-04,clinic,collected,2026-05-13 09:14:00,
+nova_jai_0050479,JAI-02,clinic,collected,2026-05-25 12:46:00,
+nova_jai_0050480,JAI-01,home,collected,2026-05-28 19:09:00,PHJAI030
+nova_jai_0050481,JAI-01,clinic,collected,2026-05-06 16:00:00,
+nova_jai_0050482,JAI-01,clinic,collected,2026-05-12 18:19:00,
+nova_jai_0050483,JAI-02,home,collected,2026-05-11 08:43:00,PHJAI044
+nova_jai_0050484,JAI-02,clinic,collected,2026-05-15 10:42:00,
+nova_jai_0050485,JAI-02,home,collected,2026-05-01 07:24:00,PHJAI005
+nova_jai_0050486,JAI-04,clinic,collected,2026-05-26 10:15:00,
+nova_jai_0050487,JAI-03,clinic,collected,2026-05-26 11:55:00,
+nova_jai_0050488,JAI-02,clinic,no_show,,
+nova_jai_0050489,JAI-01,home,collected,2026-05-02 13:53:00,PHJAI027
+nova_jai_0050490,JAI-02,home,no_show,,PHJAI034
+nova_jai_0050491,JAI-01,home,collected,2026-05-07 08:20:00,PHJAI025
+nova_jai_0050492,JAI-04,clinic,no_show,,
+nova_jai_0050493,JAI-02,home,collected,2026-05-06 11:52:00,PHJAI003
+nova_jai_0050494,JAI-01,home,collected,2026-05-02 11:43:00,PHJAI019
+nova_jai_0050495,JAI-04,home,collected,2026-05-21 12:13:00,PHJAI023
+nova_jai_0050496,JAI-01,clinic,collected,2026-05-04 12:13:00,
+nova_jai_0050497,JAI-02,clinic,collected,2026-05-21 12:16:00,
+nova_jai_0050498,JAI-02,home,no_show,,PHJAI010
+nova_jai_0050499,JAI-03,home,collected,2026-05-16 08:44:00,PHJAI035
+nova_jai_0050500,JAI-01,clinic,collected,2026-05-15 14:09:00,
+nova_jai_0050501,JAI-03,clinic,collected,2026-05-31 07:13:00,
+nova_jai_0050502,JAI-01,home,collected,2026-05-30 12:50:00,PHJAI006
+nova_jai_0050503,JAI-01,clinic,collected,2026-05-10 09:55:00,
+nova_jai_0050504,JAI-01,clinic,collected,2026-05-10 19:17:00,
+nova_jai_0050505,JAI-02,clinic,no_show,,
+nova_jai_0050506,JAI-03,clinic,collected,2026-05-29 18:21:00,
+nova_jai_0050507,JAI-01,clinic,collected,2026-05-10 08:13:00,
+nova_jai_0050508,JAI-01,home,collected,2026-05-17 07:01:00,PHJAI001
+nova_jai_0050509,JAI-03,clinic,collected,2026-05-15 09:14:00,
+nova_jai_0050510,JAI-04,clinic,collected,2026-05-21 18:46:00,
+nova_jai_0050511,JAI-04,home,collected,2026-05-22 11:59:00,PHJAI031
+nova_jai_0050512,JAI-01,home,collected,2026-05-29 08:52:00,PHJAI010
+nova_jai_0050513,JAI-04,clinic,collected,2026-05-26 14:20:00,
+nova_jai_0050514,JAI-01,home,collected,2026-05-29 10:50:00,PHJAI015
+nova_jai_0050515,JAI-01,clinic,collected,2026-05-23 11:04:00,
+nova_jai_0050516,JAI-02,home,collected,2026-05-03 10:02:00,PHJAI049
+nova_jai_0050517,JAI-01,clinic,collected,2026-05-08 09:15:00,
+nova_jai_0050518,JAI-02,clinic,collected,2026-05-07 13:38:00,
+nova_jai_0050519,JAI-02,clinic,collected,2026-05-28 10:47:00,
+nova_jai_0050520,JAI-03,home,collected,2026-05-11 09:34:00,PHJAI015
+nova_jai_0050521,JAI-02,clinic,collected,2026-05-16 06:55:00,
+nova_jai_0050522,JAI-01,home,collected,2026-05-27 13:00:00,PHJAI009
+nova_jai_0050523,JAI-01,home,collected,2026-05-31 08:27:00,PHJAI009
+nova_jai_0050524,JAI-02,clinic,collected,2026-05-26 13:33:00,
+nova_jai_0050525,JAI-03,clinic,no_show,,
+nova_jai_0050526,JAI-02,clinic,collected,2026-05-02 09:41:00,
+nova_jai_0050527,JAI-02,home,collected,2026-05-19 13:44:00,PHJAI020
+nova_jai_0050528,JAI-02,clinic,collected,2026-05-08 08:08:00,
+nova_jai_0050530,JAI-02,home,collected,2026-05-21 09:17:00,PHJAI052
+nova_jai_0050531,JAI-01,clinic,collected,2026-05-28 10:31:00,
+nova_jai_0050532,JAI-05,clinic,collected,2026-05-29 07:13:00,
+nova_jai_0050533,JAI-02,home,collected,2026-05-24 08:44:00,PHJAI023
+nova_jai_0050534,JAI-01,clinic,collected,2026-05-23 13:19:00,
+nova_jai_0050535,JAI-01,home,collected,2026-05-11 18:51:00,PHJAI004
+nova_jai_0050536,JAI-03,clinic,collected,2026-05-20 13:38:00,
+nova_jai_0050537,JAI-02,clinic,collected,2026-05-16 19:10:00,
+nova_jai_0050538,JAI-01,clinic,collected,2026-05-29 19:56:00,
+nova_jai_0050539,JAI-03,clinic,collected,2026-05-02 07:59:00,
+nova_jai_0050540,JAI-01,home,collected,2026-05-01 13:17:00,PHJAI005
+nova_jai_0050541,JAI-01,home,collected,2026-05-03 10:59:00,PHJAI059
+nova_jai_0050542,JAI-03,clinic,collected,2026-05-15 06:37:00,
+nova_jai_0050543,JAI-03,clinic,collected,2026-05-05 19:01:00,
+nova_jai_0050544,JAI-01,home,collected,2026-05-22 09:33:00,PHJAI035
+nova_jai_0050545,JAI-02,clinic,collected,2026-05-18 14:41:00,
+nova_jai_0050546,JAI-03,clinic,collected,2026-05-17 11:09:00,
+nova_jai_0050547,JAI-01,clinic,collected,2026-05-12 18:35:00,
+nova_jai_0050548,JAI-04,clinic,collected,2026-05-31 10:05:00,
+nova_jai_0050549,JAI-05,home,collected,2026-05-18 19:58:00,PHJAI015
+nova_jai_0050550,JAI-04,clinic,collected,2026-05-30 10:33:00,
+nova_jai_0050551,JAI-01,clinic,collected,2026-05-20 10:29:00,
+nova_jai_0050552,JAI-01,home,collected,2026-05-31 19:36:00,PHJAI018
+nova_jai_0050553,JAI-03,home,collected,2026-05-12 08:13:00,PHJAI030
+nova_jai_0050554,JAI-02,home,collected,2026-05-30 10:13:00,PHJAI003
+nova_jai_0050555,JAI-01,clinic,collected,2026-05-31 13:00:00,
+nova_jai_0050556,JAI-01,clinic,collected,2026-05-10 20:08:00,
+nova_jai_0050557,JAI-02,home,collected,2026-05-10 07:46:00,PHJAI037
+nova_jai_0050558,JAI-03,clinic,no_show,,
+nova_jai_0050559,JAI-02,clinic,collected,2026-05-30 08:18:00,
+nova_jai_0050560,JAI-01,clinic,collected,2026-05-30 17:36:00,
+nova_jai_0050561,JAI-02,home,collected,2026-05-23 11:26:00,PHJAI045
+nova_jai_0050562,JAI-01,clinic,collected,2026-05-10 18:57:00,
+nova_jai_0050563,JAI-01,home,collected,2026-05-18 13:46:00,PHJAI047
+nova_jai_0050564,JAI-02,home,collected,2026-05-25 13:20:00,PHJAI020
+nova_jai_0050565,JAI-02,home,collected,2026-05-06 16:00:00,PHJAI059
+nova_jai_0050566,JAI-01,clinic,collected,2026-05-20 10:02:00,
+nova_jai_0050567,JAI-04,home,collected,2026-05-20 17:23:00,PHJAI010
+nova_jai_0050568,JAI-01,home,collected,2026-05-20 12:51:00,PHJAI001
+nova_jai_0050569,JAI-03,clinic,collected,2026-05-21 10:47:00,
+nova_jai_0050570,JAI-02,clinic,collected,2026-05-01 13:01:00,
+nova_jai_0050571,JAI-04,clinic,collected,2026-05-30 07:06:00,
+nova_jai_0050572,JAI-01,home,collected,2026-05-09 19:44:00,PHJAI003
+nova_jai_0050573,JAI-03,home,collected,2026-05-24 08:25:00,PHJAI030
+nova_jai_0050574,JAI-01,clinic,no_show,,
+nova_jai_0050575,JAI-02,clinic,collected,2026-05-23 07:15:00,
+nova_jai_0050576,JAI-03,home,collected,2026-05-26 07:51:00,PHJAI044
+nova_jai_0050578,JAI-03,home,collected,2026-05-23 13:25:00,PHJAI013
+nova_jai_0050579,JAI-04,home,collected,2026-05-26 06:43:00,PHJAI050
+nova_jai_0050580,JAI-01,clinic,collected,2026-05-26 09:02:00,
+nova_jai_0050581,JAI-02,clinic,collected,2026-05-09 13:09:00,
+nova_jai_0050582,JAI-04,clinic,collected,2026-05-22 05:53:00,
+nova_jai_0050583,JAI-04,clinic,collected,2026-05-27 12:53:00,
+nova_jai_0050585,JAI-01,clinic,collected,2026-05-26 06:21:00,
+nova_jai_0050586,JAI-04,home,collected,2026-05-31 11:48:00,PHJAI026
+nova_jai_0050587,JAI-02,clinic,collected,2026-05-05 13:12:00,
+nova_jai_0050588,JAI-01,home,collected,2026-05-02 07:45:00,PHJAI046
+nova_jai_0050589,JAI-03,home,collected,2026-05-03 12:29:00,PHJAI045
+nova_jai_0050590,JAI-03,clinic,collected,2026-05-26 07:43:00,
+nova_jai_0050591,JAI-01,clinic,collected,2026-05-02 08:21:00,
+nova_jai_0050592,JAI-02,home,no_show,,PHJAI057
+nova_jai_0050593,JAI-01,home,collected,2026-05-01 15:17:00,PHJAI042
+nova_jai_0050594,JAI-01,clinic,collected,2026-05-31 10:52:00,
+nova_jai_0050595,JAI-02,home,collected,2026-05-14 08:46:00,PHJAI011
+nova_jai_0050596,JAI-01,clinic,no_show,,
+nova_jai_0050597,JAI-02,clinic,collected,2026-05-06 10:17:00,
+nova_jai_0050598,JAI-01,home,collected,2026-05-02 16:22:00,PHJAI018
+nova_jai_0050599,JAI-04,clinic,collected,2026-05-26 12:28:00,
+nova_jai_0050600,JAI-03,clinic,collected,2026-05-06 09:48:00,
+nova_jai_0050601,JAI-01,home,collected,2026-05-29 13:48:00,PHJAI005
+nova_jai_0050602,JAI-01,home,no_show,,PHJAI023
+nova_jai_0050603,JAI-02,home,collected,2026-05-11 13:31:00,PHJAI058
+nova_jai_0050604,JAI-03,home,collected,2026-05-18 09:34:00,PHJAI048
+nova_jai_0050605,JAI-04,clinic,collected,2026-05-27 19:05:00,
+nova_jai_0050606,JAI-01,clinic,no_show,,
+nova_jai_0050607,JAI-02,clinic,collected,2026-05-12 08:45:00,
+nova_jai_0050608,JAI-04,home,collected,2026-05-16 08:00:00,PHJAI045
+nova_jai_0050609,JAI-02,home,collected,2026-05-07 20:18:00,PHJAI026
+nova_jai_0050610,JAI-04,home,collected,2026-05-27 08:00:00,PHJAI040
+nova_jai_0050611,JAI-01,home,collected,2026-05-21 10:07:00,PHJAI057
+nova_jai_0050612,JAI-01,clinic,collected,2026-05-02 09:29:00,
+nova_jai_0050613,JAI-01,clinic,collected,2026-05-13 13:42:00,
+nova_jai_0050614,JAI-04,clinic,collected,2026-05-11 11:55:00,
+nova_jai_0050615,JAI-04,clinic,collected,2026-05-15 10:02:00,
+nova_jai_0050617,JAI-01,home,collected,2026-05-15 09:40:00,PHJAI059
+nova_jai_0050618,JAI-01,home,no_show,,PHJAI053
+nova_jai_0050619,JAI-02,clinic,collected,2026-05-12 18:09:00,
+nova_jai_0050620,JAI-03,clinic,collected,2026-05-11 08:58:00,
+nova_jai_0050622,JAI-03,clinic,collected,2026-05-18 10:25:00,
+nova_jai_0050623,JAI-01,clinic,collected,2026-05-11 06:40:00,
+nova_jai_0050624,JAI-03,clinic,collected,2026-05-22 08:36:00,
+nova_jai_0050625,JAI-01,clinic,no_show,,
+nova_jai_0050626,JAI-02,clinic,collected,2026-05-20 11:59:00,
+nova_jai_0050627,JAI-03,clinic,collected,2026-05-16 13:24:00,
+nova_jai_0050628,JAI-03,home,collected,2026-05-24 19:42:00,PHJAI013
+nova_jai_0050629,JAI-03,clinic,no_show,,
+nova_jai_0050630,JAI-04,clinic,collected,2026-05-30 09:05:00,
+nova_jai_0050631,JAI-04,clinic,collected,2026-05-13 10:31:00,
+nova_jai_0050632,JAI-02,home,collected,2026-05-22 17:03:00,PHJAI033
+nova_jai_0050633,JAI-01,clinic,collected,2026-05-01 10:39:00,
+nova_jai_0050634,JAI-03,clinic,collected,2026-05-03 09:49:00,
+nova_jai_0050635,JAI-01,clinic,collected,2026-05-24 09:28:00,
+nova_jai_0050636,JAI-01,clinic,collected,2026-05-22 07:20:00,
+nova_jai_0050637,JAI-02,clinic,no_show,,
+nova_jai_0050638,JAI-02,home,no_show,,PHJAI010
+nova_jai_0050639,JAI-01,clinic,collected,2026-05-11 10:59:00,
+nova_jai_0050640,JAI-01,home,collected,2026-05-23 10:25:00,PHJAI047
+nova_jai_0050641,JAI-03,home,collected,2026-05-01 13:58:00,PHJAI050
+nova_jai_0050642,JAI-03,home,collected,2026-05-09 10:43:00,PHJAI032
+nova_jai_0050643,JAI-03,home,collected,2026-05-15 18:39:00,PHJAI038
+nova_jai_0050644,JAI-04,clinic,collected,2026-05-21 10:40:00,
+nova_jai_0050645,JAI-01,clinic,collected,2026-05-30 18:02:00,
+nova_jai_0050646,JAI-02,home,collected,2026-05-05 16:36:00,PHJAI017
+nova_jai_0050647,JAI-01,home,collected,2026-05-31 06:14:00,PHJAI017
+nova_jai_0050648,JAI-02,clinic,collected,2026-05-28 14:38:00,
+nova_jai_0050649,JAI-04,home,collected,2026-05-02 08:44:00,PHJAI046
+nova_jai_0050650,JAI-01,clinic,collected,2026-05-31 12:00:00,
+nova_jai_0050651,JAI-02,home,collected,2026-05-26 08:19:00,PHJAI039
+nova_jai_0050652,JAI-01,clinic,collected,2026-05-04 12:18:00,
+nova_jai_0050653,JAI-03,clinic,collected,2026-05-08 11:31:00,
+nova_jai_0050654,JAI-02,home,collected,2026-05-16 09:16:00,PHJAI018
+nova_jai_0050655,JAI-01,clinic,collected,2026-05-21 09:02:00,
+nova_jai_0050657,JAI-01,home,collected,2026-05-16 07:32:00,PHJAI033
+nova_jai_0050658,JAI-03,home,no_show,,PHJAI020
+nova_jai_0050659,JAI-01,home,collected,2026-05-12 13:39:00,PHJAI053
+nova_jai_0050660,JAI-03,clinic,collected,2026-05-25 14:15:00,
+nova_jai_0050661,JAI-01,clinic,collected,2026-05-24 08:55:00,
+nova_jai_0050662,JAI-04,home,collected,2026-05-01 09:37:00,PHJAI042
+nova_jai_0050663,JAI-01,clinic,collected,2026-05-18 18:16:00,
+nova_jai_0050664,JAI-02,clinic,collected,2026-05-03 07:40:00,
+nova_jai_0050665,JAI-01,clinic,collected,2026-05-22 08:09:00,
+nova_jai_0050666,JAI-03,clinic,no_show,,
+nova_jai_0050667,JAI-04,home,collected,2026-05-13 07:29:00,PHJAI029
+nova_jai_0050668,JAI-03,home,collected,2026-05-19 17:43:00,PHJAI047
+nova_jai_0050669,JAI-01,home,collected,2026-05-27 11:34:00,PHJAI011
+nova_jai_0050670,JAI-01,home,collected,2026-05-25 13:22:00,PHJAI045
+nova_jai_0050671,JAI-02,clinic,collected,2026-05-08 07:09:00,
+nova_jai_0050672,JAI-02,clinic,collected,2026-05-29 08:40:00,
+nova_jai_0050673,JAI-01,clinic,collected,2026-05-20 08:25:00,
+nova_jai_0050674,JAI-03,clinic,collected,2026-05-22 13:44:00,
+nova_jai_0050675,JAI-03,clinic,collected,2026-05-29 14:34:00,
+nova_jai_0050676,JAI-04,clinic,collected,2026-05-27 10:52:00,
+nova_jai_0050677,JAI-02,clinic,collected,2026-05-02 14:24:00,
+nova_jai_0050678,JAI-01,clinic,collected,2026-05-27 08:25:00,
+nova_jai_0050679,JAI-04,clinic,collected,2026-05-29 07:28:00,
+nova_jai_0050680,JAI-01,clinic,collected,2026-05-29 09:56:00,
+nova_jai_0050681,JAI-02,clinic,collected,2026-05-16 14:29:00,
+nova_jai_0050682,JAI-01,home,collected,2026-05-15 11:39:00,PHJAI057
+nova_jai_0050683,JAI-01,home,collected,2026-05-15 07:29:00,PHJAI034
+nova_jai_0050684,JAI-04,home,collected,2026-05-07 10:07:00,PHJAI037
+nova_jai_0050685,JAI-01,clinic,collected,2026-05-16 17:53:00,
+nova_jai_0050686,JAI-01,clinic,collected,2026-05-27 07:44:00,
+nova_jai_0050687,JAI-03,home,collected,2026-05-10 07:40:00,PHJAI015
+nova_jai_0050688,JAI-03,home,no_show,,PHJAI025
+nova_jai_0050689,JAI-02,home,collected,2026-05-01 10:41:00,PHJAI024
+nova_jai_0050690,JAI-02,home,collected,2026-05-26 17:36:00,PHJAI007
+nova_jai_0050691,JAI-02,clinic,collected,2026-05-30 08:44:00,
+nova_jai_0050692,JAI-02,clinic,collected,2026-05-17 08:31:00,
+nova_jai_0050693,JAI-01,clinic,collected,2026-05-29 17:32:00,
+nova_jai_0050694,JAI-02,home,collected,2026-05-08 09:17:00,PHJAI050
+nova_jai_0050695,JAI-02,clinic,collected,2026-05-04 08:08:00,
+nova_jai_0050696,JAI-01,home,collected,2026-05-28 12:57:00,PHJAI052
+nova_jai_0050697,JAI-04,clinic,collected,2026-05-14 19:59:00,
+nova_jai_0050698,JAI-01,home,collected,2026-05-25 12:24:00,PHJAI057
+nova_jai_0050699,JAI-02,clinic,collected,2026-05-27 13:08:00,
+nova_jai_0050700,JAI-03,clinic,collected,2026-05-15 10:46:00,
+nova_jai_0050701,JAI-04,clinic,no_show,,
+nova_jai_0050702,JAI-01,clinic,no_show,,
+nova_jai_0050704,JAI-01,home,collected,2026-05-24 10:20:00,PHJAI019
+nova_jai_0050705,JAI-01,home,collected,2026-05-24 06:22:00,PHJAI047
+nova_jai_0050706,JAI-02,clinic,collected,2026-05-07 12:48:00,
+nova_jai_0050707,JAI-01,clinic,no_show,,
+nova_jai_0050708,JAI-01,clinic,no_show,,
+nova_jai_0050709,JAI-04,clinic,collected,2026-05-04 10:39:00,
+nova_jai_0050710,JAI-01,home,collected,2026-05-21 07:31:00,PHJAI018
+nova_jai_0050711,JAI-02,clinic,no_show,,
+nova_jai_0050712,JAI-02,clinic,collected,2026-05-04 10:55:00,
+nova_jai_0050713,JAI-01,clinic,collected,2026-05-02 07:25:00,
+nova_jai_0050714,JAI-01,clinic,collected,2026-05-27 10:08:00,
+nova_jai_0050715,JAI-01,home,no_show,,PHJAI031
+nova_jai_0050716,JAI-03,clinic,collected,2026-05-18 06:49:00,
+nova_jai_0050717,JAI-02,home,collected,2026-05-22 20:19:00,PHJAI021
+nova_jai_0050718,JAI-01,clinic,no_show,,
+nova_jai_0050719,JAI-03,clinic,collected,2026-05-12 09:23:00,
+nova_jai_0050720,JAI-04,home,collected,2026-05-20 10:07:00,PHJAI004
+nova_jai_0050721,JAI-03,home,collected,2026-05-16 12:50:00,PHJAI056
+nova_jai_0050722,JAI-04,clinic,no_show,,
+nova_jai_0050723,JAI-04,home,collected,2026-05-25 07:26:00,PHJAI002
+nova_jai_0050724,JAI-01,home,collected,2026-05-22 09:08:00,PHJAI006
+nova_jai_0050725,JAI-01,clinic,no_show,,
+nova_jai_0050726,JAI-03,clinic,collected,2026-05-04 18:03:00,
+nova_jai_0050727,JAI-01,clinic,collected,2026-05-18 09:07:00,
+nova_jai_0050728,JAI-01,clinic,collected,2026-05-07 14:39:00,
+nova_jai_0050729,JAI-01,home,collected,2026-05-02 10:16:00,PHJAI015
+nova_jai_0050730,JAI-02,home,collected,2026-05-27 06:33:00,PHJAI004
+nova_jai_0050731,JAI-04,clinic,collected,2026-05-28 10:16:00,
+nova_jai_0050732,JAI-04,home,collected,2026-05-28 09:53:00,PHJAI036
+nova_jai_0050733,JAI-03,home,collected,2026-05-15 13:00:00,PHJAI034
+nova_jai_0050734,JAI-05,clinic,collected,2026-05-29 09:43:00,
+nova_jai_0050735,JAI-01,clinic,collected,2026-05-21 14:44:00,
+nova_jai_0050736,JAI-03,home,collected,2026-05-07 15:03:00,PHJAI059
+nova_jai_0050737,JAI-02,clinic,collected,2026-05-06 09:16:00,
+nova_jai_0050739,JAI-03,clinic,collected,2026-05-07 08:17:00,
+nova_jai_0050740,JAI-03,clinic,collected,2026-05-26 09:53:00,
+nova_jai_0050741,JAI-04,home,collected,2026-05-25 12:56:00,PHJAI043
+nova_jai_0050742,JAI-01,home,no_show,,PHJAI046
+nova_jai_0050743,JAI-01,home,collected,2026-05-26 20:06:00,PHJAI053
+nova_jai_0050744,JAI-02,home,collected,2026-05-16 06:49:00,PHJAI032
+nova_jai_0050745,JAI-01,clinic,collected,2026-05-10 09:58:00,
+nova_jai_0050746,JAI-02,clinic,collected,2026-05-27 12:24:00,
+nova_jai_0050747,JAI-01,home,collected,2026-05-26 20:04:00,PHJAI036
+nova_jai_0050748,JAI-01,clinic,collected,2026-05-22 11:54:00,
+nova_jai_0050749,JAI-03,home,collected,2026-05-23 13:19:00,PHJAI031
+nova_jai_0050750,JAI-04,clinic,collected,2026-05-05 07:47:00,
+nova_jai_0050751,JAI-01,clinic,collected,2026-05-25 08:18:00,
+nova_jai_0050752,JAI-01,home,collected,2026-05-01 18:31:00,PHJAI015
+nova_jai_0050753,JAI-01,clinic,collected,2026-05-23 16:55:00,
+nova_jai_0050754,JAI-03,home,collected,2026-05-27 13:19:00,PHJAI056
+nova_jai_0050755,JAI-01,clinic,no_show,,
+nova_jai_0050756,JAI-01,home,collected,2026-05-25 09:14:00,PHJAI054
+nova_jai_0050757,JAI-01,home,collected,2026-05-23 09:45:00,PHJAI030
+nova_jai_0050758,JAI-03,clinic,no_show,,
+nova_jai_0050759,JAI-03,clinic,collected,2026-05-22 14:45:00,
+nova_jai_0050760,JAI-03,clinic,collected,2026-05-19 09:38:00,
+nova_jai_0050761,JAI-04,clinic,collected,2026-05-10 11:19:00,
+nova_jai_0050762,JAI-04,home,collected,2026-05-24 08:21:00,PHJAI059
+nova_jai_0050763,JAI-01,clinic,collected,2026-05-05 07:07:00,
+nova_jai_0050764,JAI-03,home,collected,2026-05-28 19:29:00,PHJAI015
+nova_jai_0050765,JAI-01,home,collected,2026-05-09 17:44:00,PHJAI006
+nova_jai_0050766,JAI-03,home,collected,2026-05-03 07:23:00,PHJAI016
+nova_jai_0050767,JAI-03,clinic,collected,2026-05-04 13:00:00,
+nova_jai_0050768,JAI-01,clinic,collected,2026-05-13 09:26:00,
+nova_jai_0050769,JAI-02,home,no_show,,PHJAI055
+nova_jai_0050770,JAI-01,clinic,collected,2026-05-29 12:38:00,
+nova_jai_0050771,JAI-02,clinic,collected,2026-05-23 13:39:00,
+nova_jai_0050772,JAI-02,clinic,collected,2026-05-27 07:53:00,
+nova_jai_0050773,JAI-04,clinic,collected,2026-05-10 06:39:00,
+nova_jai_0050774,JAI-05,clinic,collected,2026-05-05 12:04:00,
+nova_jai_0050775,JAI-02,clinic,collected,2026-05-17 14:28:00,
+nova_jai_0050776,JAI-01,home,collected,2026-05-29 10:55:00,PHJAI029
+nova_jai_0050777,JAI-01,home,collected,2026-05-13 07:16:00,PHJAI040
+nova_jai_0050778,JAI-02,home,collected,2026-05-20 11:20:00,PHJAI042
+nova_jai_0050779,JAI-02,clinic,collected,2026-05-15 08:10:00,
+nova_jai_0050780,JAI-01,clinic,collected,2026-05-14 13:35:00,
+nova_jai_0050781,JAI-03,clinic,collected,2026-05-19 08:03:00,
+nova_jai_0050782,JAI-02,clinic,collected,2026-05-21 08:25:00,
+nova_jai_0050783,JAI-03,clinic,no_show,,
+nova_jai_0050784,JAI-01,home,collected,2026-05-29 17:48:00,PHJAI022
+nova_jai_0050785,JAI-03,home,collected,2026-05-19 13:15:00,PHJAI035
+nova_jai_0050786,JAI-01,home,collected,2026-05-11 13:04:00,PHJAI004
+nova_jai_0050787,JAI-02,clinic,collected,2026-05-15 16:51:00,
+nova_jai_0050788,JAI-03,clinic,no_show,,
+nova_jai_0050789,JAI-01,clinic,collected,2026-05-09 08:54:00,
+nova_jai_0050790,JAI-03,home,collected,2026-05-04 19:40:00,PHJAI050
+nova_jai_0050791,JAI-03,home,collected,2026-05-10 17:59:00,PHJAI049
+nova_jai_0050792,JAI-03,home,collected,2026-05-20 16:24:00,PHJAI012
+nova_jai_0050793,JAI-02,clinic,collected,2026-05-06 12:17:00,
+nova_jai_0050795,JAI-01,clinic,no_show,,
+nova_jai_0050796,JAI-01,clinic,collected,2026-05-19 13:33:00,
+nova_jai_0050798,JAI-01,clinic,collected,2026-05-16 08:23:00,
+nova_jai_0050799,JAI-02,clinic,collected,2026-05-11 13:00:00,
+nova_jai_0050800,JAI-01,home,collected,2026-05-11 08:57:00,PHJAI043
+nova_jai_0050801,JAI-02,home,collected,2026-05-08 10:47:00,PHJAI008
+nova_jai_0050802,JAI-03,clinic,collected,2026-05-06 12:02:00,
+nova_jai_0050803,JAI-03,home,collected,2026-05-26 08:34:00,PHJAI022
+nova_jai_0050804,JAI-01,home,no_show,,PHJAI031
+nova_jai_0050805,JAI-03,clinic,collected,2026-05-24 18:30:00,
+nova_jai_0050806,JAI-02,home,collected,2026-05-14 17:25:00,PHJAI026
+nova_jai_0050807,JAI-05,clinic,collected,2026-05-24 19:11:00,
+nova_jai_0050808,JAI-01,home,collected,2026-05-22 09:18:00,PHJAI035
+nova_jai_0050809,JAI-03,home,collected,2026-05-22 11:34:00,PHJAI033
+nova_jai_0050810,JAI-01,clinic,collected,2026-05-28 17:55:00,
+nova_jai_0050811,JAI-03,home,no_show,,PHJAI041
+nova_jai_0050812,JAI-03,clinic,collected,2026-05-10 07:51:00,
+nova_jai_0050813,JAI-04,home,collected,2026-05-25 14:36:00,PHJAI032
+nova_jai_0050814,JAI-03,home,collected,2026-05-15 18:22:00,PHJAI023
+nova_jai_0050815,JAI-02,clinic,no_show,,
+nova_jai_0050816,JAI-04,home,no_show,,PHJAI054
+nova_jai_0050817,JAI-01,clinic,collected,2026-05-15 09:43:00,
+nova_jai_0050818,JAI-01,clinic,collected,2026-05-30 06:40:00,
+nova_jai_0050819,JAI-01,clinic,collected,2026-05-24 18:27:00,
+nova_jai_0050820,JAI-01,clinic,no_show,,
+nova_jai_0050821,JAI-01,clinic,collected,2026-05-22 11:04:00,
+nova_jai_0050822,JAI-03,clinic,collected,2026-05-09 13:08:00,
+nova_jai_0050823,JAI-04,home,collected,2026-05-15 07:21:00,PHJAI054
+nova_jai_0050824,JAI-04,clinic,collected,2026-05-18 08:19:00,
+nova_jai_0050825,JAI-02,clinic,collected,2026-05-08 11:32:00,
+nova_jai_0050826,JAI-02,home,collected,2026-05-06 08:18:00,PHJAI054
+nova_jai_0050827,JAI-02,home,collected,2026-05-02 14:49:00,PHJAI051
+nova_jai_0050828,JAI-03,clinic,collected,2026-05-12 20:35:00,
+nova_jai_0050829,JAI-01,clinic,no_show,,
+nova_jai_0050830,JAI-01,clinic,collected,2026-05-12 16:44:00,
+nova_jai_0050831,JAI-01,home,collected,2026-05-18 12:56:00,PHJAI020
+nova_jai_0050832,JAI-02,clinic,collected,2026-05-09 19:34:00,
+nova_jai_0050833,JAI-03,clinic,collected,2026-05-07 13:45:00,
+nova_jai_0050834,JAI-01,home,collected,2026-05-20 18:17:00,PHJAI037
+nova_jai_0050835,JAI-04,clinic,collected,2026-05-12 17:35:00,
+nova_jai_0050836,JAI-02,clinic,collected,2026-05-16 09:30:00,
+nova_jai_0050837,JAI-01,clinic,collected,2026-05-05 19:39:00,
+nova_jai_0050838,JAI-01,clinic,collected,2026-05-18 18:53:00,
+nova_jai_0050839,JAI-01,clinic,collected,2026-05-21 20:03:00,
+nova_jai_0050840,JAI-02,clinic,collected,2026-05-21 13:09:00,
+nova_jai_0050841,JAI-03,clinic,collected,2026-05-17 19:41:00,
+nova_jai_0050842,JAI-01,clinic,collected,2026-05-08 19:12:00,
+nova_jai_0050844,JAI-04,home,collected,2026-05-06 07:03:00,PHJAI011
+nova_jai_0050845,JAI-02,clinic,no_show,,
+nova_jai_0050846,JAI-03,clinic,collected,2026-05-14 09:35:00,
+nova_jai_0050847,JAI-04,home,collected,2026-05-11 12:20:00,PHJAI015
+nova_jai_0050848,JAI-04,clinic,collected,2026-05-02 09:06:00,
+nova_jai_0050849,JAI-02,home,collected,2026-05-24 06:00:00,PHJAI006
+nova_jai_0050850,JAI-02,home,collected,2026-05-30 19:53:00,PHJAI051
+nova_jai_0050851,JAI-01,clinic,collected,2026-05-09 13:50:00,
+nova_jai_0050852,JAI-01,home,collected,2026-05-01 16:26:00,PHJAI006
+nova_jai_0050853,JAI-03,home,collected,2026-05-28 12:23:00,PHJAI042
+nova_jai_0050854,JAI-01,clinic,collected,2026-05-18 08:37:00,
+nova_jai_0050855,JAI-01,clinic,collected,2026-05-25 12:51:00,
+nova_jai_0050856,JAI-01,clinic,collected,2026-05-20 17:18:00,
+nova_jai_0050857,JAI-02,home,collected,2026-05-07 13:04:00,PHJAI018
+nova_jai_0050858,JAI-01,clinic,collected,2026-05-24 07:16:00,
+nova_jai_0050859,JAI-01,home,collected,2026-05-19 16:52:00,PHJAI003
+nova_jai_0050860,JAI-03,home,collected,2026-05-24 14:00:00,PHJAI057
+nova_jai_0050862,JAI-01,clinic,collected,2026-05-30 16:22:00,
+nova_jai_0050863,JAI-02,clinic,collected,2026-05-01 07:10:00,
+nova_jai_0050864,JAI-04,clinic,collected,2026-05-14 17:28:00,
+nova_jai_0050865,JAI-02,clinic,no_show,,
+nova_jai_0050866,JAI-01,clinic,collected,2026-05-14 09:01:00,
+nova_jai_0050867,JAI-02,clinic,collected,2026-05-21 07:48:00,
+nova_jai_0050868,JAI-04,clinic,collected,2026-05-27 10:04:00,
+nova_jai_0050869,JAI-02,clinic,no_show,,
+nova_jai_0050870,JAI-01,home,collected,2026-05-15 18:06:00,PHJAI052
+nova_jai_0050871,JAI-03,home,collected,2026-05-09 10:13:00,PHJAI044
+nova_jai_0050872,JAI-01,clinic,collected,2026-05-30 13:04:00,
+nova_jai_0050873,JAI-04,home,collected,2026-05-22 09:32:00,PHJAI045
+nova_jai_0050874,JAI-02,clinic,collected,2026-05-18 08:15:00,
+nova_jai_0050875,JAI-02,clinic,collected,2026-05-30 19:42:00,
+nova_jai_0050876,JAI-02,clinic,collected,2026-05-22 10:43:00,
+nova_jai_0050877,JAI-01,clinic,collected,2026-05-13 10:56:00,
+nova_jai_0050878,JAI-01,home,collected,2026-05-04 09:14:00,PHJAI005
+nova_jai_0050879,JAI-03,home,collected,2026-05-08 13:01:00,PHJAI050
+nova_jai_0050880,JAI-01,clinic,collected,2026-05-18 14:11:00,
+nova_jai_0050881,JAI-01,clinic,collected,2026-05-01 07:41:00,
+nova_jai_0050882,JAI-02,home,collected,2026-05-29 13:20:00,PHJAI008
+nova_jai_0050883,JAI-01,clinic,collected,2026-05-04 08:04:00,
+nova_jai_0050884,JAI-01,clinic,collected,2026-05-28 17:37:00,
+nova_jai_0050885,JAI-03,home,collected,2026-05-12 08:01:00,PHJAI004
+nova_jai_0050886,JAI-04,clinic,collected,2026-05-16 13:33:00,
+nova_jai_0050887,JAI-02,clinic,collected,2026-05-29 09:54:00,
+nova_jai_0050888,JAI-02,clinic,collected,2026-05-27 14:11:00,
+nova_jai_0050889,JAI-02,clinic,collected,2026-05-02 19:30:00,
+nova_jai_0050890,JAI-04,home,collected,2026-05-27 11:13:00,PHJAI053
+nova_jai_0050891,JAI-04,clinic,no_show,,
+nova_jai_0050892,JAI-01,home,collected,2026-05-29 16:30:00,PHJAI057
+nova_jai_0050893,JAI-02,clinic,collected,2026-05-21 09:35:00,
+nova_jai_0050894,JAI-01,home,collected,2026-05-10 19:23:00,PHJAI050
+nova_jai_0050895,JAI-01,home,collected,2026-05-21 07:57:00,PHJAI040
+nova_jai_0050896,JAI-02,clinic,no_show,,
+nova_jai_0050897,JAI-03,clinic,collected,2026-05-08 11:22:00,
+nova_jai_0050898,JAI-02,home,collected,2026-05-31 12:50:00,PHJAI040
+nova_jai_0050900,JAI-01,home,collected,2026-05-18 09:58:00,PHJAI058
+nova_jai_0050901,JAI-01,clinic,collected,2026-05-14 12:34:00,
+nova_jai_0050902,JAI-01,clinic,collected,2026-05-30 07:45:00,
+nova_jai_0050903,JAI-01,clinic,no_show,,
+nova_jai_0050904,JAI-04,home,collected,2026-05-25 19:51:00,PHJAI053
+nova_jai_0050906,JAI-03,clinic,collected,2026-05-18 11:45:00,
+nova_jai_0050907,JAI-03,clinic,collected,2026-05-10 13:59:00,
+nova_jai_0050908,JAI-01,home,collected,2026-05-18 08:59:00,PHJAI053
+nova_jai_0050909,JAI-01,clinic,collected,2026-05-15 08:39:00,
+nova_jai_0050910,JAI-04,home,collected,2026-05-15 08:44:00,PHJAI047
+nova_jai_0050911,JAI-01,clinic,collected,2026-05-16 07:12:00,
+nova_jai_0050912,JAI-02,clinic,collected,2026-05-17 08:58:00,
+nova_jai_0050913,JAI-01,clinic,collected,2026-05-27 11:31:00,
+nova_jai_0050914,JAI-01,home,collected,2026-05-07 08:05:00,PHJAI034
+nova_jai_0050915,JAI-01,clinic,collected,2026-05-17 16:58:00,
+nova_jai_0050916,JAI-01,clinic,collected,2026-05-07 09:02:00,
+nova_jai_0050917,JAI-04,clinic,collected,2026-05-18 09:45:00,
+nova_jai_0050918,JAI-01,home,collected,2026-05-10 12:21:00,PHJAI046
+nova_jai_0050919,JAI-03,clinic,no_show,,
+nova_jai_0050920,JAI-02,home,collected,2026-05-18 12:22:00,PHJAI010
+nova_jai_0050921,JAI-01,clinic,no_show,,
+nova_jai_0050922,JAI-01,clinic,collected,2026-05-20 10:17:00,
+nova_jai_0050923,JAI-01,clinic,no_show,,
+nova_jai_0050924,JAI-04,clinic,collected,2026-05-04 09:25:00,
+nova_jai_0050925,JAI-03,home,collected,2026-05-05 17:53:00,PHJAI031
+nova_jai_0050926,JAI-02,clinic,collected,2026-05-27 15:08:00,
+nova_jai_0050927,JAI-03,clinic,collected,2026-05-18 08:58:00,
+nova_jai_0050928,JAI-02,home,collected,2026-05-30 10:49:00,PHJAI030
+nova_jai_0050929,JAI-05,clinic,collected,2026-05-25 08:22:00,
+nova_jai_0050930,JAI-01,clinic,no_show,,
+nova_jai_0050931,JAI-04,home,collected,2026-05-08 17:02:00,PHJAI023
+nova_jai_0050932,JAI-03,home,collected,2026-05-09 15:56:00,PHJAI017
+nova_jai_0050933,JAI-02,clinic,collected,2026-05-25 18:25:00,
+nova_jai_0050934,JAI-03,home,collected,2026-05-26 19:07:00,PHJAI052
+nova_jai_0050935,JAI-02,home,collected,2026-05-28 09:40:00,PHJAI053
+nova_jai_0050937,JAI-01,clinic,collected,2026-05-26 08:49:00,
+nova_jai_0050938,JAI-01,clinic,collected,2026-05-22 06:40:00,
+nova_jai_0050939,JAI-02,clinic,collected,2026-05-26 20:49:00,
+nova_jai_0050940,JAI-03,clinic,collected,2026-05-03 17:25:00,
+nova_jai_0050941,JAI-02,clinic,collected,2026-05-02 20:27:00,
+nova_jai_0050942,JAI-01,clinic,collected,2026-05-13 10:29:00,
+nova_jai_0050943,JAI-01,clinic,collected,2026-05-04 06:42:00,
+nova_jai_0050944,JAI-02,home,collected,2026-05-22 07:57:00,PHJAI049
+nova_jai_0050945,JAI-01,clinic,collected,2026-05-25 09:41:00,
+nova_jai_0050946,JAI-01,clinic,collected,2026-05-22 08:58:00,
+nova_jai_0050947,JAI-04,clinic,collected,2026-05-04 10:44:00,
+nova_jai_0050948,JAI-02,home,collected,2026-05-25 06:13:00,PHJAI027
+nova_jai_0050949,JAI-02,clinic,collected,2026-05-19 08:23:00,
+nova_jai_0050950,JAI-01,home,collected,2026-05-05 18:41:00,PHJAI002
+nova_jai_0050951,JAI-01,home,no_show,,PHJAI012
+nova_jai_0050953,JAI-02,home,collected,2026-05-02 17:53:00,PHJAI001
+nova_jai_0050954,JAI-03,clinic,collected,2026-05-31 08:23:00,
+nova_jai_0050955,JAI-01,clinic,collected,2026-05-25 09:02:00,
+nova_jai_0050956,JAI-03,clinic,collected,2026-05-07 08:43:00,
+nova_jai_0050957,JAI-03,clinic,collected,2026-05-02 08:32:00,
+nova_jai_0050958,JAI-04,home,collected,2026-05-07 07:00:00,PHJAI012
+nova_jai_0050959,JAI-01,clinic,collected,2026-05-17 20:43:00,
+nova_jai_0050960,JAI-01,clinic,collected,2026-05-27 07:12:00,
+nova_jai_0050961,JAI-01,home,collected,2026-05-02 13:20:00,PHJAI058
+nova_jai_0050962,JAI-04,clinic,collected,2026-05-27 08:29:00,
+nova_jai_0050963,JAI-02,clinic,collected,2026-05-25 07:46:00,
+nova_jai_0050964,JAI-02,clinic,collected,2026-05-06 14:34:00,
+nova_jai_0050965,JAI-04,home,collected,2026-05-30 11:18:00,PHJAI031
+nova_jai_0050966,JAI-01,home,collected,2026-05-06 16:31:00,PHJAI043
+nova_jai_0050967,JAI-01,home,collected,2026-05-28 18:01:00,PHJAI049
+nova_jai_0050968,JAI-03,clinic,collected,2026-05-10 11:09:00,
+nova_jai_0050969,JAI-01,clinic,collected,2026-05-07 09:40:00,
+nova_jai_0050970,JAI-01,home,collected,2026-05-28 14:12:00,PHJAI004
+nova_jai_0050971,JAI-03,clinic,collected,2026-05-23 09:46:00,
+nova_jai_0050972,JAI-04,clinic,collected,2026-05-31 07:07:00,
+nova_jai_0050973,JAI-01,clinic,collected,2026-05-09 10:02:00,
+nova_jai_0050974,JAI-03,home,collected,2026-05-03 08:57:00,PHJAI024
+nova_jai_0050975,JAI-04,clinic,collected,2026-05-05 07:05:00,
+nova_jai_0050976,JAI-01,home,collected,2026-05-23 12:47:00,PHJAI018
+nova_jai_0050977,JAI-01,home,collected,2026-05-12 11:15:00,PHJAI013
+nova_jai_0050978,JAI-01,home,collected,2026-05-20 10:23:00,PHJAI044
+nova_jai_0050979,JAI-03,clinic,collected,2026-05-29 13:22:00,
+nova_jai_0050980,JAI-01,clinic,no_show,,
+nova_jai_0050981,JAI-02,home,collected,2026-05-07 13:33:00,PHJAI013
+nova_jai_0050982,JAI-02,home,no_show,,PHJAI046
+nova_jai_0050983,JAI-03,clinic,collected,2026-05-31 16:54:00,
+nova_jai_0050984,JAI-01,clinic,collected,2026-05-31 12:00:00,
+nova_jai_0050985,JAI-03,clinic,collected,2026-05-17 08:38:00,
+nova_jai_0050986,JAI-02,clinic,collected,2026-05-24 20:18:00,
+nova_jai_0050987,JAI-01,home,collected,2026-05-13 09:21:00,PHJAI024
+nova_jai_0050988,JAI-02,home,collected,2026-05-05 09:13:00,PHJAI019
+nova_jai_0050989,JAI-01,clinic,collected,2026-05-29 18:18:00,
+nova_jai_0050990,JAI-04,clinic,no_show,,
+nova_jai_0050991,JAI-02,home,collected,2026-05-03 07:32:00,PHJAI047
+nova_jai_0050992,JAI-01,home,no_show,,PHJAI044
+nova_jai_0050994,JAI-01,clinic,collected,2026-05-11 08:34:00,
+nova_jai_0050995,JAI-04,home,collected,2026-05-06 10:12:00,PHJAI058
+nova_jai_0050996,JAI-04,clinic,collected,2026-05-09 12:31:00,
+nova_jai_0050997,JAI-03,clinic,no_show,,
+nova_jai_0050998,JAI-01,clinic,collected,2026-05-13 13:27:00,
+nova_jai_0050999,JAI-01,home,collected,2026-05-24 08:46:00,PHJAI026
+nova_jai_0051000,JAI-01,home,collected,2026-05-08 08:14:00,PHJAI014
+nova_jai_0051001,JAI-03,home,no_show,,PHJAI005
+nova_jai_0051002,JAI-01,home,collected,2026-05-26 07:41:00,PHJAI056
+nova_jai_0051003,JAI-01,clinic,no_show,,
+nova_jai_0051004,JAI-02,home,collected,2026-05-27 13:21:00,PHJAI053
+nova_jai_0051005,JAI-01,home,collected,2026-05-08 18:48:00,PHJAI050
+nova_jai_0051006,JAI-02,clinic,no_show,,
+nova_jai_0051007,JAI-03,clinic,collected,2026-05-22 10:43:00,
+nova_jai_0051008,JAI-02,home,collected,2026-05-21 11:52:00,PHJAI036
+nova_jai_0051009,JAI-04,clinic,collected,2026-05-01 06:15:00,
+nova_jai_0051010,JAI-01,clinic,collected,2026-05-20 18:08:00,
+nova_jai_0051011,JAI-01,clinic,collected,2026-05-04 08:57:00,
+nova_jai_0051012,JAI-03,home,collected,2026-05-02 18:04:00,PHJAI022
+nova_jai_0051013,JAI-03,home,collected,2026-05-22 17:07:00,PHJAI031
+nova_jai_0051014,JAI-01,clinic,no_show,,
+nova_jai_0051015,JAI-05,home,no_show,,PHJAI056
+nova_jai_0051016,JAI-03,clinic,collected,2026-05-01 11:29:00,
+nova_jai_0051017,JAI-01,home,collected,2026-05-06 12:56:00,PHJAI038
+nova_jai_0051019,JAI-01,clinic,collected,2026-05-21 18:13:00,
+nova_jai_0051020,JAI-05,home,collected,2026-05-11 07:25:00,PHJAI027
+nova_jai_0051021,JAI-02,home,collected,2026-05-16 16:26:00,PHJAI056
+nova_jai_0051022,JAI-03,clinic,no_show,,
+nova_jai_0051023,JAI-03,clinic,collected,2026-05-06 09:36:00,
+nova_jai_0051024,JAI-03,clinic,no_show,,
+nova_jai_0051025,JAI-02,clinic,no_show,,
+nova_jai_0051026,JAI-04,home,collected,2026-05-01 10:58:00,PHJAI034
+nova_jai_0051027,JAI-03,clinic,collected,2026-05-19 08:17:00,
+nova_jai_0051028,JAI-02,home,collected,2026-05-03 07:52:00,PHJAI020
+nova_jai_0051029,JAI-05,clinic,collected,2026-05-27 10:09:00,
+nova_jai_0051030,JAI-02,clinic,collected,2026-05-07 07:38:00,
+nova_jai_0051031,JAI-01,clinic,no_show,,
+nova_jai_0051032,JAI-04,clinic,collected,2026-05-03 13:15:00,
+nova_jai_0051033,JAI-03,clinic,collected,2026-05-22 11:02:00,
+nova_jai_0051034,JAI-02,clinic,collected,2026-05-09 09:14:00,
+nova_jai_0051035,JAI-01,home,collected,2026-05-22 08:41:00,PHJAI004
+nova_jai_0051036,JAI-01,clinic,collected,2026-05-30 12:21:00,
+nova_jai_0051037,JAI-01,clinic,collected,2026-05-27 14:25:00,
+nova_jai_0051038,JAI-01,clinic,no_show,,
+nova_jai_0051039,JAI-02,clinic,collected,2026-05-24 13:23:00,
+nova_jai_0051040,JAI-04,clinic,collected,2026-05-08 12:14:00,
+nova_jai_0051041,JAI-02,home,collected,2026-05-06 20:23:00,PHJAI029
+nova_jai_0051042,JAI-04,clinic,collected,2026-05-31 10:09:00,
+nova_jai_0051043,JAI-01,clinic,no_show,,
+nova_jai_0051044,JAI-02,home,collected,2026-05-21 14:15:00,PHJAI029
+nova_jai_0051045,JAI-02,clinic,collected,2026-05-11 20:57:00,
+nova_jai_0051046,JAI-01,clinic,collected,2026-05-21 14:00:00,
+nova_jai_0051047,JAI-01,home,collected,2026-05-21 19:26:00,PHJAI049
+nova_jai_0051048,JAI-01,home,collected,2026-05-21 07:33:00,PHJAI002
+nova_jai_0051049,JAI-01,clinic,collected,2026-05-12 13:39:00,
+nova_jai_0051050,JAI-02,home,no_show,,PHJAI030
+nova_jai_0051051,JAI-03,clinic,collected,2026-05-06 08:58:00,
+nova_jai_0051052,JAI-04,clinic,collected,2026-05-22 19:47:00,
+nova_jai_0051053,JAI-02,clinic,collected,2026-05-14 08:10:00,
+nova_jai_0051054,JAI-01,home,collected,2026-05-20 11:07:00,PHJAI054
+nova_jai_0051055,JAI-03,clinic,no_show,,
+nova_jai_0051056,JAI-03,clinic,collected,2026-05-04 09:16:00,
+nova_jai_0051057,JAI-02,clinic,collected,2026-05-19 09:13:00,
+nova_jai_0051058,JAI-01,home,collected,2026-05-26 13:29:00,PHJAI022
+nova_jai_0051059,JAI-02,clinic,collected,2026-05-18 07:31:00,
+nova_jai_0051060,JAI-02,home,collected,2026-05-06 12:57:00,PHJAI032
+nova_jai_0051061,JAI-03,clinic,collected,2026-05-15 09:07:00,
+nova_jai_0051062,JAI-01,home,collected,2026-05-28 18:00:00,PHJAI049
+nova_jai_0051063,JAI-04,home,collected,2026-05-28 12:54:00,PHJAI048
+nova_jai_0051064,JAI-01,home,collected,2026-05-12 13:09:00,PHJAI007
+nova_jai_0051065,JAI-02,clinic,collected,2026-05-11 15:26:00,
+nova_jai_0051066,JAI-03,home,collected,2026-05-28 07:49:00,PHJAI021
+nova_jai_0051067,JAI-04,clinic,no_show,,
+nova_jai_0051069,JAI-02,clinic,collected,2026-05-28 09:45:00,
+nova_jai_0051070,JAI-01,home,no_show,,PHJAI013
+nova_jai_0051071,JAI-03,clinic,collected,2026-05-28 07:12:00,
+nova_jai_0051072,JAI-01,clinic,collected,2026-05-15 12:27:00,
+nova_jai_0051073,JAI-03,home,collected,2026-05-16 07:58:00,PHJAI053
+nova_jai_0051074,JAI-02,home,collected,2026-05-29 12:47:00,PHJAI014
+nova_jai_0051075,JAI-02,clinic,no_show,,
+nova_jai_0051076,JAI-03,home,collected,2026-05-03 11:54:00,PHJAI055
+nova_jai_0051077,JAI-03,clinic,collected,2026-05-27 20:23:00,
+nova_jai_0051078,JAI-01,clinic,collected,2026-05-14 09:00:00,
+nova_jai_0051079,JAI-02,clinic,collected,2026-05-27 06:37:00,
+nova_jai_0051080,JAI-01,home,collected,2026-05-14 09:19:00,PHJAI051
+nova_jai_0051081,JAI-04,clinic,collected,2026-05-15 16:21:00,
+nova_jai_0051082,JAI-03,clinic,collected,2026-05-11 12:10:00,
+nova_jai_0051083,JAI-01,clinic,collected,2026-05-06 06:27:00,
+nova_jai_0051084,JAI-01,home,collected,2026-05-29 07:32:00,PHJAI030
+nova_jai_0051085,JAI-01,home,collected,2026-05-18 12:54:00,PHJAI017
+nova_jai_0051086,JAI-02,clinic,no_show,,
+nova_jai_0051087,JAI-02,home,collected,2026-05-20 17:50:00,PHJAI028
+nova_jai_0051088,JAI-02,home,no_show,,PHJAI016
+nova_jai_0051089,JAI-03,home,collected,2026-05-08 12:13:00,PHJAI015
+nova_jai_0051090,JAI-02,home,collected,2026-05-12 14:37:00,PHJAI051
+nova_jai_0051091,JAI-01,clinic,collected,2026-05-23 17:04:00,
+nova_jai_0051092,JAI-02,clinic,collected,2026-05-16 08:39:00,
+nova_jai_0051093,JAI-03,clinic,collected,2026-05-08 12:09:00,
+nova_jai_0051094,JAI-02,clinic,collected,2026-05-22 09:51:00,
+nova_jai_0051095,JAI-03,home,collected,2026-05-23 16:46:00,PHJAI004
+nova_jai_0051096,JAI-02,clinic,no_show,,
+nova_jai_0051097,JAI-02,home,collected,2026-05-04 09:43:00,PHJAI045
+nova_jai_0051098,JAI-01,home,collected,2026-05-26 06:53:00,PHJAI008
+nova_jai_0051099,JAI-02,clinic,collected,2026-05-19 14:46:00,
+nova_jai_0051100,JAI-04,clinic,no_show,,
+nova_jai_0051101,JAI-01,clinic,collected,2026-05-03 20:22:00,
+nova_jai_0051102,JAI-02,home,collected,2026-05-18 13:19:00,PHJAI018
+nova_jai_0051103,JAI-02,clinic,no_show,,
+nova_jai_0051104,JAI-02,home,collected,2026-05-25 09:20:00,PHJAI014
+nova_jai_0051105,JAI-04,home,collected,2026-05-19 18:33:00,PHJAI031
+nova_jai_0051106,JAI-04,home,collected,2026-05-18 11:48:00,PHJAI008
+nova_jai_0051107,JAI-01,clinic,collected,2026-05-25 19:33:00,
+nova_jai_0051108,JAI-04,clinic,no_show,,
+nova_jai_0051109,JAI-03,home,collected,2026-05-26 11:47:00,PHJAI025
+nova_jai_0051110,JAI-01,clinic,collected,2026-05-16 10:19:00,
+nova_jai_0051111,JAI-01,clinic,collected,2026-05-16 13:59:00,
+nova_jai_0051112,JAI-03,clinic,collected,2026-05-07 08:42:00,
+nova_jai_0051113,JAI-03,home,collected,2026-05-15 08:22:00,PHJAI054
+nova_jai_0051114,JAI-01,home,collected,2026-05-13 07:43:00,PHJAI027
+nova_jai_0051115,JAI-01,clinic,collected,2026-05-21 07:37:00,
+nova_jai_0051116,JAI-01,clinic,collected,2026-05-17 07:30:00,
+nova_jai_0051117,JAI-03,clinic,no_show,,
+nova_jai_0051118,JAI-02,home,collected,2026-05-06 09:44:00,PHJAI017
+nova_jai_0051119,JAI-01,clinic,collected,2026-05-03 06:26:00,
+nova_jai_0051120,JAI-01,clinic,no_show,,
+nova_jai_0051121,JAI-02,home,collected,2026-05-20 06:49:00,PHJAI050
+nova_jai_0051122,JAI-02,home,collected,2026-05-13 18:15:00,PHJAI021
+nova_jai_0051123,JAI-02,home,collected,2026-05-18 08:28:00,PHJAI037
+nova_jai_0051124,JAI-04,clinic,no_show,,
+nova_jai_0051125,JAI-02,clinic,no_show,,
+nova_jai_0051126,JAI-04,home,collected,2026-05-22 07:47:00,PHJAI046
+nova_jai_0051127,JAI-02,clinic,collected,2026-05-24 20:21:00,
+nova_jai_0051128,JAI-04,clinic,collected,2026-05-02 17:03:00,
+nova_jai_0051129,JAI-01,clinic,collected,2026-05-26 12:14:00,
+nova_jai_0051130,JAI-03,home,collected,2026-05-03 10:42:00,PHJAI025
+nova_jai_0051131,JAI-03,clinic,no_show,,
+nova_jai_0051132,JAI-04,clinic,collected,2026-05-07 10:40:00,
+nova_jai_0051134,JAI-03,home,collected,2026-05-06 07:56:00,PHJAI010
+nova_jai_0051135,JAI-03,clinic,collected,2026-05-24 12:49:00,
+nova_jai_0051136,JAI-02,clinic,no_show,,
+nova_jai_0051137,JAI-03,clinic,collected,2026-05-20 19:02:00,
+nova_jai_0051138,JAI-01,clinic,collected,2026-05-25 14:29:00,
+nova_jai_0051139,JAI-01,home,collected,2026-05-28 10:30:00,PHJAI035
+nova_jai_0051140,JAI-01,home,collected,2026-05-13 19:46:00,PHJAI040
+nova_jai_0051141,JAI-01,clinic,collected,2026-05-23 07:59:00,
+nova_jai_0051142,JAI-02,home,collected,2026-05-23 10:14:00,PHJAI037
+nova_jai_0051143,JAI-01,clinic,no_show,,
+nova_jai_0051144,JAI-01,home,collected,2026-05-07 09:27:00,PHJAI039
+nova_jai_0051145,JAI-01,home,collected,2026-05-26 10:44:00,PHJAI021
+nova_jai_0051146,JAI-03,home,collected,2026-05-06 09:37:00,PHJAI005
+nova_jai_0051147,JAI-01,clinic,collected,2026-05-29 09:57:00,
+nova_jai_0051148,JAI-01,home,collected,2026-05-08 08:09:00,PHJAI042
+nova_jai_0051149,JAI-03,clinic,collected,2026-05-29 18:49:00,
+nova_jai_0051150,JAI-01,home,collected,2026-05-27 13:36:00,PHJAI002
+nova_jai_0051151,JAI-01,clinic,collected,2026-05-21 09:24:00,
+nova_jai_0051152,JAI-03,clinic,no_show,,
+nova_jai_0051153,JAI-02,home,collected,2026-05-14 11:32:00,PHJAI034
+nova_jai_0051154,JAI-04,home,collected,2026-05-20 10:17:00,PHJAI056
+nova_jai_0051155,JAI-03,clinic,collected,2026-05-20 12:07:00,
+nova_jai_0051156,JAI-01,clinic,collected,2026-05-14 09:16:00,
+nova_jai_0051157,JAI-02,home,collected,2026-05-06 17:48:00,PHJAI013
+nova_jai_0051158,JAI-02,home,collected,2026-05-28 13:25:00,PHJAI016
+nova_jai_0051159,JAI-02,home,collected,2026-05-15 08:46:00,PHJAI052
+nova_jai_0051160,JAI-04,clinic,no_show,,
+nova_jai_0051161,JAI-04,clinic,no_show,,
+nova_jai_0051162,JAI-03,clinic,collected,2026-05-15 11:46:00,
+nova_jai_0051163,JAI-05,clinic,collected,2026-05-07 07:08:00,
+nova_jai_0051164,JAI-01,clinic,collected,2026-05-02 18:52:00,
+nova_jai_0051165,JAI-03,home,collected,2026-05-16 09:55:00,PHJAI041
+nova_jai_0051166,JAI-02,clinic,collected,2026-05-14 07:05:00,
+nova_jai_0051167,JAI-01,clinic,collected,2026-05-16 13:03:00,
+nova_jai_0051168,JAI-03,clinic,no_show,,
+nova_jai_0051170,JAI-02,home,collected,2026-05-17 17:57:00,PHJAI018
+nova_jai_0051172,JAI-01,home,collected,2026-05-15 09:08:00,PHJAI033
+nova_jai_0051173,JAI-03,home,collected,2026-05-07 11:39:00,PHJAI044
+nova_jai_0051174,JAI-02,clinic,collected,2026-05-05 13:30:00,
+nova_jai_0051175,JAI-04,clinic,collected,2026-05-25 21:07:00,
+nova_jai_0051176,JAI-01,clinic,collected,2026-05-02 14:08:00,
+nova_jai_0051177,JAI-04,home,collected,2026-05-16 08:35:00,PHJAI042
+nova_jai_0051178,JAI-01,home,collected,2026-05-22 08:53:00,PHJAI037
+nova_jai_0051179,JAI-03,home,collected,2026-05-03 07:47:00,PHJAI013
+nova_jai_0051180,JAI-04,clinic,collected,2026-05-29 19:09:00,
+nova_jai_0051181,JAI-03,clinic,collected,2026-05-22 07:40:00,
+nova_jai_0051182,JAI-03,clinic,collected,2026-05-14 13:02:00,
+nova_jai_0051183,JAI-04,home,collected,2026-05-26 09:05:00,PHJAI014
+nova_jai_0051184,JAI-01,clinic,collected,2026-05-03 13:40:00,
+nova_jai_0051185,JAI-04,clinic,no_show,,
+nova_jai_0051186,JAI-02,clinic,collected,2026-05-08 07:15:00,
+nova_jai_0051187,JAI-01,clinic,no_show,,
+nova_jai_0051188,JAI-02,home,collected,2026-05-07 07:40:00,PHJAI033
+nova_jai_0051189,JAI-03,home,collected,2026-05-31 20:07:00,PHJAI052
+nova_jai_0051190,JAI-01,clinic,no_show,,
+nova_jai_0051191,JAI-01,clinic,collected,2026-05-03 19:27:00,
+nova_jai_0051192,JAI-03,clinic,collected,2026-05-01 09:28:00,
+nova_jai_0051193,JAI-01,home,collected,2026-05-30 08:25:00,PHJAI018
+nova_jai_0051194,JAI-02,clinic,collected,2026-05-01 21:01:00,
+nova_jai_0051195,JAI-01,clinic,collected,2026-05-29 19:19:00,
+nova_jai_0051196,JAI-03,clinic,collected,2026-05-06 17:13:00,
+nova_jai_0051197,JAI-03,clinic,collected,2026-05-31 18:05:00,
+nova_jai_0051198,JAI-03,clinic,collected,2026-05-30 18:25:00,
+nova_jai_0051199,JAI-02,home,collected,2026-05-08 12:00:00,PHJAI019
+nova_jai_0051200,JAI-03,home,collected,2026-05-30 09:01:00,PHJAI002
+nova_jai_0051201,JAI-03,home,collected,2026-05-27 18:09:00,PHJAI031
+nova_jai_0051202,JAI-01,clinic,collected,2026-05-29 14:35:00,
+nova_jai_0051203,JAI-01,home,collected,2026-05-30 07:56:00,PHJAI005
+nova_jai_0051204,JAI-02,home,collected,2026-05-06 18:56:00,PHJAI051
+nova_jai_0051205,JAI-03,clinic,collected,2026-05-14 11:42:00,
+nova_jai_0051206,JAI-03,clinic,collected,2026-05-26 09:32:00,
+nova_jai_0051208,JAI-03,clinic,collected,2026-05-31 14:25:00,
+nova_jai_0051209,JAI-04,home,collected,2026-05-07 12:47:00,PHJAI055
+nova_jai_0051210,JAI-03,home,collected,2026-05-22 06:00:00,PHJAI042
+nova_jai_0051211,JAI-01,clinic,collected,2026-05-17 07:13:00,
+nova_jai_0051212,JAI-01,home,collected,2026-05-17 14:06:00,PHJAI011
+nova_jai_0051213,JAI-02,home,collected,2026-05-05 11:58:00,PHJAI010
+nova_jai_0051214,JAI-05,clinic,collected,2026-05-27 08:43:00,
+nova_jai_0051215,JAI-02,clinic,collected,2026-05-23 09:46:00,
+nova_jai_0051216,JAI-03,clinic,collected,2026-05-21 18:51:00,
+nova_jai_0051217,JAI-01,clinic,collected,2026-05-31 10:18:00,
+nova_jai_0051218,JAI-03,clinic,collected,2026-05-31 13:22:00,
+nova_jai_0051219,JAI-01,clinic,no_show,,
+nova_jai_0051220,JAI-02,home,collected,2026-05-20 19:15:00,PHJAI026
+nova_jai_0051221,JAI-04,clinic,collected,2026-05-12 12:50:00,
+nova_jai_0051222,JAI-01,clinic,collected,2026-05-02 08:39:00,
+nova_jai_0051223,JAI-01,clinic,no_show,,
+nova_jai_0051224,JAI-02,clinic,collected,2026-05-04 11:51:00,
+nova_jai_0051225,JAI-01,clinic,collected,2026-05-08 17:27:00,
+nova_jai_0051226,JAI-03,home,collected,2026-05-17 11:15:00,PHJAI042
+nova_jai_0051228,JAI-01,clinic,collected,2026-05-30 10:04:00,
+nova_jai_0051229,JAI-04,clinic,collected,2026-05-25 07:14:00,
+nova_jai_0051230,JAI-02,clinic,collected,2026-05-12 11:42:00,
+nova_jai_0051231,JAI-01,clinic,collected,2026-05-28 11:15:00,
+nova_jai_0051232,JAI-01,home,collected,2026-05-04 21:09:00,PHJAI024
+nova_jai_0051233,JAI-01,home,collected,2026-05-27 06:39:00,PHJAI053
+nova_jai_0051234,JAI-01,clinic,no_show,,
+nova_jai_0051235,JAI-01,clinic,collected,2026-05-10 07:55:00,
+nova_jai_0051237,JAI-03,home,collected,2026-05-09 17:25:00,PHJAI046
+nova_jai_0051238,JAI-01,home,collected,2026-05-26 08:34:00,PHJAI045
+nova_jai_0051239,JAI-01,clinic,collected,2026-05-09 17:59:00,
+nova_jai_0051240,JAI-03,home,collected,2026-05-22 08:02:00,PHJAI006
+nova_jai_0051241,JAI-01,home,collected,2026-05-29 06:34:00,PHJAI047
+nova_jai_0051242,JAI-01,home,no_show,,PHJAI005
+nova_jai_0051243,JAI-03,clinic,collected,2026-05-12 12:16:00,
+nova_jai_0051244,JAI-02,clinic,collected,2026-05-04 14:26:00,
+nova_jai_0051245,JAI-03,home,collected,2026-05-19 08:14:00,PHJAI029
+nova_jai_0051246,JAI-01,clinic,collected,2026-05-21 12:57:00,
+nova_jai_0051247,JAI-04,home,collected,2026-05-12 08:09:00,PHJAI047
+nova_jai_0051249,JAI-04,clinic,no_show,,
+nova_jai_0051250,JAI-03,clinic,collected,2026-05-11 13:17:00,
+nova_jai_0051251,JAI-02,clinic,no_show,,
+nova_jai_0051252,JAI-01,clinic,no_show,,
+nova_jai_0051253,JAI-03,clinic,collected,2026-05-14 17:08:00,
+nova_jai_0051254,JAI-02,clinic,collected,2026-05-16 12:16:00,
+nova_jai_0051255,JAI-01,clinic,collected,2026-05-09 05:58:00,
+nova_jai_0051256,JAI-03,home,collected,2026-05-16 11:11:00,PHJAI010
+nova_jai_0051257,JAI-02,clinic,collected,2026-05-20 19:40:00,
+nova_jai_0051258,JAI-04,home,collected,2026-05-06 10:13:00,PHJAI026
+nova_jai_0051259,JAI-01,home,collected,2026-05-30 10:01:00,PHJAI033
+nova_jai_0051260,JAI-02,home,collected,2026-05-11 18:50:00,PHJAI027
+nova_jai_0051261,JAI-01,home,collected,2026-05-24 09:42:00,PHJAI049
+nova_jai_0051263,JAI-01,clinic,collected,2026-05-03 07:41:00,
+nova_jai_0051264,JAI-01,clinic,collected,2026-05-11 20:03:00,
+nova_jai_0051265,JAI-01,clinic,collected,2026-05-17 20:02:00,
+nova_jai_0051266,JAI-04,clinic,collected,2026-05-03 08:46:00,
+nova_jai_0051267,JAI-02,home,collected,2026-05-07 15:48:00,PHJAI023
+nova_jai_0051268,JAI-01,clinic,collected,2026-05-18 07:42:00,
+nova_jai_0051269,JAI-01,clinic,collected,2026-05-17 10:45:00,
+nova_jai_0051270,JAI-02,home,collected,2026-05-26 13:32:00,PHJAI054
+nova_jai_0051271,JAI-04,home,collected,2026-05-29 11:20:00,PHJAI020
+nova_jai_0051272,JAI-04,clinic,collected,2026-05-23 18:47:00,
+nova_jai_0051273,JAI-02,home,collected,2026-05-27 08:52:00,PHJAI041
+nova_jai_0051274,JAI-02,home,collected,2026-05-05 06:24:00,PHJAI021
+nova_jai_0051275,JAI-01,home,collected,2026-05-05 18:44:00,PHJAI010
+nova_jai_0051276,JAI-01,home,collected,2026-05-05 18:26:00,PHJAI030
+nova_jai_0051277,JAI-01,clinic,no_show,,
+nova_jai_0051278,JAI-02,clinic,collected,2026-05-10 07:21:00,
+nova_jai_0051279,JAI-02,clinic,collected,2026-05-15 10:05:00,
+nova_jai_0051280,JAI-01,clinic,collected,2026-05-31 07:18:00,
+nova_jai_0051281,JAI-01,clinic,collected,2026-05-02 09:57:00,
+nova_jai_0051282,JAI-02,clinic,collected,2026-05-03 12:07:00,
+nova_jai_0051283,JAI-01,clinic,collected,2026-05-05 07:41:00,
+nova_jai_0051284,JAI-03,clinic,no_show,,
+nova_jai_0051285,JAI-03,home,collected,2026-05-02 10:02:00,PHJAI005
+nova_jai_0051286,JAI-01,home,collected,2026-05-09 07:21:00,PHJAI020
+nova_jai_0051287,JAI-02,clinic,collected,2026-05-16 08:36:00,
+nova_jai_0051288,JAI-04,clinic,collected,2026-05-26 05:56:00,
+nova_jai_0051289,JAI-03,home,collected,2026-05-20 08:33:00,PHJAI052
+nova_jai_0051290,JAI-03,clinic,collected,2026-05-27 06:53:00,
+nova_jai_0051291,JAI-01,home,collected,2026-05-27 07:56:00,PHJAI020
+nova_jai_0051292,JAI-01,clinic,collected,2026-05-20 12:59:00,
+nova_jai_0051293,JAI-04,clinic,collected,2026-05-20 06:56:00,
+nova_jai_0051294,JAI-04,home,collected,2026-05-11 13:40:00,PHJAI023
+nova_jai_0051295,JAI-01,clinic,collected,2026-05-27 07:21:00,
+nova_jai_0051296,JAI-01,home,collected,2026-05-11 07:40:00,PHJAI043
+nova_jai_0051297,JAI-05,clinic,collected,2026-05-11 08:22:00,
+nova_jai_0051298,JAI-03,clinic,collected,2026-05-07 13:38:00,
+nova_jai_0051299,JAI-02,home,collected,2026-05-18 18:24:00,PHJAI046
+nova_jai_0051300,JAI-04,home,collected,2026-05-18 18:47:00,PHJAI044
+nova_jai_0051301,JAI-01,home,collected,2026-05-18 08:28:00,PHJAI016
+nova_jai_0051302,JAI-03,clinic,collected,2026-05-17 11:23:00,
+nova_jai_0051303,JAI-03,home,no_show,,PHJAI034
+nova_jai_0051304,JAI-02,home,collected,2026-05-06 10:32:00,PHJAI059
+nova_jai_0051305,JAI-01,clinic,collected,2026-05-03 17:56:00,
+nova_jai_0051306,JAI-01,home,collected,2026-05-08 14:09:00,PHJAI022
+nova_jai_0051307,JAI-04,clinic,collected,2026-05-05 10:21:00,
+nova_jai_0051308,JAI-03,home,collected,2026-05-02 11:10:00,PHJAI039
+nova_jai_0051309,JAI-03,clinic,collected,2026-05-05 07:05:00,
+nova_jai_0051310,JAI-01,home,collected,2026-05-01 11:48:00,PHJAI038
+nova_jai_0051311,JAI-01,home,collected,2026-05-30 19:40:00,PHJAI015
+nova_jai_0051312,JAI-02,home,collected,2026-05-27 18:49:00,PHJAI050
+nova_jai_0051313,JAI-01,clinic,collected,2026-05-23 09:19:00,
+nova_jai_0051314,JAI-01,home,collected,2026-05-27 14:28:00,PHJAI004
+nova_jai_0051315,JAI-03,clinic,collected,2026-05-26 07:42:00,
+nova_jai_0051316,JAI-01,home,collected,2026-05-30 09:43:00,PHJAI050
+nova_jai_0051317,JAI-03,clinic,collected,2026-05-01 08:29:00,
+nova_jai_0051318,JAI-02,home,collected,2026-05-27 17:28:00,PHJAI046
+nova_jai_0051319,JAI-01,clinic,no_show,,
+nova_jai_0051320,JAI-01,clinic,collected,2026-05-02 06:56:00,
+nova_jai_0051321,JAI-01,home,collected,2026-05-24 09:59:00,PHJAI002
+nova_jai_0051322,JAI-03,clinic,collected,2026-05-23 09:27:00,
+nova_jai_0051323,JAI-01,clinic,collected,2026-05-27 10:12:00,
+nova_jai_0051324,JAI-04,home,collected,2026-05-27 10:38:00,PHJAI045
+nova_jai_0051326,JAI-03,home,collected,2026-05-16 17:26:00,PHJAI001
+nova_jai_0051327,JAI-02,clinic,collected,2026-05-22 07:29:00,
+nova_jai_0051328,JAI-04,clinic,collected,2026-05-22 19:37:00,
+nova_jai_0051329,JAI-05,home,collected,2026-05-24 10:06:00,PHJAI001
+nova_jai_0051330,JAI-02,home,collected,2026-05-24 13:48:00,PHJAI045
+nova_jai_0051331,JAI-02,clinic,collected,2026-05-07 17:29:00,
+nova_jai_0051332,JAI-04,clinic,collected,2026-05-13 07:23:00,
+nova_jai_0051333,JAI-04,clinic,collected,2026-05-15 17:39:00,
+nova_jai_0051334,JAI-02,clinic,no_show,,
+nova_jai_0051335,JAI-01,clinic,collected,2026-05-30 13:49:00,
+nova_jai_0051336,JAI-01,clinic,no_show,,
+nova_jai_0051337,JAI-02,home,collected,2026-05-28 19:18:00,PHJAI037
+nova_jai_0051338,JAI-02,home,no_show,,PHJAI014
+nova_jai_0051339,JAI-03,clinic,collected,2026-05-12 12:20:00,
+nova_jai_0051340,JAI-01,home,collected,2026-05-17 17:49:00,PHJAI023
+nova_jai_0051341,JAI-03,clinic,collected,2026-05-18 10:33:00,
+nova_jai_0051342,JAI-01,clinic,collected,2026-05-24 08:57:00,
+nova_jai_0051343,JAI-03,home,collected,2026-05-29 07:37:00,PHJAI059
+nova_jai_0051345,JAI-01,home,collected,2026-05-02 13:37:00,PHJAI052
+nova_jai_0051346,JAI-04,home,collected,2026-05-28 18:29:00,PHJAI050
+nova_jai_0051347,JAI-02,home,collected,2026-05-02 16:04:00,PHJAI046
+nova_jai_0051348,JAI-03,home,collected,2026-05-29 07:05:00,PHJAI004
+nova_jai_0051349,JAI-03,clinic,collected,2026-05-31 11:41:00,
+nova_jai_0051350,JAI-02,home,collected,2026-05-25 11:25:00,PHJAI026
+nova_jai_0051351,JAI-03,clinic,collected,2026-05-27 08:15:00,
+nova_jai_0051352,JAI-02,home,collected,2026-05-16 10:20:00,PHJAI019
+nova_jai_0051353,JAI-01,home,collected,2026-05-10 09:56:00,PHJAI018
+nova_jai_0051354,JAI-03,home,collected,2026-05-17 11:43:00,PHJAI034
+nova_jai_0051355,JAI-01,home,collected,2026-05-30 19:56:00,PHJAI043
+nova_jai_0051356,JAI-01,clinic,collected,2026-05-08 07:06:00,
+nova_jai_0051358,JAI-01,clinic,collected,2026-05-17 18:36:00,
+nova_jai_0051360,JAI-01,home,collected,2026-05-19 10:07:00,PHJAI018
+nova_jai_0051361,JAI-01,clinic,collected,2026-05-13 17:56:00,
+nova_jai_0051362,JAI-02,clinic,collected,2026-05-28 08:59:00,
+nova_jai_0051363,JAI-03,clinic,collected,2026-05-12 13:05:00,
+nova_jai_0051364,JAI-02,home,no_show,,PHJAI037
+nova_jai_0051365,JAI-04,home,collected,2026-05-25 18:07:00,PHJAI001
+nova_jai_0051366,JAI-01,home,collected,2026-05-22 17:34:00,PHJAI058
+nova_jai_0051367,JAI-02,home,collected,2026-05-27 06:18:00,PHJAI016
+nova_jai_0051368,JAI-01,clinic,collected,2026-05-25 06:55:00,
+nova_jai_0051369,JAI-01,clinic,no_show,,
+nova_jai_0051370,JAI-02,clinic,collected,2026-05-16 20:23:00,
+nova_jai_0051371,JAI-01,home,collected,2026-05-18 10:15:00,PHJAI056
+nova_jai_0051372,JAI-02,home,collected,2026-05-01 07:30:00,PHJAI026
+nova_jai_0051373,JAI-01,home,collected,2026-05-29 18:08:00,PHJAI017
+nova_jai_0051374,JAI-01,clinic,no_show,,
+nova_jai_0051375,JAI-04,clinic,collected,2026-05-18 09:40:00,
+nova_jai_0051376,JAI-04,clinic,collected,2026-05-14 12:36:00,
+nova_jai_0051377,JAI-02,home,collected,2026-05-22 12:42:00,PHJAI031
+nova_jai_0051378,JAI-01,clinic,collected,2026-05-18 20:08:00,
+nova_jai_0051379,JAI-04,home,collected,2026-05-24 12:55:00,PHJAI006
+nova_jai_0051380,JAI-01,clinic,collected,2026-05-09 08:45:00,
+nova_jai_0051381,JAI-03,clinic,collected,2026-05-18 11:46:00,
+nova_jai_0051382,JAI-01,clinic,collected,2026-05-27 06:16:00,
+nova_jai_0051383,JAI-03,clinic,collected,2026-05-01 14:37:00,
+nova_jai_0051384,JAI-01,home,collected,2026-05-29 20:00:00,PHJAI013
+nova_jai_0051385,JAI-01,clinic,collected,2026-05-10 12:42:00,
+nova_jai_0051386,JAI-02,clinic,collected,2026-05-13 20:07:00,
+nova_jai_0051387,JAI-03,home,collected,2026-05-16 16:59:00,PHJAI045
+nova_jai_0051388,JAI-02,home,collected,2026-05-23 18:45:00,PHJAI013
+nova_jai_0051389,JAI-02,home,collected,2026-05-27 11:53:00,PHJAI009
+nova_jai_0051390,JAI-01,home,collected,2026-05-28 11:23:00,PHJAI018
+nova_jai_0051391,JAI-02,home,no_show,,PHJAI021
+nova_jai_0051392,JAI-02,home,collected,2026-05-28 14:59:00,PHJAI021
+nova_jai_0051393,JAI-04,clinic,no_show,,
+nova_jai_0051394,JAI-03,clinic,collected,2026-05-14 11:12:00,
+nova_jai_0051395,JAI-02,clinic,collected,2026-05-08 07:23:00,
+nova_jai_0051396,JAI-03,clinic,collected,2026-05-19 06:42:00,
+nova_jai_0051397,JAI-02,clinic,collected,2026-05-28 05:46:00,
+nova_jai_0051398,JAI-02,clinic,collected,2026-05-25 18:57:00,
+nova_jai_0051399,JAI-03,clinic,collected,2026-05-22 09:02:00,
+nova_jai_0051400,JAI-03,clinic,collected,2026-05-15 14:59:00,
+nova_jai_0051401,JAI-01,home,no_show,,PHJAI013
+nova_jai_0051402,JAI-03,clinic,collected,2026-05-04 12:51:00,
+nova_jai_0051403,JAI-02,clinic,collected,2026-05-26 10:21:00,
+nova_jai_0051404,JAI-04,clinic,collected,2026-05-21 12:40:00,
+nova_jai_0051405,JAI-01,home,collected,2026-05-07 07:45:00,PHJAI054
+nova_jai_0051406,JAI-03,home,collected,2026-05-18 09:33:00,PHJAI020
+nova_jai_0051407,JAI-04,clinic,collected,2026-05-20 08:43:00,
+nova_jai_0051408,JAI-03,clinic,collected,2026-05-03 12:07:00,
+nova_jai_0051409,JAI-01,home,collected,2026-05-18 19:08:00,PHJAI023
+nova_jai_0051410,JAI-01,home,collected,2026-05-21 08:31:00,PHJAI020
+nova_jai_0051411,JAI-03,clinic,collected,2026-05-01 10:22:00,
+nova_jai_0051412,JAI-01,clinic,no_show,,
+nova_jai_0051413,JAI-01,clinic,collected,2026-05-05 08:10:00,
+nova_jai_0051415,JAI-01,clinic,collected,2026-05-01 09:51:00,
+nova_jai_0051416,JAI-03,home,collected,2026-05-31 07:13:00,PHJAI015
+nova_jai_0051417,JAI-03,clinic,collected,2026-05-09 18:58:00,
+nova_jai_0051418,JAI-04,home,collected,2026-05-07 10:16:00,PHJAI046
+nova_jai_0051419,JAI-01,home,collected,2026-05-19 08:12:00,PHJAI028
+nova_jai_0051420,JAI-03,clinic,collected,2026-05-07 20:08:00,
+nova_jai_0051421,JAI-02,home,no_show,,PHJAI019
+nova_jai_0051422,JAI-01,clinic,no_show,,
+nova_jai_0051423,JAI-01,clinic,collected,2026-05-13 12:21:00,
+nova_jai_0051424,JAI-03,clinic,collected,2026-05-05 08:29:00,
+nova_jai_0051425,JAI-02,clinic,no_show,,
+nova_jai_0051426,JAI-04,clinic,collected,2026-05-18 09:02:00,
+nova_jai_0051427,JAI-01,home,collected,2026-05-11 06:59:00,PHJAI044
+nova_jai_0051428,JAI-02,home,collected,2026-05-14 09:45:00,PHJAI029
+nova_jai_0051429,JAI-01,home,collected,2026-05-27 18:48:00,PHJAI059
+nova_jai_0051430,JAI-01,clinic,no_show,,
+nova_jai_0051431,JAI-02,home,no_show,,PHJAI029
+nova_jai_0051432,JAI-03,home,collected,2026-05-04 13:03:00,PHJAI056
+nova_jai_0051433,JAI-01,home,collected,2026-05-10 10:35:00,PHJAI020
+nova_jai_0051434,JAI-03,clinic,no_show,,
+nova_jai_0051435,JAI-02,home,collected,2026-05-04 19:14:00,PHJAI035
+nova_jai_0051436,JAI-01,clinic,collected,2026-05-19 09:26:00,
+nova_jai_0051437,JAI-01,clinic,collected,2026-05-17 08:09:00,
+nova_jai_0051438,JAI-01,home,collected,2026-05-16 07:18:00,PHJAI024
+nova_jai_0051439,JAI-01,clinic,no_show,,
+nova_jai_0051440,JAI-02,home,collected,2026-05-25 18:32:00,PHJAI018
+nova_jai_0051441,JAI-01,home,collected,2026-05-23 11:10:00,PHJAI021
+nova_jai_0051442,JAI-01,home,collected,2026-05-26 09:15:00,PHJAI021
+nova_jai_0051443,JAI-02,home,collected,2026-05-13 14:12:00,PHJAI020
+nova_jai_0051444,JAI-02,clinic,collected,2026-05-23 19:31:00,
+nova_jai_0051445,JAI-02,clinic,collected,2026-05-09 19:13:00,
+nova_jai_0051446,JAI-02,clinic,no_show,,
+nova_jai_0051447,JAI-01,home,collected,2026-05-12 08:59:00,PHJAI037
+nova_jai_0051448,JAI-01,clinic,collected,2026-05-27 12:25:00,
+nova_jai_0051449,JAI-03,home,collected,2026-05-22 09:12:00,PHJAI037
+nova_jai_0051450,JAI-01,clinic,collected,2026-05-13 07:37:00,
+nova_jai_0051451,JAI-01,home,collected,2026-05-02 10:53:00,PHJAI039
+nova_jai_0051452,JAI-04,home,collected,2026-05-29 13:54:00,PHJAI027
+nova_jai_0051453,JAI-02,clinic,no_show,,
+nova_jai_0051454,JAI-01,home,collected,2026-05-10 08:41:00,PHJAI042
+nova_jai_0051455,JAI-01,clinic,collected,2026-05-19 10:11:00,
+nova_jai_0051456,JAI-04,clinic,collected,2026-05-28 09:34:00,
+nova_jai_0051457,JAI-03,clinic,collected,2026-05-23 07:37:00,
+nova_jai_0051458,JAI-01,clinic,collected,2026-05-25 18:58:00,
+nova_jai_0051459,JAI-04,clinic,collected,2026-05-02 13:27:00,
+nova_jai_0051460,JAI-03,clinic,collected,2026-05-28 07:38:00,
+nova_jai_0051461,JAI-01,home,collected,2026-05-10 12:09:00,PHJAI021
+nova_jai_0051462,JAI-01,home,collected,2026-05-29 09:51:00,PHJAI014
+nova_jai_0051463,JAI-02,clinic,collected,2026-05-07 07:25:00,
+nova_jai_0051464,JAI-01,clinic,no_show,,
+nova_jai_0051465,JAI-04,clinic,collected,2026-05-17 10:28:00,
+nova_jai_0051466,JAI-04,home,collected,2026-05-30 13:41:00,PHJAI027
+nova_jai_0051467,JAI-04,home,collected,2026-05-09 06:02:00,PHJAI052
+nova_jai_0051468,JAI-02,clinic,collected,2026-05-15 10:38:00,
+nova_jai_0051469,JAI-02,clinic,collected,2026-05-18 17:33:00,
+nova_jai_0051470,JAI-01,clinic,collected,2026-05-17 08:27:00,
+nova_jai_0051471,JAI-02,clinic,collected,2026-05-24 06:16:00,
+nova_jai_0051472,JAI-01,clinic,collected,2026-05-24 10:39:00,
+nova_jai_0051473,JAI-02,home,collected,2026-05-17 07:14:00,PHJAI017
+nova_jai_0051474,JAI-03,clinic,collected,2026-05-11 18:00:00,
+nova_jai_0051475,JAI-03,clinic,collected,2026-05-23 17:22:00,
+nova_jai_0051477,JAI-02,home,collected,2026-05-03 10:21:00,PHJAI044
+nova_jai_0051478,JAI-01,clinic,collected,2026-05-30 07:54:00,
+nova_jai_0051479,JAI-01,home,collected,2026-05-29 17:16:00,PHJAI006
+nova_jai_0051481,JAI-04,home,collected,2026-05-14 07:27:00,PHJAI025
+nova_jai_0051482,JAI-01,clinic,collected,2026-05-29 11:03:00,
+nova_jai_0051483,JAI-02,clinic,collected,2026-05-17 17:58:00,
+nova_jai_0051484,JAI-02,clinic,collected,2026-05-23 17:20:00,
+nova_jai_0051485,JAI-04,clinic,collected,2026-05-11 07:07:00,
+nova_jai_0051486,JAI-02,clinic,collected,2026-05-06 19:38:00,
+nova_jai_0051487,JAI-02,clinic,no_show,,
+nova_jai_0051488,JAI-02,clinic,collected,2026-05-28 20:10:00,
+nova_jai_0051489,JAI-01,home,collected,2026-05-26 18:00:00,PHJAI022
+nova_jai_0051490,JAI-01,home,collected,2026-05-13 12:09:00,PHJAI021
+nova_jai_0051491,JAI-04,home,collected,2026-05-19 09:35:00,PHJAI053
+nova_jai_0051492,JAI-02,clinic,collected,2026-05-14 13:06:00,
+nova_jai_0051493,JAI-03,clinic,collected,2026-05-29 13:33:00,
+nova_jai_0051494,JAI-04,clinic,collected,2026-05-19 08:39:00,
+nova_jai_0051495,JAI-02,clinic,no_show,,
+nova_jai_0051496,JAI-03,home,collected,2026-05-29 07:22:00,PHJAI031
+nova_jai_0051497,JAI-02,home,collected,2026-05-07 18:16:00,PHJAI024
+nova_jai_0051498,JAI-02,clinic,collected,2026-05-26 10:28:00,
+nova_jai_0051499,JAI-01,clinic,no_show,,
+nova_jai_0051500,JAI-02,home,collected,2026-05-12 09:04:00,PHJAI057
+nova_jai_0051501,JAI-02,clinic,collected,2026-05-16 09:51:00,
+nova_jai_0051502,JAI-02,clinic,collected,2026-05-02 08:44:00,
+nova_jai_0051503,JAI-02,clinic,collected,2026-05-05 12:57:00,
+nova_jai_0051504,JAI-02,home,collected,2026-05-24 13:50:00,PHJAI004
+nova_jai_0051505,JAI-04,clinic,collected,2026-05-25 19:26:00,
+nova_jai_0051507,JAI-04,clinic,collected,2026-05-31 09:24:00,
+nova_jai_0051508,JAI-02,home,collected,2026-05-27 20:20:00,PHJAI042
+nova_jai_0051509,JAI-01,clinic,collected,2026-05-23 13:30:00,
+nova_jai_0051510,JAI-01,clinic,collected,2026-05-24 10:57:00,
+nova_jai_0051511,JAI-01,clinic,collected,2026-05-28 11:46:00,
+nova_jai_0051512,JAI-01,clinic,collected,2026-05-30 09:10:00,
+nova_jai_0051513,JAI-01,clinic,collected,2026-05-06 20:25:00,
+nova_jai_0051514,JAI-01,home,collected,2026-05-18 14:36:00,PHJAI011
+nova_jai_0051515,JAI-01,home,collected,2026-05-25 07:31:00,PHJAI046
+nova_jai_0051516,JAI-02,home,collected,2026-05-01 20:18:00,PHJAI041
+nova_jai_0051517,JAI-01,clinic,collected,2026-05-11 11:09:00,
+nova_jai_0051518,JAI-01,home,collected,2026-05-21 18:21:00,PHJAI034
+nova_jai_0051519,JAI-04,home,collected,2026-05-02 13:32:00,PHJAI041
+nova_jai_0051520,JAI-01,home,collected,2026-05-19 06:46:00,PHJAI031
+nova_jai_0051521,JAI-02,clinic,collected,2026-05-24 13:58:00,
+nova_jai_0051522,JAI-03,home,collected,2026-05-26 08:06:00,PHJAI052
+nova_jai_0051523,JAI-01,home,collected,2026-05-21 17:14:00,PHJAI041
+nova_jai_0051524,JAI-02,clinic,collected,2026-05-09 16:55:00,
+nova_jai_0051525,JAI-01,home,collected,2026-05-04 19:11:00,PHJAI040
+nova_jai_0051526,JAI-01,home,collected,2026-05-23 09:15:00,PHJAI022
+nova_jai_0051527,JAI-04,clinic,no_show,,
+nova_jai_0051528,JAI-01,clinic,collected,2026-05-21 11:22:00,
+nova_jai_0051529,JAI-03,home,collected,2026-05-03 14:22:00,PHJAI052
+nova_jai_0051530,JAI-01,clinic,collected,2026-05-17 16:56:00,
+nova_jai_0051531,JAI-02,clinic,collected,2026-05-10 08:31:00,
+nova_jai_0051532,JAI-02,home,collected,2026-05-16 11:49:00,PHJAI004
+nova_jai_0051533,JAI-01,clinic,no_show,,
+nova_jai_0051534,JAI-01,clinic,collected,2026-05-16 14:04:00,
+nova_jai_0051535,JAI-03,home,collected,2026-05-13 10:22:00,PHJAI001
+nova_jai_0051536,JAI-01,home,collected,2026-05-11 18:33:00,PHJAI056
+nova_jai_0051537,JAI-01,clinic,collected,2026-05-15 10:01:00,
+nova_jai_0051538,JAI-02,clinic,collected,2026-05-20 08:43:00,
+nova_jai_0051539,JAI-01,home,collected,2026-05-25 19:40:00,PHJAI012
+nova_jai_0051540,JAI-03,clinic,collected,2026-05-20 11:02:00,
+nova_jai_0051542,JAI-02,clinic,collected,2026-05-28 08:49:00,
+nova_jai_0051543,JAI-04,home,collected,2026-05-04 08:10:00,PHJAI008
+nova_jai_0051544,JAI-04,clinic,collected,2026-05-15 12:19:00,
+nova_jai_0051545,JAI-01,clinic,collected,2026-05-21 09:56:00,
+nova_jai_0051546,JAI-01,clinic,collected,2026-05-07 09:10:00,
+nova_jai_0051547,JAI-01,clinic,collected,2026-05-12 12:42:00,
+nova_jai_0051548,JAI-04,clinic,collected,2026-05-27 07:15:00,
+nova_jai_0051549,JAI-02,clinic,collected,2026-05-17 06:59:00,
+nova_jai_0051550,JAI-02,home,collected,2026-05-29 09:48:00,PHJAI048
+nova_jai_0051551,JAI-01,home,collected,2026-05-26 08:38:00,PHJAI006
+nova_jai_0051552,JAI-04,clinic,collected,2026-05-25 13:00:00,
+nova_jai_0051553,JAI-02,home,collected,2026-05-03 09:52:00,PHJAI055
+nova_jai_0051554,JAI-03,clinic,collected,2026-05-10 11:06:00,
+nova_jai_0051555,JAI-03,home,collected,2026-05-20 11:25:00,PHJAI050
+nova_jai_0051556,JAI-04,clinic,collected,2026-05-12 18:53:00,
+nova_jai_0051557,JAI-01,clinic,no_show,,
+nova_jai_0051558,JAI-02,clinic,collected,2026-05-05 19:03:00,
+nova_jai_0051559,JAI-02,clinic,collected,2026-05-06 14:13:00,
+nova_jai_0051560,JAI-02,clinic,collected,2026-05-31 07:44:00,
+nova_jai_0051561,JAI-01,clinic,collected,2026-05-02 06:39:00,
+nova_jai_0051562,JAI-03,home,collected,2026-05-28 10:23:00,PHJAI056
+nova_jai_0051563,JAI-03,clinic,no_show,,
+nova_jai_0051564,JAI-02,clinic,no_show,,
+nova_jai_0051565,JAI-01,home,collected,2026-05-24 19:32:00,PHJAI033
+nova_jai_0051566,JAI-04,clinic,collected,2026-05-25 09:32:00,
+nova_jai_0051567,JAI-01,home,collected,2026-05-31 14:03:00,PHJAI014
+nova_jai_0051568,JAI-01,home,collected,2026-05-19 06:42:00,PHJAI037
+nova_jai_0051569,JAI-03,clinic,collected,2026-05-06 10:02:00,
+nova_jai_0051570,JAI-04,clinic,collected,2026-05-31 11:55:00,
+nova_jai_0051571,JAI-04,home,collected,2026-05-29 10:01:00,PHJAI049
+nova_jai_0051572,JAI-01,home,collected,2026-05-20 14:02:00,PHJAI015
+nova_jai_0051573,JAI-01,clinic,collected,2026-05-01 19:13:00,
+nova_jai_0051574,JAI-01,clinic,collected,2026-05-17 07:44:00,
+nova_jai_0051575,JAI-04,clinic,collected,2026-05-25 20:32:00,
+nova_jai_0051576,JAI-03,clinic,collected,2026-05-30 07:40:00,
+nova_jai_0051577,JAI-01,clinic,collected,2026-05-25 09:29:00,
+nova_jai_0051578,JAI-03,home,collected,2026-05-31 11:44:00,PHJAI049
+nova_jai_0051579,JAI-03,clinic,collected,2026-05-31 09:37:00,
+nova_jai_0051580,JAI-02,clinic,collected,2026-05-11 07:25:00,
+nova_jai_0051581,JAI-02,clinic,collected,2026-05-16 18:51:00,
+nova_jai_0051582,JAI-02,clinic,collected,2026-05-22 10:05:00,
+nova_jai_0051583,JAI-01,clinic,collected,2026-05-04 18:48:00,
+nova_jai_0051584,JAI-01,clinic,collected,2026-05-15 12:28:00,
+nova_jai_0051585,JAI-02,home,collected,2026-05-28 17:43:00,PHJAI019
+nova_jai_0051586,JAI-01,clinic,collected,2026-05-18 12:55:00,
+nova_jai_0051587,JAI-01,home,collected,2026-05-16 17:18:00,PHJAI010
+nova_jai_0051588,JAI-01,home,collected,2026-05-21 11:02:00,PHJAI040
+nova_jai_0051589,JAI-01,clinic,no_show,,
+nova_jai_0051590,JAI-03,clinic,collected,2026-05-10 11:56:00,
+nova_jai_0051591,JAI-02,clinic,collected,2026-05-31 07:49:00,
+nova_jai_0051592,JAI-04,clinic,collected,2026-05-23 09:59:00,
+nova_jai_0051593,JAI-01,home,collected,2026-05-07 10:50:00,PHJAI051
+nova_jai_0051594,JAI-02,home,collected,2026-05-15 18:28:00,PHJAI057
+nova_jai_0051595,JAI-03,home,collected,2026-05-23 10:42:00,PHJAI020
+nova_jai_0051596,JAI-03,home,no_show,,PHJAI052
+nova_jai_0051597,JAI-01,clinic,collected,2026-05-28 14:41:00,
+nova_jai_0051599,JAI-01,clinic,collected,2026-05-11 20:12:00,
+nova_jai_0051600,JAI-01,clinic,no_show,,
+nova_jai_0051601,JAI-01,clinic,collected,2026-05-12 09:02:00,
+nova_jai_0051602,JAI-02,clinic,collected,2026-05-13 17:38:00,
+nova_jai_0051603,JAI-01,clinic,collected,2026-05-01 08:58:00,
+nova_jai_0051604,JAI-02,home,collected,2026-05-20 11:15:00,PHJAI036
+nova_jai_0051605,JAI-03,home,collected,2026-05-19 14:04:00,PHJAI010
+nova_jai_0051606,JAI-01,home,collected,2026-05-24 09:18:00,PHJAI010
+nova_jai_0051607,JAI-02,clinic,collected,2026-05-16 08:20:00,
+nova_jai_0051608,JAI-01,home,collected,2026-05-09 11:58:00,PHJAI024
+nova_jai_0051609,JAI-04,home,collected,2026-05-04 11:15:00,PHJAI050
+nova_jai_0051610,JAI-01,home,collected,2026-05-16 12:24:00,PHJAI052
+nova_jai_0051611,JAI-02,home,collected,2026-05-13 14:19:00,PHJAI025
+nova_jai_0051612,JAI-01,clinic,collected,2026-05-05 13:34:00,
+nova_jai_0051613,JAI-01,home,collected,2026-05-15 09:03:00,PHJAI059
+nova_jai_0051614,JAI-01,home,collected,2026-05-23 14:31:00,PHJAI037
+nova_jai_0051615,JAI-03,home,collected,2026-05-09 12:45:00,PHJAI032
+nova_jai_0051616,JAI-01,home,collected,2026-05-18 18:02:00,PHJAI019
+nova_jai_0051618,JAI-04,clinic,collected,2026-05-29 19:20:00,
+nova_jai_0051619,JAI-01,clinic,collected,2026-05-16 08:23:00,
+nova_jai_0051620,JAI-02,clinic,collected,2026-05-18 11:44:00,
+nova_jai_0051621,JAI-03,clinic,collected,2026-05-01 18:53:00,
+nova_jai_0051622,JAI-03,home,collected,2026-05-16 09:20:00,PHJAI032
+nova_jai_0051623,JAI-01,home,collected,2026-05-27 08:44:00,PHJAI059
+nova_jai_0051624,JAI-01,home,collected,2026-05-23 07:42:00,PHJAI044
+nova_jai_0051625,JAI-04,clinic,collected,2026-05-17 07:46:00,
+nova_jai_0051627,JAI-04,home,collected,2026-05-03 10:28:00,PHJAI004
+nova_jai_0051628,JAI-01,clinic,collected,2026-05-17 11:40:00,
+nova_jai_0051629,JAI-01,home,collected,2026-05-29 20:06:00,PHJAI032
+nova_jai_0051630,JAI-04,home,collected,2026-05-11 16:39:00,PHJAI052
+nova_jai_0051631,JAI-03,home,collected,2026-05-05 08:03:00,PHJAI040
+nova_jai_0051632,JAI-02,home,collected,2026-05-27 10:12:00,PHJAI020
+nova_jai_0051633,JAI-01,clinic,collected,2026-05-06 13:23:00,
+nova_jai_0051634,JAI-04,clinic,collected,2026-05-07 20:22:00,
+nova_jai_0051635,JAI-01,home,collected,2026-05-15 17:26:00,PHJAI023
+nova_jai_0051636,JAI-01,clinic,collected,2026-05-10 14:15:00,
+nova_jai_0051637,JAI-01,home,no_show,,PHJAI034
+nova_jai_0051638,JAI-04,clinic,collected,2026-05-09 10:53:00,
+nova_jai_0051639,JAI-01,clinic,collected,2026-05-28 06:42:00,
+nova_jai_0051640,JAI-02,clinic,no_show,,
+nova_jai_0051641,JAI-03,clinic,collected,2026-05-22 07:32:00,
+nova_jai_0051642,JAI-02,clinic,collected,2026-05-11 06:32:00,
+nova_jai_0051643,JAI-01,clinic,collected,2026-05-09 07:39:00,
+nova_jai_0051644,JAI-01,clinic,collected,2026-05-19 12:08:00,
+nova_jai_0051645,JAI-01,clinic,collected,2026-05-15 07:09:00,
+nova_jai_0051646,JAI-03,home,collected,2026-05-09 16:39:00,PHJAI050
+nova_jai_0051647,JAI-01,clinic,no_show,,
+nova_jai_0051648,JAI-02,home,collected,2026-05-25 10:15:00,PHJAI056
+nova_jai_0051649,JAI-01,clinic,collected,2026-05-07 10:27:00,
+nova_jai_0051650,JAI-02,clinic,collected,2026-05-12 08:09:00,
+nova_jai_0051651,JAI-01,clinic,collected,2026-05-12 08:31:00,
+nova_jai_0051652,JAI-04,clinic,no_show,,
+nova_jai_0051653,JAI-03,clinic,collected,2026-05-05 13:14:00,
+nova_jai_0051654,JAI-03,home,collected,2026-05-05 07:45:00,PHJAI001
+nova_jai_0051655,JAI-03,clinic,collected,2026-05-08 08:51:00,
+nova_jai_0051656,JAI-03,clinic,collected,2026-05-11 07:06:00,
+nova_jai_0051657,JAI-02,clinic,no_show,,
+nova_jai_0051658,JAI-01,home,collected,2026-05-17 06:34:00,PHJAI025
+nova_jai_0051659,JAI-03,clinic,collected,2026-05-30 05:59:00,
+nova_jai_0051660,JAI-01,clinic,no_show,,
+nova_jai_0051661,JAI-01,home,collected,2026-05-01 21:03:00,PHJAI002
+nova_jai_0051662,JAI-01,clinic,collected,2026-05-08 11:23:00,
+nova_jai_0051663,JAI-02,clinic,collected,2026-05-24 19:02:00,
+nova_jai_0051664,JAI-01,home,collected,2026-05-18 17:50:00,PHJAI048
+nova_jai_0051665,JAI-01,clinic,collected,2026-05-13 19:41:00,
+nova_jai_0051666,JAI-02,home,collected,2026-05-30 10:40:00,PHJAI034
+nova_jai_0051667,JAI-01,clinic,collected,2026-05-31 06:38:00,
+nova_jai_0051668,JAI-03,clinic,collected,2026-05-02 10:18:00,
+nova_jai_0051669,JAI-02,clinic,collected,2026-05-30 10:19:00,
+nova_jai_0051670,JAI-04,clinic,collected,2026-05-31 07:26:00,
+nova_jai_0051671,JAI-01,clinic,collected,2026-05-25 19:18:00,
+nova_jai_0051672,JAI-04,home,collected,2026-05-27 08:29:00,PHJAI017
+nova_jai_0051673,JAI-01,home,collected,2026-05-19 11:01:00,PHJAI036
+nova_jai_0051674,JAI-02,clinic,no_show,,
+nova_jai_0051675,JAI-02,clinic,collected,2026-05-17 07:49:00,
+nova_jai_0051676,JAI-01,clinic,no_show,,
+nova_jai_0051677,JAI-03,home,collected,2026-05-12 11:44:00,PHJAI004
+nova_jai_0051678,JAI-04,clinic,no_show,,
+nova_jai_0051679,JAI-01,home,collected,2026-05-08 08:32:00,PHJAI033
+nova_jai_0051680,JAI-04,home,collected,2026-05-28 08:23:00,PHJAI038
+nova_jai_0051681,JAI-02,home,collected,2026-05-05 17:18:00,PHJAI019
+nova_jai_0051682,JAI-01,clinic,collected,2026-05-24 13:16:00,
+nova_jai_0051683,JAI-02,clinic,collected,2026-05-09 11:45:00,
+nova_jai_0051684,JAI-01,home,collected,2026-05-20 12:43:00,PHJAI034
+nova_jai_0051685,JAI-01,home,collected,2026-05-02 16:49:00,PHJAI036
+nova_jai_0051686,JAI-03,clinic,no_show,,
+nova_jai_0051687,JAI-01,home,collected,2026-05-30 19:11:00,PHJAI058
+nova_jai_0051688,JAI-01,home,collected,2026-05-07 12:18:00,PHJAI052
+nova_jai_0051689,JAI-01,home,collected,2026-05-05 12:28:00,PHJAI021
+nova_jai_0051690,JAI-01,home,collected,2026-05-20 13:00:00,PHJAI036
+nova_jai_0051691,JAI-01,home,collected,2026-05-11 12:35:00,PHJAI039
+nova_jai_0051692,JAI-04,clinic,collected,2026-05-18 08:22:00,
+nova_jai_0051693,JAI-02,clinic,collected,2026-05-18 06:06:00,
+nova_jai_0051694,JAI-01,home,collected,2026-05-20 09:54:00,PHJAI053
+nova_jai_0051695,JAI-01,clinic,collected,2026-05-17 06:37:00,
+nova_jai_0051696,JAI-01,clinic,no_show,,
+nova_jai_0051697,JAI-04,clinic,collected,2026-05-30 13:08:00,
+nova_jai_0051698,JAI-01,home,collected,2026-05-15 07:31:00,PHJAI027
+nova_jai_0051699,JAI-02,home,collected,2026-05-29 08:41:00,PHJAI001
+nova_jai_0051700,JAI-01,home,collected,2026-05-23 14:04:00,PHJAI007
+nova_jai_0051701,JAI-01,clinic,collected,2026-05-20 09:20:00,
+nova_jai_0051702,JAI-02,clinic,collected,2026-05-22 07:27:00,
+nova_jai_0051704,JAI-03,home,collected,2026-05-31 19:49:00,PHJAI027
+nova_jai_0051705,JAI-02,home,collected,2026-05-22 08:58:00,PHJAI037
+nova_jai_0051706,JAI-03,clinic,collected,2026-05-09 19:57:00,
+nova_jai_0051707,JAI-02,home,collected,2026-05-28 17:26:00,PHJAI016
+nova_jai_0051709,JAI-02,clinic,collected,2026-05-22 07:33:00,
+nova_jai_0051710,JAI-03,home,collected,2026-05-15 10:29:00,PHJAI011
+nova_jai_0051711,JAI-03,clinic,collected,2026-05-06 06:04:00,
+nova_jai_0051712,JAI-04,clinic,collected,2026-05-16 17:24:00,
+nova_jai_0051713,JAI-02,clinic,collected,2026-05-29 07:13:00,
+nova_jai_0051714,JAI-04,clinic,collected,2026-05-30 07:53:00,
+nova_jai_0051715,JAI-04,clinic,collected,2026-05-22 08:39:00,
+nova_jai_0051716,JAI-03,home,collected,2026-05-29 13:45:00,PHJAI023
+nova_jai_0051717,JAI-02,clinic,collected,2026-05-23 09:10:00,
+nova_jai_0051718,JAI-01,clinic,collected,2026-05-03 08:22:00,
+nova_jai_0051719,JAI-01,home,collected,2026-05-17 09:31:00,PHJAI057
+nova_jai_0051720,JAI-04,home,collected,2026-05-02 19:45:00,PHJAI005
+nova_jai_0051721,JAI-03,home,collected,2026-05-28 08:04:00,PHJAI001
+nova_jai_0051722,JAI-01,clinic,collected,2026-05-19 08:35:00,
+nova_jai_0051723,JAI-02,home,collected,2026-05-05 16:31:00,PHJAI033
+nova_jai_0051724,JAI-01,clinic,collected,2026-05-20 20:25:00,
+nova_jai_0051725,JAI-03,home,collected,2026-05-04 08:18:00,PHJAI003
+nova_jai_0051726,JAI-01,home,collected,2026-05-08 12:56:00,PHJAI016
+nova_jai_0051727,JAI-04,home,collected,2026-05-21 19:20:00,PHJAI046
+nova_jai_0051728,JAI-04,home,collected,2026-05-13 17:01:00,PHJAI003
+nova_jai_0051729,JAI-01,home,collected,2026-05-01 14:00:00,PHJAI007
+nova_jai_0051730,JAI-03,home,collected,2026-05-02 17:47:00,PHJAI023
+nova_jai_0051731,JAI-01,clinic,no_show,,
+nova_jai_0051732,JAI-04,clinic,collected,2026-05-19 11:33:00,
+nova_jai_0051733,JAI-01,clinic,collected,2026-05-20 09:31:00,
+nova_jai_0051734,JAI-01,clinic,collected,2026-05-25 07:34:00,
+nova_jai_0051735,JAI-01,clinic,collected,2026-05-17 19:54:00,
+nova_jai_0051736,JAI-02,clinic,collected,2026-05-16 07:49:00,
+nova_jai_0051737,JAI-04,home,collected,2026-05-17 17:21:00,PHJAI002
+nova_jai_0051738,JAI-03,clinic,collected,2026-05-10 17:06:00,
+nova_jai_0051739,JAI-03,clinic,collected,2026-05-04 16:25:00,
+nova_jai_0051740,JAI-03,clinic,collected,2026-05-15 07:36:00,
+nova_jai_0051741,JAI-04,clinic,collected,2026-05-17 12:05:00,
+nova_jai_0051742,JAI-02,clinic,collected,2026-05-17 19:01:00,
+nova_jai_0051743,JAI-04,clinic,collected,2026-05-11 17:25:00,
+nova_jai_0051744,JAI-02,home,collected,2026-05-26 18:09:00,PHJAI021
+nova_jai_0051745,JAI-02,clinic,no_show,,
+nova_jai_0051746,JAI-01,clinic,collected,2026-05-14 08:04:00,
+nova_jai_0051747,JAI-01,clinic,collected,2026-05-02 10:26:00,
+nova_jai_0051748,JAI-02,clinic,collected,2026-05-11 11:30:00,
+nova_jai_0051749,JAI-02,clinic,collected,2026-05-04 13:01:00,
+nova_jai_0051750,JAI-04,clinic,collected,2026-05-12 17:03:00,
+nova_jai_0051751,JAI-01,home,collected,2026-05-08 08:52:00,PHJAI038
+nova_jai_0051752,JAI-02,clinic,collected,2026-05-29 11:18:00,
+nova_jai_0051753,JAI-02,clinic,collected,2026-05-20 13:56:00,
+nova_jai_0051754,JAI-03,home,no_show,,PHJAI012
+nova_jai_0051755,JAI-01,clinic,collected,2026-05-07 19:26:00,
+nova_jai_0051756,JAI-04,clinic,collected,2026-05-03 11:36:00,
+nova_jai_0051757,JAI-03,home,collected,2026-05-05 09:44:00,PHJAI058
+nova_jai_0051758,JAI-02,home,collected,2026-05-06 09:56:00,PHJAI044
+nova_jai_0051759,JAI-04,clinic,no_show,,
+nova_jai_0051760,JAI-04,home,collected,2026-05-04 07:15:00,PHJAI022
+nova_jai_0051761,JAI-02,clinic,collected,2026-05-07 07:26:00,
+nova_jai_0051762,JAI-03,home,no_show,,PHJAI019
+nova_jai_0051763,JAI-03,clinic,collected,2026-05-17 13:29:00,
+nova_jai_0051764,JAI-02,clinic,no_show,,
+nova_jai_0051765,JAI-03,home,collected,2026-05-07 10:14:00,PHJAI052
+nova_jai_0051766,JAI-03,home,collected,2026-05-20 09:58:00,PHJAI004
+nova_jai_0051768,JAI-01,clinic,collected,2026-05-14 18:49:00,
+nova_jai_0051769,JAI-02,home,collected,2026-05-14 11:38:00,PHJAI009
+nova_jai_0051770,JAI-01,home,collected,2026-05-13 07:16:00,PHJAI055
+nova_jai_0051771,JAI-02,home,collected,2026-05-14 11:40:00,PHJAI037
+nova_jai_0051772,JAI-02,home,collected,2026-05-21 12:02:00,PHJAI027
+nova_jai_0051773,JAI-01,home,collected,2026-05-03 17:47:00,PHJAI010
+nova_jai_0051774,JAI-04,clinic,collected,2026-05-04 13:25:00,
+nova_jai_0051775,JAI-01,home,no_show,,PHJAI042
+nova_jai_0051776,JAI-02,home,collected,2026-05-24 11:41:00,PHJAI035
+nova_jai_0051778,JAI-04,clinic,collected,2026-05-30 18:54:00,
+nova_jai_0051779,JAI-02,clinic,collected,2026-05-07 08:24:00,
+nova_jai_0051780,JAI-02,clinic,collected,2026-05-14 19:01:00,
+nova_jai_0051781,JAI-01,clinic,collected,2026-05-07 09:06:00,
+nova_jai_0051782,JAI-03,clinic,collected,2026-05-21 09:47:00,
+nova_jai_0051783,JAI-01,home,collected,2026-05-30 13:47:00,PHJAI052
+nova_jai_0051784,JAI-03,home,collected,2026-05-16 10:00:00,PHJAI014
+nova_jai_0051785,JAI-01,home,collected,2026-05-28 12:26:00,PHJAI058
+nova_jai_0051786,JAI-01,clinic,collected,2026-05-19 08:13:00,
+nova_jai_0051787,JAI-04,clinic,collected,2026-05-14 13:10:00,
+nova_jai_0051788,JAI-03,clinic,collected,2026-05-26 10:22:00,
+nova_jai_0051789,JAI-04,clinic,collected,2026-05-06 08:01:00,
+nova_jai_0051790,JAI-02,clinic,collected,2026-05-19 13:24:00,
+nova_jai_0051791,JAI-01,home,collected,2026-05-06 10:25:00,PHJAI047
+nova_jai_0051792,JAI-04,home,collected,2026-05-03 10:11:00,PHJAI028
+nova_jai_0051793,JAI-03,home,collected,2026-05-20 08:42:00,PHJAI006
+nova_jai_0051794,JAI-02,clinic,collected,2026-05-06 12:04:00,
+nova_jai_0051795,JAI-02,home,collected,2026-05-29 13:24:00,PHJAI020
+nova_jai_0051796,JAI-03,clinic,collected,2026-05-02 06:19:00,
+nova_jai_0051797,JAI-01,clinic,collected,2026-05-23 17:08:00,
+nova_jai_0051798,JAI-01,clinic,collected,2026-05-06 08:50:00,
+nova_jai_0051799,JAI-04,home,no_show,,PHJAI050
+nova_jai_0051800,JAI-02,clinic,collected,2026-05-12 14:29:00,
+nova_jai_0051801,JAI-02,clinic,no_show,,
+nova_jai_0051802,JAI-04,home,collected,2026-05-12 07:58:00,PHJAI057
+nova_jai_0051803,JAI-03,clinic,collected,2026-05-04 14:05:00,
+nova_jai_0051804,JAI-03,home,collected,2026-05-22 17:14:00,PHJAI053
+nova_jai_0051805,JAI-04,clinic,collected,2026-05-17 17:10:00,
+nova_jai_0051806,JAI-01,clinic,collected,2026-05-31 09:13:00,
+nova_jai_0051807,JAI-03,home,collected,2026-05-05 12:01:00,PHJAI034
+nova_jai_0051808,JAI-03,clinic,collected,2026-05-13 09:16:00,
+nova_jai_0051809,JAI-04,clinic,collected,2026-05-26 07:35:00,
+nova_jai_0051811,JAI-02,home,no_show,,PHJAI051
+nova_jai_0051812,JAI-02,clinic,collected,2026-05-16 13:41:00,
+nova_jai_0051813,JAI-03,clinic,collected,2026-05-25 07:45:00,
+nova_jai_0051814,JAI-04,clinic,collected,2026-05-20 07:37:00,
+nova_jai_0051815,JAI-01,clinic,collected,2026-05-06 20:00:00,
+nova_jai_0051816,JAI-02,home,collected,2026-05-07 13:12:00,PHJAI012
+nova_jai_0051817,JAI-01,clinic,collected,2026-05-28 10:53:00,
+nova_jai_0051818,JAI-01,home,collected,2026-05-03 14:22:00,PHJAI041
+nova_jai_0051819,JAI-04,home,no_show,,PHJAI033
+nova_jai_0051820,JAI-03,home,collected,2026-05-11 06:14:00,PHJAI006
+nova_jai_0051821,JAI-01,clinic,collected,2026-05-30 08:01:00,
+nova_jai_0051822,JAI-01,home,collected,2026-05-01 08:06:00,PHJAI056
+nova_jai_0051823,JAI-05,clinic,no_show,,
+nova_jai_0051824,JAI-01,clinic,no_show,,
+nova_jai_0051825,JAI-03,home,collected,2026-05-24 08:22:00,PHJAI050
+nova_jai_0051826,JAI-01,clinic,collected,2026-05-19 12:35:00,
+nova_jai_0051827,JAI-03,clinic,collected,2026-05-23 11:22:00,
+nova_jai_0051828,JAI-01,clinic,collected,2026-05-29 08:01:00,
+nova_jai_0051829,JAI-01,home,collected,2026-05-21 08:56:00,PHJAI044
+nova_jai_0051830,JAI-01,clinic,collected,2026-05-02 09:07:00,
+nova_jai_0051831,JAI-01,home,no_show,,PHJAI058
+nova_jai_0051832,JAI-02,home,collected,2026-05-29 18:58:00,PHJAI047
+nova_jai_0051833,JAI-04,clinic,no_show,,
+nova_jai_0051834,JAI-04,clinic,no_show,,
+nova_jai_0051835,JAI-03,clinic,collected,2026-05-28 06:51:00,
+nova_jai_0051836,JAI-03,home,collected,2026-05-02 07:44:00,PHJAI042
+nova_jai_0051837,JAI-02,clinic,collected,2026-05-24 12:55:00,
+nova_jai_0051838,JAI-01,clinic,collected,2026-05-10 11:04:00,
+nova_jai_0051839,JAI-01,home,collected,2026-05-23 11:47:00,PHJAI027
+nova_jai_0051840,JAI-04,home,collected,2026-05-05 12:21:00,PHJAI022
+nova_jai_0051841,JAI-03,home,collected,2026-05-17 07:25:00,PHJAI042
+nova_jai_0051842,JAI-01,clinic,collected,2026-05-21 09:51:00,
+nova_jai_0051843,JAI-02,clinic,collected,2026-05-01 12:52:00,
+nova_jai_0051844,JAI-02,clinic,collected,2026-05-22 11:57:00,
+nova_jai_0051845,JAI-01,home,collected,2026-05-05 09:21:00,PHJAI004
+nova_jai_0051846,JAI-02,home,collected,2026-05-12 09:52:00,PHJAI022
+nova_jai_0051847,JAI-02,clinic,collected,2026-05-19 12:24:00,
+nova_jai_0051848,JAI-01,clinic,collected,2026-05-15 06:17:00,
+nova_jai_0051849,JAI-03,home,no_show,,PHJAI029
+nova_jai_0051850,JAI-02,clinic,no_show,,
+nova_jai_0051851,JAI-04,clinic,no_show,,
+nova_jai_0051852,JAI-01,home,collected,2026-05-18 13:26:00,PHJAI018
+nova_jai_0051854,JAI-01,clinic,collected,2026-05-04 06:38:00,
+nova_jai_0051855,JAI-03,clinic,no_show,,
+nova_jai_0051856,JAI-03,home,collected,2026-05-21 07:51:00,PHJAI033
+nova_jai_0051857,JAI-02,clinic,no_show,,
+nova_jai_0051858,JAI-01,home,collected,2026-05-07 20:03:00,PHJAI011
+nova_jai_0051859,JAI-02,clinic,collected,2026-05-22 10:06:00,
+nova_jai_0051860,JAI-04,clinic,no_show,,
+nova_jai_0051861,JAI-02,clinic,collected,2026-05-22 12:09:00,
+nova_jai_0051862,JAI-04,home,collected,2026-05-02 12:30:00,PHJAI043
+nova_jai_0051863,JAI-04,clinic,no_show,,
+nova_jai_0051864,JAI-01,clinic,collected,2026-05-12 10:08:00,
+nova_jai_0051865,JAI-01,clinic,collected,2026-05-06 20:24:00,
+nova_jai_0051866,JAI-03,clinic,no_show,,
+nova_jai_0051867,JAI-03,clinic,no_show,,
+nova_jai_0051868,JAI-02,clinic,no_show,,
+nova_jai_0051869,JAI-01,home,collected,2026-05-18 20:54:00,PHJAI011
+nova_jai_0051870,JAI-02,clinic,no_show,,
+nova_jai_0051871,JAI-01,home,collected,2026-05-11 09:32:00,PHJAI040
+nova_jai_0051872,JAI-01,home,collected,2026-05-08 12:36:00,PHJAI036
+nova_jai_0051873,JAI-02,home,collected,2026-05-03 17:51:00,PHJAI046
+nova_jai_0051874,JAI-03,clinic,collected,2026-05-27 13:22:00,
+nova_jai_0051875,JAI-02,home,collected,2026-05-22 10:21:00,PHJAI029
+nova_jai_0051876,JAI-02,clinic,no_show,,
+nova_jai_0051877,JAI-02,home,collected,2026-05-01 19:18:00,PHJAI046
+nova_jai_0051878,JAI-03,home,collected,2026-05-02 08:55:00,PHJAI017
+nova_jai_0051879,JAI-01,home,no_show,,PHJAI058
+nova_jai_0051880,JAI-04,clinic,no_show,,
+nova_jai_0051881,JAI-01,clinic,no_show,,
+nova_jai_0051882,JAI-01,clinic,collected,2026-05-14 12:02:00,
+nova_jai_0051883,JAI-03,home,collected,2026-05-17 09:01:00,PHJAI038
+nova_jai_0051884,JAI-02,home,collected,2026-05-15 11:17:00,PHJAI028
+nova_jai_0051885,JAI-03,home,collected,2026-05-08 13:40:00,PHJAI011
+nova_jai_0051886,JAI-03,clinic,collected,2026-05-03 14:28:00,
+nova_jai_0051887,JAI-02,home,no_show,,PHJAI027
+nova_jai_0051888,JAI-03,clinic,collected,2026-05-17 07:26:00,
+nova_jai_0051889,JAI-01,clinic,collected,2026-05-24 07:09:00,
+nova_jai_0051890,JAI-02,clinic,collected,2026-05-19 19:33:00,
+nova_jai_0051891,JAI-02,clinic,collected,2026-05-14 08:03:00,
+nova_jai_0051892,JAI-03,clinic,collected,2026-05-17 13:03:00,
+nova_jai_0051893,JAI-01,home,collected,2026-05-25 14:49:00,PHJAI026
+nova_jai_0051894,JAI-01,clinic,collected,2026-05-15 10:05:00,
+nova_jai_0051895,JAI-01,home,collected,2026-05-20 06:56:00,PHJAI010
+nova_jai_0051896,JAI-03,home,collected,2026-05-19 12:54:00,PHJAI057
+nova_jai_0051897,JAI-02,clinic,collected,2026-05-21 18:27:00,
+nova_jai_0051898,JAI-01,home,collected,2026-05-08 13:45:00,PHJAI056
+nova_jai_0051899,JAI-01,clinic,collected,2026-05-17 11:11:00,
+nova_jai_0051900,JAI-01,home,collected,2026-05-09 05:59:00,PHJAI049
+nova_jai_0051901,JAI-04,home,collected,2026-05-06 17:28:00,PHJAI038
+nova_jai_0051902,JAI-02,clinic,collected,2026-05-04 13:11:00,
+nova_jai_0051903,JAI-02,home,collected,2026-05-15 10:23:00,PHJAI011
+nova_jai_0051904,JAI-01,clinic,collected,2026-05-27 17:45:00,
+nova_jai_0051905,JAI-03,clinic,collected,2026-05-14 11:49:00,
+nova_jai_0051906,JAI-01,clinic,collected,2026-05-24 07:59:00,
+nova_jai_0051907,JAI-01,clinic,collected,2026-05-16 06:45:00,
+nova_jai_0051908,JAI-03,clinic,no_show,,
+nova_jai_0051909,JAI-02,clinic,no_show,,
+nova_jai_0051910,JAI-01,home,collected,2026-05-06 12:51:00,PHJAI037
+nova_jai_0051912,JAI-01,home,collected,2026-05-30 06:50:00,PHJAI054
+nova_jai_0051913,JAI-03,home,collected,2026-05-07 07:28:00,PHJAI043
+nova_jai_0051914,JAI-02,clinic,collected,2026-05-06 08:51:00,
+nova_jai_0051916,JAI-01,home,collected,2026-05-12 11:16:00,PHJAI031
+nova_jai_0051917,JAI-03,clinic,collected,2026-05-12 11:55:00,
+nova_jai_0051918,JAI-01,clinic,collected,2026-05-08 08:48:00,
+nova_jai_0051919,JAI-01,clinic,collected,2026-05-22 16:53:00,
+nova_jai_0051920,JAI-02,clinic,collected,2026-05-18 06:04:00,
+nova_jai_0051921,JAI-02,clinic,collected,2026-05-01 18:26:00,
+nova_jai_0051922,JAI-03,clinic,collected,2026-05-30 09:26:00,
+nova_jai_0051923,JAI-03,clinic,collected,2026-05-07 10:15:00,
+nova_jai_0051924,JAI-02,clinic,collected,2026-05-17 19:51:00,
+nova_jai_0051925,JAI-03,clinic,collected,2026-05-12 06:27:00,
+nova_jai_0051926,JAI-02,home,collected,2026-05-30 20:15:00,PHJAI057
+nova_jai_0051927,JAI-01,clinic,no_show,,
+nova_jai_0051928,JAI-04,clinic,collected,2026-05-10 08:19:00,
+nova_jai_0051929,JAI-01,clinic,collected,2026-05-01 17:33:00,
+nova_jai_0051930,JAI-01,home,collected,2026-05-15 09:45:00,PHJAI002
+nova_jai_0051931,JAI-01,clinic,collected,2026-05-17 17:51:00,
+nova_jai_0051932,JAI-04,clinic,collected,2026-05-14 18:00:00,
+nova_jai_0051933,JAI-03,clinic,collected,2026-05-06 09:17:00,
+nova_jai_0051934,JAI-02,home,collected,2026-05-26 06:33:00,PHJAI015
+nova_jai_0051935,JAI-02,home,collected,2026-05-23 10:23:00,PHJAI048
+nova_jai_0051936,JAI-04,clinic,collected,2026-05-22 09:44:00,
+nova_jai_0051937,JAI-02,home,no_show,,PHJAI055
+nova_jai_0051938,JAI-01,clinic,collected,2026-05-02 17:56:00,
+nova_jai_0051939,JAI-03,home,collected,2026-05-13 05:49:00,PHJAI041
+nova_jai_0051940,JAI-04,clinic,collected,2026-05-21 06:50:00,
+nova_jai_0051941,JAI-04,home,collected,2026-05-05 15:58:00,PHJAI047
+nova_jai_0051942,JAI-03,clinic,no_show,,
+nova_jai_0051943,JAI-04,clinic,collected,2026-05-16 09:59:00,
+nova_jai_0051944,JAI-03,home,collected,2026-05-30 20:54:00,PHJAI008
+nova_jai_0051946,JAI-03,clinic,collected,2026-05-09 08:55:00,
+nova_jai_0051947,JAI-03,home,collected,2026-05-12 13:40:00,PHJAI036
+nova_jai_0051948,JAI-02,clinic,collected,2026-05-17 09:15:00,
+nova_jai_0051949,JAI-02,home,no_show,,PHJAI044
+nova_jai_0051950,JAI-02,clinic,collected,2026-05-16 07:31:00,
+nova_jai_0051951,JAI-04,clinic,collected,2026-05-29 10:29:00,
+nova_jai_0051952,JAI-03,home,collected,2026-05-10 18:47:00,PHJAI045
+nova_jai_0051953,JAI-02,home,collected,2026-05-15 17:31:00,PHJAI039
+nova_jai_0051955,JAI-01,home,collected,2026-05-18 11:18:00,PHJAI036
+nova_jai_0051956,JAI-01,clinic,collected,2026-05-03 19:25:00,
+nova_jai_0051957,JAI-01,clinic,collected,2026-05-15 13:15:00,
+nova_jai_0051958,JAI-01,clinic,collected,2026-05-18 13:58:00,
+nova_jai_0051959,JAI-01,clinic,collected,2026-05-03 17:31:00,
+nova_jai_0051960,JAI-03,home,collected,2026-05-02 05:52:00,PHJAI014
+nova_jai_0051961,JAI-02,clinic,collected,2026-05-02 09:57:00,
+nova_jai_0051962,JAI-01,home,collected,2026-05-20 11:42:00,PHJAI012
+nova_jai_0051963,JAI-02,clinic,collected,2026-05-21 10:36:00,
+nova_jai_0051964,JAI-03,clinic,collected,2026-05-30 16:33:00,
+nova_jai_0051965,JAI-03,clinic,collected,2026-05-11 14:40:00,
+nova_jai_0051966,JAI-01,clinic,collected,2026-05-17 16:01:00,
+nova_jai_0051967,JAI-02,clinic,collected,2026-05-30 13:17:00,
+nova_jai_0051968,JAI-01,clinic,collected,2026-05-12 10:25:00,
+nova_jai_0051969,JAI-01,clinic,collected,2026-05-12 08:12:00,
+nova_jai_0051970,JAI-01,clinic,collected,2026-05-16 12:45:00,
+nova_jai_0051971,JAI-01,home,collected,2026-05-28 12:38:00,PHJAI047
+nova_jai_0051972,JAI-02,clinic,collected,2026-05-04 19:47:00,
+nova_jai_0051973,JAI-01,home,collected,2026-05-28 13:36:00,PHJAI011
+nova_jai_0051974,JAI-01,clinic,no_show,,
+nova_jai_0051975,JAI-01,clinic,collected,2026-05-06 15:20:00,
+nova_jai_0051977,JAI-01,clinic,collected,2026-05-08 09:05:00,
+nova_jai_0051978,JAI-01,home,collected,2026-05-22 18:59:00,PHJAI027
+nova_jai_0051979,JAI-02,home,collected,2026-05-30 12:58:00,PHJAI057
+nova_jai_0051980,JAI-01,clinic,no_show,,
+nova_jai_0051981,JAI-04,clinic,collected,2026-05-19 19:26:00,
+nova_jai_0051982,JAI-02,clinic,collected,2026-05-29 14:05:00,
+nova_jai_0051983,JAI-05,clinic,collected,2026-05-26 19:21:00,
+nova_jai_0051984,JAI-02,home,collected,2026-05-16 18:52:00,PHJAI034
+nova_jai_0051985,JAI-04,home,collected,2026-05-27 14:35:00,PHJAI019
+nova_jai_0051986,JAI-02,clinic,collected,2026-05-14 15:02:00,
+nova_jai_0051987,JAI-02,home,collected,2026-05-07 12:14:00,PHJAI026
+nova_jai_0051988,JAI-01,clinic,collected,2026-05-02 06:40:00,
+nova_jai_0051989,JAI-05,clinic,collected,2026-05-11 13:35:00,
+nova_jai_0051990,JAI-02,clinic,no_show,,
+nova_jai_0051991,JAI-01,home,collected,2026-05-15 10:44:00,PHJAI043
+nova_jai_0051992,JAI-02,clinic,collected,2026-05-17 07:56:00,
+nova_jai_0051993,JAI-03,clinic,collected,2026-05-09 07:47:00,
+nova_jai_0051994,JAI-04,clinic,collected,2026-05-24 10:35:00,
+nova_jai_0051995,JAI-01,clinic,collected,2026-05-23 07:23:00,
+nova_jai_0051996,JAI-04,home,collected,2026-05-10 06:47:00,PHJAI059
+nova_jai_0051997,JAI-04,home,collected,2026-05-08 10:26:00,PHJAI015
+nova_jai_0051998,JAI-02,home,collected,2026-05-27 09:41:00,PHJAI040
+nova_jai_0051999,JAI-01,clinic,collected,2026-05-12 14:34:00,
+nova_jai_0052000,JAI-02,clinic,collected,2026-05-26 10:19:00,
+nova_jai_0052001,JAI-02,clinic,no_show,,
+nova_jai_0052002,JAI-01,home,no_show,,PHJAI015
+nova_jai_0052003,JAI-01,home,collected,2026-05-22 07:55:00,PHJAI018
+nova_jai_0052004,JAI-01,clinic,collected,2026-05-17 10:02:00,
+nova_jai_0052005,JAI-04,clinic,no_show,,
+nova_jai_0052006,JAI-01,clinic,collected,2026-05-17 10:52:00,
+nova_jai_0052007,JAI-02,clinic,collected,2026-05-15 20:46:00,
+nova_jai_0052008,JAI-02,clinic,collected,2026-05-11 13:16:00,
+nova_jai_0052009,JAI-02,home,collected,2026-05-22 10:05:00,PHJAI030
+nova_jai_0052010,JAI-02,clinic,collected,2026-05-23 07:07:00,
+nova_jai_0052011,JAI-04,clinic,collected,2026-05-31 13:12:00,
+nova_jai_0052012,JAI-02,home,collected,2026-05-02 10:20:00,PHJAI038
+nova_jai_0052013,JAI-01,clinic,no_show,,
+nova_jai_0052014,JAI-01,clinic,collected,2026-05-17 13:40:00,
+nova_jai_0052015,JAI-02,home,collected,2026-05-21 08:04:00,PHJAI007
+nova_jai_0052016,JAI-01,clinic,collected,2026-05-01 08:51:00,
+nova_jai_0052017,JAI-02,home,collected,2026-05-23 10:52:00,PHJAI038
+nova_jai_0052019,JAI-01,clinic,collected,2026-05-26 19:51:00,
+nova_jai_0052020,JAI-02,clinic,collected,2026-05-09 16:54:00,
+nova_jai_0052021,JAI-01,clinic,collected,2026-05-13 14:33:00,
+nova_jai_0052023,JAI-01,clinic,collected,2026-05-07 10:16:00,
+nova_jai_0052024,JAI-03,home,collected,2026-05-15 12:03:00,PHJAI022
+nova_jai_0052025,JAI-03,home,collected,2026-05-08 11:33:00,PHJAI014
+nova_jai_0052026,JAI-01,clinic,collected,2026-05-07 17:51:00,
+nova_jai_0052027,JAI-01,clinic,collected,2026-05-19 12:17:00,
+nova_jai_0052028,JAI-02,clinic,collected,2026-05-15 09:26:00,
+nova_jai_0052029,JAI-02,clinic,collected,2026-05-18 11:32:00,
+nova_jai_0052030,JAI-03,home,collected,2026-05-25 17:20:00,PHJAI010
+nova_jai_0052031,JAI-02,home,collected,2026-05-05 19:45:00,PHJAI012
+nova_jai_0052032,JAI-02,clinic,collected,2026-05-13 08:23:00,
+nova_jai_0052033,JAI-02,clinic,collected,2026-05-11 09:04:00,
+nova_jai_0052034,JAI-05,home,collected,2026-05-15 09:17:00,PHJAI025
+nova_jai_0052035,JAI-01,home,collected,2026-05-17 09:11:00,PHJAI044
+nova_jai_0052036,JAI-02,clinic,collected,2026-05-11 12:56:00,
+nova_jai_0052037,JAI-01,home,collected,2026-05-18 17:22:00,PHJAI021
+nova_jai_0052038,JAI-02,clinic,no_show,,
+nova_jai_0052039,JAI-02,clinic,collected,2026-05-04 08:34:00,
+nova_jai_0052040,JAI-02,clinic,collected,2026-05-02 07:30:00,
+nova_jai_0052041,JAI-01,clinic,collected,2026-05-29 10:47:00,
+nova_jai_0052042,JAI-01,home,collected,2026-05-15 06:52:00,PHJAI056
+nova_jai_0052043,JAI-04,clinic,collected,2026-05-09 14:48:00,
+nova_jai_0052044,JAI-05,clinic,collected,2026-05-20 10:00:00,
+nova_jai_0052045,JAI-01,home,collected,2026-05-22 12:09:00,PHJAI053
+nova_jai_0052046,JAI-01,clinic,collected,2026-05-29 17:19:00,
+nova_jai_0052047,JAI-03,clinic,collected,2026-05-03 18:14:00,
+nova_jai_0052048,JAI-02,clinic,collected,2026-05-03 10:39:00,
+nova_jai_0052049,JAI-02,home,collected,2026-05-13 08:07:00,PHJAI022
+nova_jai_0052050,JAI-03,clinic,collected,2026-05-28 18:04:00,
+nova_jai_0052051,JAI-01,home,no_show,,PHJAI049
+nova_jai_0052052,JAI-04,clinic,no_show,,
+nova_jai_0052053,JAI-04,clinic,no_show,,
+nova_jai_0052054,JAI-01,home,collected,2026-05-31 11:49:00,PHJAI023
+nova_jai_0052055,JAI-04,home,collected,2026-05-26 17:34:00,PHJAI048
+nova_jai_0052056,JAI-01,clinic,no_show,,
+nova_jai_0052057,JAI-01,clinic,collected,2026-05-23 19:53:00,
+nova_jai_0052058,JAI-02,clinic,no_show,,
+nova_jai_0052060,JAI-01,clinic,collected,2026-05-13 07:27:00,
+nova_jai_0052061,JAI-03,home,collected,2026-05-02 11:14:00,PHJAI029
+nova_jai_0052062,JAI-03,clinic,collected,2026-05-17 12:09:00,
+nova_jai_0052063,JAI-04,clinic,collected,2026-05-29 17:20:00,
+nova_jai_0052064,JAI-02,clinic,collected,2026-05-29 17:14:00,
+nova_jai_0052065,JAI-01,home,no_show,,PHJAI039
+nova_jai_0052066,JAI-04,clinic,collected,2026-05-20 17:09:00,
+nova_jai_0052067,JAI-04,clinic,collected,2026-05-26 13:15:00,
+nova_jai_0052068,JAI-01,clinic,collected,2026-05-28 07:03:00,
+nova_jai_0052069,JAI-01,home,collected,2026-05-23 17:20:00,PHJAI041
+nova_jai_0052070,JAI-03,clinic,collected,2026-05-01 15:03:00,
+nova_jai_0052071,JAI-02,home,collected,2026-05-19 06:05:00,PHJAI030
+nova_jai_0052072,JAI-01,clinic,collected,2026-05-30 19:39:00,
+nova_jai_0052073,JAI-03,home,collected,2026-05-15 18:48:00,PHJAI052
+nova_jai_0052074,JAI-04,clinic,collected,2026-05-12 06:19:00,
+nova_jai_0052075,JAI-03,clinic,collected,2026-05-14 06:36:00,
+nova_jai_0052076,JAI-01,clinic,collected,2026-05-27 14:30:00,
+nova_jai_0052077,JAI-02,clinic,collected,2026-05-10 13:16:00,
+nova_jai_0052079,JAI-01,clinic,collected,2026-05-01 17:46:00,
+nova_jai_0052080,JAI-03,home,collected,2026-05-18 10:33:00,PHJAI031
+nova_jai_0052081,JAI-03,home,no_show,,PHJAI037
+nova_jai_0052082,JAI-03,clinic,collected,2026-05-04 19:33:00,
+nova_jai_0052083,JAI-04,home,collected,2026-05-06 12:36:00,PHJAI042
+nova_jai_0052084,JAI-04,clinic,collected,2026-05-21 17:43:00,
+nova_jai_0052085,JAI-03,home,collected,2026-05-10 13:21:00,PHJAI014
+nova_jai_0052086,JAI-03,clinic,collected,2026-05-04 10:23:00,
+nova_jai_0052087,JAI-03,home,collected,2026-05-30 18:20:00,PHJAI040
+nova_jai_0052088,JAI-03,home,collected,2026-05-13 17:29:00,PHJAI034
+nova_jai_0052089,JAI-04,clinic,collected,2026-05-01 10:29:00,
+nova_jai_0052090,JAI-01,home,collected,2026-05-20 09:05:00,PHJAI059
+nova_jai_0052091,JAI-01,clinic,collected,2026-05-04 11:46:00,
+nova_jai_0052092,JAI-01,home,no_show,,PHJAI019
+nova_jai_0052093,JAI-02,clinic,collected,2026-05-17 10:10:00,
+nova_jai_0052094,JAI-04,clinic,collected,2026-05-29 12:07:00,
+nova_jai_0052095,JAI-04,home,collected,2026-05-27 10:47:00,PHJAI037
+nova_jai_0052096,JAI-05,home,no_show,,PHJAI008
+nova_jai_0052097,JAI-02,clinic,collected,2026-05-01 18:11:00,
+nova_jai_0052098,JAI-02,clinic,no_show,,
+nova_jai_0052099,JAI-04,home,no_show,,PHJAI028
+nova_jai_0052100,JAI-01,clinic,collected,2026-05-28 16:57:00,
+nova_jai_0052101,JAI-02,clinic,collected,2026-05-29 07:38:00,
+nova_jai_0052102,JAI-02,home,collected,2026-05-04 07:12:00,PHJAI029
+nova_jai_0052103,JAI-02,clinic,no_show,,
+nova_jai_0052104,JAI-02,home,no_show,,PHJAI036
+nova_jai_0052105,JAI-02,home,collected,2026-05-30 20:06:00,PHJAI019
+nova_jai_0052106,JAI-02,home,collected,2026-05-13 12:26:00,PHJAI058
+nova_jai_0052107,JAI-03,clinic,collected,2026-05-04 06:22:00,
+nova_jai_0052108,JAI-04,clinic,collected,2026-05-26 20:44:00,
+nova_jai_0052109,JAI-03,clinic,collected,2026-05-13 06:45:00,
+nova_jai_0052110,JAI-02,home,collected,2026-05-01 12:09:00,PHJAI042
+nova_jai_0052111,JAI-04,clinic,collected,2026-05-26 11:03:00,
+nova_jai_0052112,JAI-01,clinic,collected,2026-05-18 09:08:00,
+nova_jai_0052113,JAI-01,home,collected,2026-05-18 11:17:00,PHJAI014
+nova_jai_0052114,JAI-03,clinic,collected,2026-05-17 07:13:00,
+nova_jai_0052115,JAI-01,home,collected,2026-05-13 12:52:00,PHJAI018
+nova_jai_0052116,JAI-01,home,no_show,,PHJAI048
+nova_jai_0052117,JAI-02,home,collected,2026-05-15 19:05:00,PHJAI034
+nova_jai_0052118,JAI-01,clinic,collected,2026-05-21 19:43:00,
+nova_jai_0052119,JAI-04,home,collected,2026-05-04 16:59:00,PHJAI029
+nova_jai_0052120,JAI-05,clinic,no_show,,
+nova_jai_0052121,JAI-01,home,no_show,,PHJAI054
+nova_jai_0052122,JAI-03,home,collected,2026-05-26 17:15:00,PHJAI040
+nova_jai_0052123,JAI-03,clinic,collected,2026-05-27 13:43:00,
+nova_jai_0052124,JAI-04,home,collected,2026-05-23 09:41:00,PHJAI059
+nova_jai_0052125,JAI-02,clinic,collected,2026-05-16 17:44:00,
+nova_jai_0052126,JAI-02,clinic,collected,2026-05-18 06:16:00,
+nova_jai_0052127,JAI-02,clinic,collected,2026-05-13 11:58:00,
+nova_jai_0052128,JAI-02,home,collected,2026-05-18 09:46:00,PHJAI038
+nova_jai_0052129,JAI-02,clinic,collected,2026-05-25 13:05:00,
+nova_jai_0052130,JAI-02,clinic,no_show,,
+nova_jai_0052131,JAI-02,clinic,collected,2026-05-23 11:12:00,
+nova_jai_0052132,JAI-01,home,collected,2026-05-28 18:46:00,PHJAI028
+nova_jai_0052134,JAI-01,clinic,collected,2026-05-27 11:15:00,
+nova_jai_0052135,JAI-02,clinic,collected,2026-05-06 12:55:00,
+nova_jai_0052136,JAI-02,home,collected,2026-05-26 14:39:00,PHJAI027
+nova_jai_0052137,JAI-01,home,collected,2026-05-04 13:04:00,PHJAI027
+nova_jai_0052138,JAI-03,clinic,collected,2026-05-01 12:50:00,
+nova_jai_0052139,JAI-01,home,collected,2026-05-13 10:34:00,PHJAI009
+nova_jai_0052140,JAI-01,home,collected,2026-05-21 10:01:00,PHJAI022
+nova_jai_0052141,JAI-02,clinic,no_show,,
+nova_jai_0052142,JAI-01,clinic,collected,2026-05-18 08:05:00,
+nova_jai_0052143,JAI-01,clinic,collected,2026-05-09 09:10:00,
+nova_jai_0052144,JAI-04,clinic,collected,2026-05-30 11:10:00,
+nova_jai_0052145,JAI-02,clinic,collected,2026-05-17 06:27:00,
+nova_jai_0052146,JAI-02,clinic,collected,2026-05-11 11:26:00,
+nova_jai_0052147,JAI-04,clinic,collected,2026-05-03 08:53:00,
+nova_jai_0052148,JAI-03,clinic,no_show,,
+nova_jai_0052149,JAI-04,home,collected,2026-05-14 14:07:00,PHJAI041
+nova_jai_0052150,JAI-01,clinic,collected,2026-05-14 18:07:00,
+nova_jai_0052151,JAI-02,home,collected,2026-05-21 20:32:00,PHJAI021
+nova_jai_0052152,JAI-01,clinic,collected,2026-05-21 13:16:00,
+nova_jai_0052153,JAI-04,home,collected,2026-05-15 13:50:00,PHJAI002
+nova_jai_0052154,JAI-01,home,no_show,,PHJAI004
+nova_jai_0052155,JAI-03,clinic,collected,2026-05-25 18:30:00,
+nova_jai_0052156,JAI-02,clinic,collected,2026-05-23 10:42:00,
+nova_jai_0052157,JAI-02,clinic,no_show,,
+nova_jai_0052158,JAI-03,home,collected,2026-05-29 11:35:00,PHJAI037
+nova_jai_0052159,JAI-02,clinic,collected,2026-05-08 19:53:00,
+nova_jai_0052160,JAI-01,home,collected,2026-05-26 11:26:00,PHJAI023
+nova_jai_0052161,JAI-01,clinic,no_show,,
+nova_jai_0052162,JAI-04,home,collected,2026-05-31 08:06:00,PHJAI040
+nova_jai_0052163,JAI-02,clinic,collected,2026-05-25 19:02:00,
+nova_jai_0052164,JAI-03,clinic,collected,2026-05-12 17:01:00,
+nova_jai_0052165,JAI-01,clinic,collected,2026-05-30 12:07:00,
+nova_jai_0052166,JAI-01,clinic,collected,2026-05-08 09:19:00,
+nova_jai_0052167,JAI-01,clinic,collected,2026-05-10 09:47:00,
+nova_jai_0052168,JAI-04,home,collected,2026-05-22 06:04:00,PHJAI052
+nova_jai_0052169,JAI-01,home,collected,2026-05-04 08:13:00,PHJAI009
+nova_jai_0052170,JAI-01,clinic,collected,2026-05-26 07:47:00,
+nova_jai_0052171,JAI-01,clinic,collected,2026-05-12 13:09:00,
+nova_jai_0052172,JAI-01,clinic,collected,2026-05-12 19:07:00,
+nova_jai_0052173,JAI-01,clinic,collected,2026-05-01 08:10:00,
+nova_jai_0052174,JAI-01,clinic,collected,2026-05-26 06:46:00,
+nova_jai_0052175,JAI-02,home,collected,2026-05-29 11:26:00,PHJAI043
+nova_jai_0052176,JAI-03,clinic,collected,2026-05-26 08:11:00,
+nova_jai_0052177,JAI-01,home,collected,2026-05-12 09:02:00,PHJAI051
+nova_jai_0052178,JAI-01,home,no_show,,PHJAI026
+nova_jai_0052179,JAI-03,clinic,collected,2026-05-27 10:46:00,
+nova_jai_0052180,JAI-02,home,collected,2026-05-27 07:25:00,PHJAI015
+nova_jai_0052181,JAI-02,home,collected,2026-05-29 19:21:00,PHJAI008
+nova_jai_0052182,JAI-04,clinic,collected,2026-05-07 10:28:00,
+nova_jai_0052183,JAI-02,clinic,collected,2026-05-08 09:15:00,
+nova_jai_0052184,JAI-03,clinic,collected,2026-05-19 11:34:00,
+nova_jai_0052185,JAI-02,clinic,no_show,,
+nova_jai_0052186,JAI-02,home,collected,2026-05-11 13:20:00,PHJAI035
+nova_jai_0052187,JAI-01,clinic,collected,2026-05-10 18:17:00,
+nova_jai_0052188,JAI-03,clinic,collected,2026-05-10 19:28:00,
+nova_jai_0052189,JAI-01,clinic,collected,2026-05-20 15:42:00,
+nova_jai_0052190,JAI-03,home,collected,2026-05-06 17:38:00,PHJAI013
+nova_jai_0052191,JAI-02,home,collected,2026-05-30 20:03:00,PHJAI048
+nova_jai_0052192,JAI-01,clinic,collected,2026-05-08 13:48:00,
+nova_jai_0052193,JAI-01,home,collected,2026-05-19 06:03:00,PHJAI031
+nova_jai_0052194,JAI-04,home,collected,2026-05-05 08:40:00,PHJAI029
+nova_jai_0052195,JAI-04,clinic,no_show,,
+nova_jai_0052196,JAI-01,home,collected,2026-05-30 12:48:00,PHJAI058
+nova_jai_0052197,JAI-03,home,no_show,,PHJAI019
+nova_jai_0052198,JAI-02,home,collected,2026-05-07 07:32:00,PHJAI004
+nova_jai_0052199,JAI-01,clinic,collected,2026-05-11 10:35:00,
+nova_jai_0052200,JAI-01,clinic,no_show,,
+nova_jai_0052201,JAI-04,clinic,collected,2026-05-16 20:18:00,
+nova_jai_0052202,JAI-02,clinic,collected,2026-05-10 16:52:00,
+nova_jai_0052203,JAI-03,clinic,collected,2026-05-14 17:39:00,
+nova_jai_0052204,JAI-02,clinic,collected,2026-05-23 10:44:00,
+nova_jai_0052205,JAI-01,clinic,collected,2026-05-16 17:04:00,
+nova_jai_0052206,JAI-03,home,collected,2026-05-12 17:03:00,PHJAI019
+nova_jai_0052207,JAI-01,home,no_show,,PHJAI044
+nova_jai_0052208,JAI-02,home,collected,2026-05-07 06:48:00,PHJAI014
+nova_jai_0052209,JAI-02,clinic,no_show,,
+nova_jai_0052210,JAI-01,home,no_show,,PHJAI022
+nova_jai_0052211,JAI-04,clinic,collected,2026-05-30 13:33:00,
+nova_jai_0052212,JAI-01,home,collected,2026-05-08 14:11:00,PHJAI041
+nova_jai_0052213,JAI-02,clinic,no_show,,
+nova_jai_0052215,JAI-02,clinic,collected,2026-05-31 16:14:00,
+nova_jai_0052216,JAI-01,clinic,collected,2026-05-27 10:43:00,
+nova_jai_0052217,JAI-02,clinic,collected,2026-05-29 06:12:00,
+nova_jai_0052218,JAI-02,home,collected,2026-05-05 09:59:00,PHJAI044
+nova_jai_0052219,JAI-04,clinic,collected,2026-05-05 13:38:00,
+nova_jai_0052220,JAI-04,clinic,no_show,,
+nova_jai_0052221,JAI-02,home,collected,2026-05-31 16:24:00,PHJAI059
+nova_jai_0052222,JAI-01,clinic,no_show,,
+nova_jai_0052223,JAI-02,clinic,collected,2026-05-03 20:15:00,
+nova_jai_0052224,JAI-01,clinic,collected,2026-05-29 12:34:00,
+nova_jai_0052225,JAI-03,home,no_show,,PHJAI014
+nova_jai_0052226,JAI-04,home,collected,2026-05-12 08:53:00,PHJAI056
+nova_jai_0052227,JAI-01,home,collected,2026-05-02 13:11:00,PHJAI001
+nova_jai_0052229,JAI-02,clinic,collected,2026-05-24 11:07:00,
+nova_jai_0052230,JAI-03,clinic,collected,2026-05-12 07:34:00,
+nova_jai_0052231,JAI-02,clinic,collected,2026-05-06 20:07:00,
+nova_jai_0052232,JAI-02,home,collected,2026-05-01 12:24:00,PHJAI013
+nova_jai_0052233,JAI-01,clinic,no_show,,
+nova_jai_0052234,JAI-01,home,collected,2026-05-29 07:36:00,PHJAI047
+nova_jai_0052235,JAI-01,home,collected,2026-05-09 12:53:00,PHJAI055
+nova_jai_0052236,JAI-02,home,collected,2026-05-02 20:17:00,PHJAI046
+nova_jai_0052237,JAI-02,home,collected,2026-05-09 19:32:00,PHJAI038
+nova_jai_0052239,JAI-01,clinic,collected,2026-05-23 17:48:00,
+nova_jai_0052240,JAI-03,clinic,collected,2026-05-31 10:10:00,
+nova_jai_0052241,JAI-04,clinic,collected,2026-05-14 12:54:00,
+nova_jai_0052242,JAI-01,clinic,collected,2026-05-17 12:10:00,
+nova_jai_0052243,JAI-01,home,collected,2026-05-16 19:24:00,PHJAI025
+nova_jai_0052244,JAI-01,clinic,collected,2026-05-17 06:25:00,
+nova_jai_0052245,JAI-03,home,collected,2026-05-30 18:07:00,PHJAI013
+nova_jai_0052246,JAI-01,home,collected,2026-05-31 09:35:00,PHJAI046
+nova_jai_0052247,JAI-04,home,collected,2026-05-26 18:13:00,PHJAI022
+nova_jai_0052248,JAI-03,clinic,collected,2026-05-04 15:53:00,
+nova_jai_0052249,JAI-04,home,collected,2026-05-19 06:59:00,PHJAI025
+nova_jai_0052250,JAI-04,clinic,collected,2026-05-08 10:47:00,
+nova_jai_0052251,JAI-02,clinic,collected,2026-05-14 09:55:00,
+nova_jai_0052252,JAI-02,clinic,collected,2026-05-26 10:57:00,
+nova_jai_0052253,JAI-03,home,collected,2026-05-29 13:33:00,PHJAI039
+nova_jai_0052254,JAI-01,home,collected,2026-05-01 15:58:00,PHJAI041
+nova_jai_0052255,JAI-03,clinic,collected,2026-05-25 19:38:00,
+nova_jai_0052256,JAI-01,clinic,collected,2026-05-13 06:12:00,
+nova_jai_0052257,JAI-04,clinic,collected,2026-05-17 18:43:00,
+nova_jai_0052258,JAI-01,clinic,collected,2026-05-12 13:28:00,
+nova_jai_0052260,JAI-01,clinic,collected,2026-05-25 19:12:00,
+nova_jai_0052261,JAI-01,clinic,collected,2026-05-15 08:30:00,
+nova_jai_0052262,JAI-03,clinic,collected,2026-05-09 17:53:00,
+nova_jai_0052263,JAI-03,clinic,collected,2026-05-11 16:29:00,
+nova_jai_0052264,JAI-01,clinic,collected,2026-05-05 13:47:00,
+nova_jai_0052265,JAI-02,home,collected,2026-05-29 13:02:00,PHJAI026
+nova_jai_0052266,JAI-03,clinic,collected,2026-05-09 06:41:00,
+nova_jai_0052267,JAI-03,clinic,collected,2026-05-20 06:55:00,
+nova_jai_0052269,JAI-03,clinic,collected,2026-05-03 11:34:00,
+nova_jai_0052270,JAI-01,home,collected,2026-05-15 11:47:00,PHJAI057
+nova_jai_0052271,JAI-01,clinic,collected,2026-05-30 09:16:00,
+nova_jai_0052272,JAI-02,home,collected,2026-05-15 09:13:00,PHJAI048
+nova_jai_0052273,JAI-01,home,no_show,,PHJAI042
+nova_jai_0052274,JAI-04,clinic,collected,2026-05-04 11:59:00,
+nova_jai_0052275,JAI-02,clinic,collected,2026-05-24 07:05:00,
+nova_jai_0052276,JAI-01,clinic,no_show,,
+nova_jai_0052277,JAI-02,home,collected,2026-05-07 19:14:00,PHJAI007
+nova_jai_0052278,JAI-02,clinic,collected,2026-05-16 11:17:00,
+nova_jai_0052279,JAI-02,home,collected,2026-05-30 11:48:00,PHJAI004
+nova_jai_0052280,JAI-01,home,collected,2026-05-15 16:30:00,PHJAI022
+nova_jai_0052281,JAI-02,home,collected,2026-05-03 17:23:00,PHJAI057
+nova_jai_0052282,JAI-02,clinic,collected,2026-05-22 10:08:00,
+nova_jai_0052283,JAI-04,home,no_show,,PHJAI031
+nova_jai_0052284,JAI-04,home,collected,2026-05-21 08:39:00,PHJAI059
+nova_jai_0052285,JAI-03,clinic,collected,2026-05-20 16:53:00,
+nova_jai_0052286,JAI-01,home,collected,2026-05-05 17:36:00,PHJAI028
+nova_jai_0052287,JAI-01,home,no_show,,PHJAI026
+nova_jai_0052288,JAI-01,home,collected,2026-05-24 07:21:00,PHJAI031
+nova_jai_0052289,JAI-02,clinic,no_show,,
+nova_jai_0052290,JAI-02,home,collected,2026-05-26 09:08:00,PHJAI051
+nova_jai_0052291,JAI-03,clinic,collected,2026-05-01 21:03:00,
+nova_jai_0052292,JAI-03,clinic,collected,2026-05-01 09:20:00,
+nova_jai_0052293,JAI-02,clinic,collected,2026-05-04 17:22:00,
+nova_jai_0052294,JAI-01,clinic,collected,2026-05-08 20:27:00,
+nova_jai_0052295,JAI-02,home,collected,2026-05-29 17:37:00,PHJAI004
+nova_jai_0052296,JAI-01,home,collected,2026-05-03 12:13:00,PHJAI032
+nova_jai_0052297,JAI-02,home,collected,2026-05-23 11:58:00,PHJAI031
+nova_jai_0052298,JAI-01,clinic,no_show,,
+nova_jai_0052299,JAI-03,clinic,collected,2026-05-24 08:21:00,
+nova_jai_0052300,JAI-03,clinic,collected,2026-05-07 09:35:00,
+nova_jai_0052301,JAI-03,home,collected,2026-05-13 09:19:00,PHJAI004
+nova_jai_0052302,JAI-01,home,collected,2026-05-02 12:08:00,PHJAI057
+nova_jai_0052303,JAI-03,home,collected,2026-05-13 07:25:00,PHJAI043
+nova_jai_0052304,JAI-03,home,collected,2026-05-30 17:36:00,PHJAI025
+nova_jai_0052305,JAI-01,home,collected,2026-05-27 11:55:00,PHJAI058
+nova_jai_0052306,JAI-04,home,collected,2026-05-10 11:01:00,PHJAI046
+nova_jai_0052307,JAI-03,home,collected,2026-05-19 12:20:00,PHJAI011
+nova_jai_0052308,JAI-02,clinic,no_show,,
+nova_jai_0052309,JAI-03,home,no_show,,PHJAI057
+nova_jai_0052310,JAI-01,clinic,collected,2026-05-30 07:45:00,
+nova_jai_0052311,JAI-01,clinic,no_show,,
+nova_jai_0052312,JAI-02,clinic,collected,2026-05-02 07:48:00,
+nova_jai_0052313,JAI-01,clinic,collected,2026-05-09 07:48:00,
+nova_jai_0052314,JAI-01,clinic,collected,2026-05-04 08:23:00,
+nova_jai_0052315,JAI-02,clinic,collected,2026-05-29 08:03:00,
+nova_jai_0052316,JAI-01,clinic,collected,2026-05-08 06:12:00,
+nova_jai_0052317,JAI-04,clinic,collected,2026-05-24 20:16:00,
+nova_jai_0052318,JAI-01,clinic,collected,2026-05-14 11:57:00,
+nova_jai_0052319,JAI-02,home,collected,2026-05-24 12:01:00,PHJAI037
+nova_jai_0052320,JAI-01,home,collected,2026-05-24 07:43:00,PHJAI022
+nova_jai_0052321,JAI-01,clinic,collected,2026-05-24 14:36:00,
+nova_jai_0052322,JAI-04,home,collected,2026-05-17 06:05:00,PHJAI025
+nova_jai_0052323,JAI-04,clinic,collected,2026-05-29 06:48:00,
+nova_jai_0052324,JAI-02,home,collected,2026-05-01 12:42:00,PHJAI036
+nova_jai_0052325,JAI-03,home,collected,2026-05-19 20:15:00,PHJAI050
+nova_jai_0052326,JAI-01,home,collected,2026-05-19 09:05:00,PHJAI032
+nova_jai_0052327,JAI-02,clinic,collected,2026-05-06 06:38:00,
+nova_jai_0052328,JAI-03,home,collected,2026-05-16 10:31:00,PHJAI057
+nova_jai_0052329,JAI-04,clinic,collected,2026-05-09 07:19:00,
+nova_jai_0052330,JAI-02,home,collected,2026-05-23 16:50:00,PHJAI019
+nova_jai_0052331,JAI-02,clinic,collected,2026-05-26 18:08:00,
+nova_jai_0052332,JAI-01,clinic,collected,2026-05-11 13:52:00,
+nova_jai_0052333,JAI-03,home,collected,2026-05-17 10:00:00,PHJAI054
+nova_jai_0052334,JAI-02,clinic,collected,2026-05-17 07:34:00,
+nova_jai_0052335,JAI-01,clinic,no_show,,
+nova_jai_0052336,JAI-03,clinic,collected,2026-05-24 10:35:00,
+nova_jai_0052337,JAI-01,home,collected,2026-05-25 12:07:00,PHJAI046
+nova_jai_0052338,JAI-04,home,collected,2026-05-01 20:35:00,PHJAI053
+nova_jai_0052339,JAI-01,clinic,collected,2026-05-28 07:14:00,
+nova_jai_0052340,JAI-01,clinic,collected,2026-05-30 08:21:00,
+nova_jai_0052341,JAI-01,clinic,collected,2026-05-26 09:58:00,
+nova_jai_0052342,JAI-03,home,collected,2026-05-11 18:05:00,PHJAI013
+nova_jai_0052343,JAI-03,clinic,collected,2026-05-03 09:33:00,
+nova_jai_0052344,JAI-01,home,collected,2026-05-09 12:27:00,PHJAI006
+nova_jai_0052345,JAI-01,home,collected,2026-05-30 06:07:00,PHJAI031
+nova_jai_0052346,JAI-04,clinic,collected,2026-05-30 10:22:00,
+nova_jai_0052347,JAI-03,home,collected,2026-05-09 11:07:00,PHJAI033
+nova_jai_0052348,JAI-03,clinic,collected,2026-05-28 10:57:00,
+nova_jai_0052349,JAI-05,home,collected,2026-05-09 10:07:00,PHJAI028
+nova_jai_0052350,JAI-01,clinic,collected,2026-05-03 09:01:00,
+nova_jai_0052351,JAI-03,clinic,collected,2026-05-04 18:21:00,
+nova_jai_0052352,JAI-02,home,collected,2026-05-09 18:54:00,PHJAI054
+nova_jai_0052353,JAI-02,clinic,no_show,,
+nova_jai_0052354,JAI-05,home,no_show,,PHJAI011
+nova_jai_0052355,JAI-02,clinic,no_show,,
+nova_jai_0052356,JAI-02,home,no_show,,PHJAI016
+nova_jai_0052357,JAI-03,clinic,collected,2026-05-08 11:36:00,
+nova_jai_0052358,JAI-01,home,collected,2026-05-11 18:02:00,PHJAI030
+nova_jai_0052359,JAI-01,clinic,collected,2026-05-14 07:07:00,
+nova_jai_0052360,JAI-02,clinic,collected,2026-05-14 09:24:00,
+nova_jai_0052361,JAI-04,clinic,collected,2026-05-22 10:43:00,
+nova_jai_0052362,JAI-02,clinic,no_show,,
+nova_jai_0052363,JAI-03,home,collected,2026-05-22 17:05:00,PHJAI046
+nova_jai_0052364,JAI-02,home,collected,2026-05-21 17:58:00,PHJAI027
+nova_jai_0052365,JAI-02,home,collected,2026-05-01 06:48:00,PHJAI014
+nova_jai_0052366,JAI-03,clinic,collected,2026-05-04 08:54:00,
+nova_jai_0052367,JAI-01,clinic,no_show,,
+nova_jai_0052368,JAI-05,clinic,collected,2026-05-11 07:12:00,
+nova_jai_0052369,JAI-01,home,collected,2026-05-26 20:44:00,PHJAI009
+nova_jai_0052370,JAI-01,clinic,collected,2026-05-19 16:08:00,
+nova_jai_0052371,JAI-01,clinic,collected,2026-05-26 16:59:00,
+nova_jai_0052372,JAI-03,home,no_show,,PHJAI022
+nova_jai_0052373,JAI-03,clinic,collected,2026-05-13 11:45:00,
+nova_jai_0052374,JAI-02,clinic,collected,2026-05-01 09:34:00,
+nova_jai_0052375,JAI-04,clinic,collected,2026-05-31 12:01:00,
+nova_jai_0052376,JAI-02,clinic,no_show,,
+nova_jai_0052377,JAI-05,clinic,collected,2026-05-10 10:08:00,
+nova_jai_0052378,JAI-04,clinic,collected,2026-05-08 07:09:00,
+nova_jai_0052379,JAI-04,clinic,collected,2026-05-02 21:15:00,
+nova_jai_0052380,JAI-01,home,collected,2026-05-10 12:15:00,PHJAI003
+nova_jai_0052381,JAI-02,clinic,no_show,,
+nova_jai_0052382,JAI-02,clinic,collected,2026-05-23 07:20:00,
+nova_jai_0052383,JAI-01,home,collected,2026-05-18 08:43:00,PHJAI024
+nova_jai_0052384,JAI-01,clinic,collected,2026-05-25 11:26:00,
+nova_jai_0052385,JAI-01,clinic,no_show,,
+nova_jai_0052386,JAI-02,clinic,collected,2026-05-22 12:17:00,
+nova_jai_0052387,JAI-03,clinic,collected,2026-05-06 21:01:00,
+nova_jai_0052388,JAI-01,clinic,collected,2026-05-15 07:01:00,
+nova_jai_0052390,JAI-01,clinic,collected,2026-05-13 16:39:00,
+nova_jai_0052391,JAI-02,clinic,collected,2026-05-28 13:09:00,
+nova_jai_0052392,JAI-02,home,collected,2026-05-21 11:37:00,PHJAI007
+nova_jai_0052393,JAI-02,home,collected,2026-05-11 09:31:00,PHJAI026
+nova_jai_0052394,JAI-03,clinic,collected,2026-05-10 06:16:00,
+nova_jai_0052395,JAI-02,clinic,collected,2026-05-11 11:16:00,
+nova_jai_0052396,JAI-02,clinic,collected,2026-05-26 13:59:00,
+nova_jai_0052397,JAI-02,home,collected,2026-05-17 08:23:00,PHJAI007
+nova_jai_0052398,JAI-02,home,collected,2026-05-26 08:20:00,PHJAI054
+nova_jai_0052399,JAI-04,home,collected,2026-05-27 09:48:00,PHJAI011
+nova_jai_0052400,JAI-02,home,collected,2026-05-09 07:21:00,PHJAI011
+nova_jai_0052401,JAI-01,clinic,collected,2026-05-24 10:20:00,
+nova_jai_0052402,JAI-04,clinic,collected,2026-05-20 09:22:00,
+nova_jai_0052403,JAI-02,clinic,collected,2026-05-22 13:28:00,
+nova_jai_0052404,JAI-01,home,collected,2026-05-05 20:11:00,PHJAI013
+nova_jai_0052405,JAI-02,home,collected,2026-05-30 09:18:00,PHJAI056
+nova_jai_0052406,JAI-02,home,collected,2026-05-02 06:06:00,PHJAI002
+nova_jai_0052407,JAI-01,clinic,no_show,,
+nova_jai_0052409,JAI-03,clinic,collected,2026-05-18 19:26:00,
+nova_jai_0052410,JAI-01,clinic,no_show,,
+nova_jai_0052411,JAI-04,clinic,collected,2026-05-05 08:00:00,
+nova_jai_0052412,JAI-01,clinic,collected,2026-05-25 07:06:00,
+nova_jai_0052413,JAI-02,clinic,collected,2026-05-12 09:20:00,
+nova_jai_0052414,JAI-01,home,no_show,,PHJAI048
+nova_jai_0052415,JAI-04,home,collected,2026-05-10 09:01:00,PHJAI002
+nova_jai_0052416,JAI-01,home,collected,2026-05-29 10:08:00,PHJAI038
+nova_jai_0052418,JAI-01,clinic,no_show,,
+nova_jai_0052419,JAI-03,home,collected,2026-05-02 06:34:00,PHJAI024
+nova_jai_0052420,JAI-02,home,no_show,,PHJAI058
+nova_jai_0052421,JAI-04,clinic,collected,2026-05-22 10:55:00,
+nova_jai_0052422,JAI-01,clinic,no_show,,
+nova_jai_0052423,JAI-01,clinic,collected,2026-05-04 10:53:00,
+nova_jai_0052424,JAI-01,home,collected,2026-05-27 10:06:00,PHJAI053
+nova_jai_0052425,JAI-02,clinic,collected,2026-05-15 19:17:00,
+nova_jai_0052426,JAI-01,home,collected,2026-05-21 07:51:00,PHJAI053
+nova_jai_0052427,JAI-01,home,collected,2026-05-14 06:02:00,PHJAI014
+nova_jai_0052428,JAI-04,home,collected,2026-05-07 08:29:00,PHJAI055
+nova_jai_0052429,JAI-03,clinic,collected,2026-05-29 18:17:00,
+nova_jai_0052430,JAI-02,home,collected,2026-05-07 09:44:00,PHJAI002
+nova_jai_0052431,JAI-01,clinic,no_show,,
+nova_jai_0052432,JAI-04,home,collected,2026-05-29 10:52:00,PHJAI037
+nova_jai_0052433,JAI-01,clinic,collected,2026-05-05 13:44:00,
+nova_jai_0052434,JAI-04,clinic,no_show,,
+nova_jai_0052435,JAI-01,clinic,collected,2026-05-19 09:30:00,
+nova_jai_0052436,JAI-02,clinic,no_show,,
+nova_jai_0052437,JAI-01,home,collected,2026-05-17 10:17:00,PHJAI052
+nova_jai_0052438,JAI-04,home,collected,2026-05-05 09:06:00,PHJAI038
+nova_jai_0052439,JAI-02,home,collected,2026-05-05 17:25:00,PHJAI034
+nova_jai_0052440,JAI-03,clinic,no_show,,
+nova_jai_0052441,JAI-03,clinic,collected,2026-05-08 07:52:00,
+nova_jai_0052442,JAI-01,clinic,collected,2026-05-15 19:06:00,
+nova_jai_0052444,JAI-02,home,collected,2026-05-20 11:03:00,PHJAI034
+nova_jai_0052445,JAI-03,clinic,collected,2026-05-14 18:30:00,
+nova_jai_0052446,JAI-01,home,collected,2026-05-22 09:28:00,PHJAI033
+nova_jai_0052447,JAI-01,home,collected,2026-05-05 08:43:00,PHJAI007
+nova_jai_0052448,JAI-04,clinic,collected,2026-05-04 11:09:00,
+nova_jai_0052450,JAI-04,home,collected,2026-05-30 19:05:00,PHJAI020
+nova_jai_0052451,JAI-01,home,collected,2026-05-31 18:42:00,PHJAI058
+nova_jai_0052452,JAI-05,home,collected,2026-05-30 18:10:00,PHJAI058
+nova_jai_0052453,JAI-03,home,collected,2026-05-03 12:39:00,PHJAI012
+nova_jai_0052454,JAI-03,home,no_show,,PHJAI013
+nova_jai_0052455,JAI-03,clinic,collected,2026-05-01 08:08:00,
+nova_jai_0052456,JAI-01,clinic,collected,2026-05-09 17:27:00,
+nova_jai_0052457,JAI-01,home,collected,2026-05-29 19:57:00,PHJAI037
+nova_jai_0052458,JAI-03,home,no_show,,PHJAI028
+nova_jai_0052459,JAI-01,clinic,collected,2026-05-04 06:28:00,
+nova_jai_0052460,JAI-01,clinic,collected,2026-05-17 09:27:00,
+nova_jai_0052461,JAI-02,clinic,collected,2026-05-30 14:54:00,
+nova_jai_0052462,JAI-01,home,collected,2026-05-16 12:20:00,PHJAI051
+nova_jai_0052463,JAI-01,clinic,collected,2026-05-31 07:17:00,
+nova_jai_0052464,JAI-02,home,collected,2026-05-24 11:19:00,PHJAI004
+nova_jai_0052465,JAI-02,home,collected,2026-05-24 14:17:00,PHJAI044
+nova_jai_0052466,JAI-02,home,collected,2026-05-28 08:05:00,PHJAI026
+nova_jai_0052467,JAI-01,clinic,collected,2026-05-17 07:14:00,
+nova_jai_0052468,JAI-04,clinic,collected,2026-05-31 20:05:00,
+nova_jai_0052469,JAI-01,clinic,no_show,,
+nova_jai_0052470,JAI-02,clinic,collected,2026-05-29 09:38:00,
+nova_jai_0052471,JAI-02,clinic,collected,2026-05-13 06:31:00,
+nova_jai_0052472,JAI-01,clinic,collected,2026-05-12 18:56:00,
+nova_jai_0052473,JAI-04,clinic,collected,2026-05-10 12:52:00,
+nova_jai_0052474,JAI-04,clinic,collected,2026-05-15 13:58:00,
+nova_jai_0052475,JAI-01,clinic,no_show,,
+nova_jai_0052476,JAI-02,clinic,collected,2026-05-10 09:53:00,
+nova_jai_0052477,JAI-01,clinic,collected,2026-05-06 09:11:00,
+nova_jai_0052478,JAI-01,clinic,collected,2026-05-28 07:39:00,
+nova_jai_0052479,JAI-02,clinic,collected,2026-05-04 09:00:00,
+nova_jai_0052480,JAI-01,clinic,collected,2026-05-27 07:37:00,
+nova_jai_0052481,JAI-02,clinic,collected,2026-05-17 19:27:00,
+nova_jai_0052482,JAI-03,clinic,collected,2026-05-19 17:42:00,
+nova_jai_0052483,JAI-03,home,collected,2026-05-25 09:17:00,PHJAI017
+nova_jai_0052484,JAI-03,clinic,collected,2026-05-12 07:55:00,
+nova_jai_0052485,JAI-01,clinic,collected,2026-05-12 08:04:00,
+nova_jai_0052486,JAI-02,clinic,collected,2026-05-21 10:08:00,
+nova_jai_0052487,JAI-04,clinic,collected,2026-05-21 09:34:00,
+nova_jai_0052488,JAI-01,home,collected,2026-05-27 13:35:00,PHJAI033
+nova_jai_0052489,JAI-01,clinic,collected,2026-05-21 17:56:00,
+nova_jai_0052490,JAI-02,clinic,collected,2026-05-19 10:38:00,
+nova_jai_0052491,JAI-03,home,collected,2026-05-18 14:06:00,PHJAI031
+nova_jai_0052492,JAI-01,clinic,collected,2026-05-24 12:44:00,
+nova_jai_0052493,JAI-02,clinic,collected,2026-05-15 12:49:00,
+nova_jai_0052494,JAI-03,home,collected,2026-05-25 11:47:00,PHJAI018
+nova_jai_0052495,JAI-03,clinic,collected,2026-05-17 07:00:00,
+nova_jai_0052496,JAI-02,home,collected,2026-05-13 20:33:00,PHJAI011
+nova_jai_0052497,JAI-01,clinic,no_show,,
+nova_jai_0052498,JAI-04,clinic,collected,2026-05-24 14:54:00,
+nova_jai_0052499,JAI-01,clinic,collected,2026-05-19 13:41:00,
+nova_jai_0052500,JAI-02,clinic,collected,2026-05-05 11:23:00,
+nova_jai_0052501,JAI-02,home,collected,2026-05-10 10:00:00,PHJAI040
+nova_jai_0052502,JAI-01,home,collected,2026-05-03 14:27:00,PHJAI058
+nova_jai_0052503,JAI-03,clinic,collected,2026-05-05 10:07:00,
+nova_jai_0052504,JAI-01,clinic,no_show,,
+nova_jai_0052505,JAI-02,home,collected,2026-05-03 10:56:00,PHJAI008
+nova_jai_0052506,JAI-01,home,collected,2026-05-30 12:57:00,PHJAI037
+nova_jai_0052507,JAI-03,home,collected,2026-05-13 20:18:00,PHJAI034
+nova_jai_0052508,JAI-01,clinic,collected,2026-05-02 20:53:00,
+nova_jai_0052509,JAI-01,home,collected,2026-05-09 18:54:00,PHJAI044
+nova_jai_0052510,JAI-04,home,collected,2026-05-13 11:25:00,PHJAI023
+nova_jai_0052511,JAI-01,clinic,no_show,,
+nova_jai_0052512,JAI-01,clinic,collected,2026-05-29 06:54:00,
+nova_jai_0052513,JAI-02,home,collected,2026-05-29 11:20:00,PHJAI049
+nova_jai_0052514,JAI-02,clinic,collected,2026-05-24 09:15:00,
+nova_jai_0052515,JAI-02,clinic,collected,2026-05-02 08:49:00,
+nova_jai_0052516,JAI-01,home,collected,2026-05-24 13:04:00,PHJAI035
+nova_jai_0052517,JAI-03,clinic,collected,2026-05-14 12:07:00,
+nova_jai_0052518,JAI-04,clinic,collected,2026-05-16 06:31:00,
+nova_jai_0052519,JAI-04,home,collected,2026-05-03 07:30:00,PHJAI013
+nova_jai_0052520,JAI-01,home,no_show,,PHJAI004
+nova_jai_0052521,JAI-03,clinic,collected,2026-05-21 09:27:00,
+nova_jai_0052522,JAI-04,clinic,collected,2026-05-11 18:53:00,
+nova_jai_0052523,JAI-01,home,collected,2026-05-03 08:23:00,PHJAI009
+nova_jai_0052524,JAI-01,home,collected,2026-05-10 14:48:00,PHJAI010
+nova_jai_0052525,JAI-03,home,collected,2026-05-21 20:25:00,PHJAI049
+nova_jai_0052526,JAI-03,home,collected,2026-05-31 10:08:00,PHJAI008
+nova_jai_0052527,JAI-01,clinic,collected,2026-05-09 14:16:00,
+nova_jai_0052528,JAI-01,home,collected,2026-05-01 19:58:00,PHJAI008
+nova_jai_0052529,JAI-02,clinic,collected,2026-05-15 19:42:00,
+nova_jai_0052530,JAI-04,clinic,collected,2026-05-30 15:55:00,
+nova_jai_0052531,JAI-01,clinic,collected,2026-05-14 11:33:00,
+nova_jai_0052532,JAI-04,clinic,collected,2026-05-19 10:44:00,
+nova_jai_0052533,JAI-03,clinic,collected,2026-05-11 11:33:00,
+nova_jai_0052534,JAI-02,clinic,collected,2026-05-08 09:56:00,
+nova_jai_0052535,JAI-04,clinic,collected,2026-05-14 07:27:00,
+nova_jai_0052536,JAI-02,clinic,collected,2026-05-31 20:19:00,
+nova_jai_0052537,JAI-03,clinic,no_show,,
+nova_jai_0052538,JAI-02,home,collected,2026-05-02 10:13:00,PHJAI057
+nova_jai_0052539,JAI-01,home,collected,2026-05-03 06:52:00,PHJAI024
+nova_jai_0052540,JAI-01,home,collected,2026-05-06 07:37:00,PHJAI022
+nova_jai_0052541,JAI-04,home,collected,2026-05-29 09:21:00,PHJAI045
+nova_jai_0052542,JAI-01,clinic,collected,2026-05-30 16:12:00,
+nova_jai_0049845,JAI-03,clinic,collected,2026-05-16 17:28:00,
+nova_jai_0049925,JAI-01,clinic,collected,2026-05-07 10:23:00,
+nova_jai_0050134,JAI-01,clinic,collected,2026-05-22 06:37:00,
+nova_jai_0050175,JAI-01,clinic,collected,2026-05-29 17:56:00,
+nova_jai_0050215,JAI-03,clinic,collected,2026-05-07 12:45:00,
+nova_jai_0050830,JAI-01,clinic,collected,2026-05-12 16:44:00,
+nova_jai_0050914,JAI-01,home,collected,2026-05-07 08:05:00,PHJAI034
+nova_jai_0051145,JAI-01,home,collected,2026-05-26 10:44:00,PHJAI021
+nova_jai_0051149,JAI-03,clinic,collected,2026-05-29 18:49:00,
+nova_jai_0051280,JAI-01,clinic,collected,2026-05-31 07:18:00,
+nova_jai_0051373,JAI-01,home,collected,2026-05-29 18:08:00,PHJAI017
+nova_jai_0051521,JAI-02,clinic,collected,2026-05-24 13:58:00,
+nova_jai_0051559,JAI-02,clinic,collected,2026-05-06 14:13:00,
+nova_jai_0051582,JAI-02,clinic,collected,2026-05-22 10:05:00,
+nova_jai_0051920,JAI-02,clinic,collected,2026-05-18 06:04:00,
+nova_jai_0051946,JAI-03,clinic,collected,2026-05-09 08:55:00,
+nova_jai_0051952,JAI-03,home,collected,2026-05-10 18:47:00,PHJAI045
+nova_jai_0051984,JAI-02,home,collected,2026-05-16 18:52:00,PHJAI034
+nova_jai_0052105,JAI-02,home,collected,2026-05-30 20:06:00,PHJAI019
+nova_jai_0052501,JAI-02,home,collected,2026-05-10 10:00:00,PHJAI040
