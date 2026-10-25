@@ -1,20 +1,21 @@
-# Project charter · Brief <LETTER> · Group <N>
+# Project charter · Brief A · Group 12
 
 The charter is the one page a sponsor signs before work starts. It says what will be delivered, by whom, by when, with what, and what counts as done. Fill it in Scope and commit it before the first notebook. Change it later only by adding a dated line under "Changes", never by silent edit.
 
 | | |
 |---|---|
-| Project | Build 1 · Data to Insight in Kalpa Health · Brief <LETTER>, <name> |
-| Sponsor | Dr Priya Menon, COO, Kalpa Health |
-| Reviewers | The finance controller (auditability); <the stakeholder your brief touches> |
-| Group | <N>: <member>, <member>, <member>, <member> |
-| Repository | <public URL> |
-| Working days | Three to four, ending with the presentation |
-| Charter committed on | <date> |
+| Project | Build 1 · Data to Insight in Kalpa Health · Brief A — Growth |
+| Sponsor | Dr. Priya Menon, COO, Kalpa Health |
+| Reviewers | Dr Priya Menon, COO (decision and board-level claim); the finance controller (auditability); the city heads (operational interpretation) |
+| Group | 12 : Gurunath Hirve, Harshit Agrawal, Mihir Soni |
+| Repository | https://github.com/iitgn-1711/c2-build1-brief-a-group-12 |
+| Working days | 6–7 Days |
+| Charter committed on | 24.10.2026 |
 
 ## 1. The question, in the sponsor's words
 
-> <paste the quote>
+> “Show me the part of my business that is short, by how much,
+and where.”
 
 ## 2. The question, in ours
 
@@ -50,7 +51,9 @@ The charter is the one page a sponsor signs before work starts. It says what wil
 
 | Member | Part owned | Notebooks | Also responsible for |
 |---|---|---|---|
-| | | | |
+| Gurunath Hirve | | | |
+| Harshit Agrawal| | | |
+| Mihir Soni| | | |
 
 ## 7. Risks, and what we do about them
 
