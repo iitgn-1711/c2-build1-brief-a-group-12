@@ -25,9 +25,9 @@
 
 | What | Where |
 |---|---|
-| Video | <link, viewable by anyone with the link> |
+| Video | https://drive.google.com/drive/folders/10sojFZ1b3Mm1k6Ae67oWUcGYlbcAUu45?usp=sharing |
 | Slides | `slides/` |
-| Task board | <link to Issues or Projects> |
+| Task board | https://github.com/users/GurunathHirve/projects/4 |
 | Data pack provenance | `data/raw/README.md` |
 
 ## The logs
