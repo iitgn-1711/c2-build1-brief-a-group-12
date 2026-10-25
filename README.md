@@ -13,7 +13,6 @@
 |Gurunath Hirve | | | |
 |Harshit Agrawal | | | |
 |Mihir Soni | | | |
-| | | | |
 
 ## How to run
 
