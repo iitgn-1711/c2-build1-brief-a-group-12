@@ -25,7 +25,7 @@
 
 | What | Where |
 |---|---|
-| Video | https://drive.google.com/drive/folders/10sojFZ1b3Mm1k6Ae67oWUcGYlbcAUu45?usp=sharing |
+| Video | https://drive.google.com/drive/folders/10sojFZ1b3Mm1k6Ae67oWUcGYlbcAUu45 |
 | Slides | `slides/` |
 | Task board | https://github.com/users/GurunathHirve/projects/4 |
 | Data pack provenance | `data/raw/README.md` |
